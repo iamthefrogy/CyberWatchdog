@@ -57,59 +57,40 @@ empty_pages=0  # Counter for consecutive empty pages
 
 # Initialize README.md
 rm -f README.md  # Remove any existing file
-echo "# **CyberWatchdog** 🐾🔍" > README.md
+echo "# **CyberWatchdog**" > README.md
 echo "" >> README.md
-echo "CyberWatchdog is your **DAILY FULLY AUTOMATED TRACKER** for the top GitHub repositories related to **cybersecurity**. By monitoring and curating trending repositories, CyberWatchdog ensures you stay up-to-date with the latest tools, frameworks, and research in the cybersecurity domain." >> README.md
+echo "**CyberWatchdog** is your daily tracker for the top GitHub repositories related to **cybersecurity**. By monitoring and curating trending repositories, CyberWatchdog ensures you stay up-to-date with the latest tools, frameworks, and research in the cybersecurity domain." >> README.md
 echo "" >> README.md
 echo "---" >> README.md
 echo "" >> README.md
 echo "## **How It Works**" >> README.md
 echo "" >> README.md
-echo "- **Automated Updates:** CyberWatchdog leverages GitHub Actions to automatically fetch and update the list of top cybersecurity repositories daily." >> README.md
-echo "- **Key Metrics Tracked:** The list highlights repositories with their stars, forks, and concise descriptions to give a quick overview of their relevance." >> README.md
-echo "- **Focus on Cybersecurity:** Only repositories tagged or associated with cybersecurity topics are included, ensuring highly focused and useful results." >> README.md
-echo "- **Rich Metadata:** Provides information like repository owner, project description, and last updated date to evaluate projects at a glance." >> README.md
+echo "- Automated Updates: CyberWatchdog leverages GitHub Actions to automatically fetch and update the list of top cybersecurity repositories daily." >> README.md
+echo "- Key Metrics Tracked: The list highlights repositories with their stars, forks, and concise descriptions to give a quick overview of their relevance." >> README.md
+echo "- Focus on Cybersecurity: Only repositories tagged or associated with cybersecurity topics are included, ensuring highly focused and useful results." >> README.md
+echo "- Rich Metadata: Provides information like repository owner, project description, and last updated date to evaluate projects at a glance." >> README.md
 echo "" >> README.md
 echo "---" >> README.md
 echo "" >> README.md
-echo "## **Features**" >> README.md
-echo "" >> README.md
-echo "- **Daily Updates**: A fresh list of top repositories every day." >> README.md
-echo "- **Focus on Security**: Only cybersecurity-related repositories are tracked." >> README.md
-echo "- **Key Metrics**: Stars, forks, and descriptions to gauge repository popularity and activity." >> README.md
-echo "- **Actionable Insights**: Repository descriptions and last update details help you decide what to explore further." >> README.md
-echo "" >> README.md
-echo "---" >> README.md
-echo "" >> README.md
-echo "## **Why Use CyberWatchdog?**" >> README.md
-echo "" >> README.md
-echo "Cybersecurity evolves rapidly, and staying updated with the best tools and frameworks is essential. CyberWatchdog ensures you never miss out on the top repositories by delivering an organized and easy-to-read list, making it a perfect companion for researchers, developers, and cybersecurity enthusiasts." >> README.md
-echo "" >> README.md
-echo "---" >> README.md
-echo "" >> README.md
-
-# Add summary section
-execution_time=$(( $(date +%s) - start_time ))
 echo "## **Summary of Today's Analysis**" >> README.md
 echo "" >> README.md
 echo "| Metric                          | Value                              |" >> README.md
 echo "|---------------------------------|------------------------------------|" >> README.md
-echo "| **Execution Date**              | $(date '+%Y-%m-%d %H:%M:%S')       |" >> README.md
-echo "| **Repositories Analyzed**       | $repos_analyzed                   |" >> README.md
-echo "| **Repositories Retrieved**      | $repos_retrieved                  |" >> README.md
-echo "| **Pages Processed**             | $pg                               |" >> README.md
-echo "| **Consecutive Empty Pages**     | $empty_pages                      |" >> README.md
-echo "| **Execution Time**              | ${execution_time}s                |" >> README.md
-echo "| **Rate Limit Remaining**        | $remaining                        |" >> README.md
-echo "| **Last Rate Limit Reset**       | $(date -d "@$reset_time" "+%Y-%m-%d %H:%M:%S") |" >> README.md
+echo "| Execution Date                  | $(date '+%Y-%m-%d %H:%M:%S')       |" >> README.md
+echo "| Repositories Analyzed           | 0                                  |" >> README.md
+echo "| Repositories Retrieved          | 0                                  |" >> README.md
+echo "| Pages Processed                 | $pg                               |" >> README.md
+echo "| Consecutive Empty Pages         | $empty_pages                      |" >> README.md
+echo "| Execution Time                  | 0s                                |" >> README.md
+echo "| Rate Limit Remaining            | $remaining                        |" >> README.md
+echo "| Last Rate Limit Reset           | $(date -d "@$reset_time" "+%Y-%m-%d %H:%M:%S") |" >> README.md
 echo "" >> README.md
 echo "---" >> README.md
 echo "" >> README.md
-
 echo "## **Top Cybersecurity Repositories (Updated: $(date '+%Y-%m-%d'))**" >> README.md
 echo "" >> README.md
-echo "| Repository (Link)                        | Stars   | Forks   | Description                     | Last Updated |" >> README.md
-echo "|------------------------------------------|---------|---------|---------------------------------|--------------|" >> README.md
+echo "| Repository (Link)               | Stars   | Forks   | Description                     | Last Updated |" >> README.md
+echo "|---------------------------------|---------|---------|---------------------------------|--------------|" >> README.md
 
 # Fetch repositories and format output
 for i in $(seq 1 $pg); do
@@ -118,12 +99,8 @@ for i in $(seq 1 $pg); do
 
     # Validate the response
     if ! echo "$page_response" | jq -e '.items | length > 0' > /dev/null 2>&1; then
-        echo -e "${RED}No repositories found or invalid response on page $i.${NC}"
         empty_pages=$((empty_pages + 1))
-
-        # Exit early if multiple consecutive empty pages
         if [[ $empty_pages -ge 3 ]]; then
-            echo -e "${YELLOW}Exiting early: Detected 3 consecutive empty pages.${NC}"
             break
         fi
         continue
@@ -143,35 +120,30 @@ for i in $(seq 1 $pg); do
         url=$(echo "$line" | jq -r '.html_url // "#"')
         repos_retrieved=$((repos_retrieved + 1))
 
-        # Truncate long descriptions
         short_desc=$(echo "$desc" | cut -c 1-50)
         [ ${#desc} -gt 50 ] && short_desc="$short_desc..."
 
-        # Cross-platform date formatting
         if [[ "$OSTYPE" == "darwin"* ]]; then
             updated_date=$(echo "$updated" | awk '{print $1}' | xargs -I {} date -u -jf "%Y-%m-%dT%H:%M:%SZ" {} "+%Y-%m-%d")
         else
             updated_date=$(date -d "$updated" "+%Y-%m-%d")
         fi
 
-        # Format the table row
         printf "| [%s](%s) | %-7s | %-7s | %-31s | %-12s |\n" "$name" "$url" "$stars" "$forks" "$short_desc" "$updated_date" >> README.md
     done
 done
 
+# Update summary metrics
+execution_time=$(( $(date +%s) - start_time ))
+sed -i "s/| Repositories Analyzed           | 0                                  |/| Repositories Analyzed           | $repos_analyzed                   |/" README.md
+sed -i "s/| Repositories Retrieved          | 0                                  |/| Repositories Retrieved          | $repos_retrieved                  |/" README.md
+sed -i "s/| Execution Time                  | 0s                                |/| Execution Time                  | ${execution_time}s                |/" README.md
+
 # Display summary and push updates
 if [ -s README.md ]; then
-    echo -e "${GREEN}Successfully updated README.md with top repositories for '$input'.${NC}"
-
-    # Set user details for commit
     git config --global user.email "github-actions@github.com"
     git config --global user.name "GitHub Actions Bot"
-
-    # Commit and push changes to GitHub
     git add README.md
     git commit -m "Update README with top repositories for '$input'"
     git push origin main
-else
-    echo -e "${RED}Error: No repositories were written to README.md.${NC}"
-    exit 1
 fi
