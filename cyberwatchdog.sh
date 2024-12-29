@@ -29,7 +29,7 @@ if [[ "$remaining" -eq 0 ]]; then
 fi
 
 # Hardcoded topic
-input="bugbounty"
+input="cyber"
 topic=$(echo "$input" | tr '[:upper:]' '[:lower:]' | tr " " "+")
 
 # Fetch the total count of repositories
