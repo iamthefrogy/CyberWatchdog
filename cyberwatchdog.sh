@@ -34,7 +34,8 @@ topic=$(echo "$input" | tr '[:upper:]' '[:lower:]' | tr " " "+")
 
 # Fetch the total count of repositories
 echo -e "${YELLOW}Fetching repository information for topic: ${GREEN}${input}${NC}"
-response=$(curl -s -H "Authorization: token $GITHUB_TOKEN" "https://api.github.com/search/repositories?q=stars%3A%3E50+$topic+sort:stars&per_page=5")
+response=$(curl -s -H "Authorization: token $GITHUB_TOKEN" \
+    "https://api.github.com/search/repositories?q=stars%3A%3E50+$topic+sort:stars&per_page=5")
 
 # Validate the API response
 if ! echo "$response" | jq -e . > /dev/null 2>&1; then
@@ -51,62 +52,71 @@ fi
 
 # Calculate pages needed
 pg=$(( (tpc + 99) / 100 ))
+
+# Initialize counters
 repos_analyzed=0
 repos_retrieved=0
-empty_pages=0  # Counter for consecutive empty pages
-pages_processed=0  # Total pages processed
+empty_pages=0
+pages_processed=0
 
-# Initialize README.md
-rm -f README.md  # Remove any existing file
-echo "# **CyberWatchdog**" > README.md
-echo "" >> README.md
-echo "**CyberWatchdog** is your daily tracker for the top GitHub repositories related to **cybersecurity**. By monitoring and curating trending repositories, CyberWatchdog ensures you stay up-to-date with the latest tools, frameworks, and research in the cybersecurity domain." >> README.md
-echo "" >> README.md
-echo "---" >> README.md
-echo "" >> README.md
-echo "## **How It Works**" >> README.md
-echo "" >> README.md
-echo "- Automated Updates: CyberWatchdog leverages GitHub Actions to automatically fetch and update the list of top cybersecurity repositories daily." >> README.md
-echo "- Key Metrics Tracked: The list highlights repositories with their stars, forks, and concise descriptions to give a quick overview of their relevance." >> README.md
-echo "- Focus on Cybersecurity: Only repositories tagged or associated with cybersecurity topics are included, ensuring highly focused and useful results." >> README.md
-echo "- Rich Metadata: Provides information like repository owner, project description, and last updated date to evaluate projects at a glance." >> README.md
-echo "" >> README.md
-echo "---" >> README.md
-echo "" >> README.md
-echo "## **Summary of Today's Analysis**" >> README.md
-echo "" >> README.md
-echo "| Metric                          | Value                              |" >> README.md
-echo "|---------------------------------|------------------------------------|" >> README.md
-echo "| Execution Date                  | $(date '+%Y-%m-%d %H:%M:%S')       |" >> README.md
-echo "| Repositories Analyzed           | 0                                  |" >> README.md
-echo "| Repositories Retrieved          | 0                                  |" >> README.md
-echo "| Pages Processed                 | $pg                               |" >> README.md
-echo "| Consecutive Empty Pages         | 0                                  |" >> README.md
-echo "" >> README.md
-echo "---" >> README.md
-echo "" >> README.md
-echo "## **Top Cybersecurity Repositories (Updated: $(date '+%Y-%m-%d'))**" >> README.md
-echo "" >> README.md
-echo "| Repository (Link)               | Stars   | Forks   | Description                     | Last Updated |" >> README.md
-echo "|---------------------------------|---------|---------|---------------------------------|--------------|" >> README.md
+# Wipe out old README (if any) and start fresh
+rm -f README.md
 
-# Fetch repositories and format output
-for i in $(seq 1 $pg); do
+cat <<EOF > README.md
+# **CyberWatchdog**
+
+**CyberWatchdog** is your daily tracker for the top GitHub repositories related to **cybersecurity**. By monitoring and curating trending repositories, CyberWatchdog ensures you stay up-to-date with the latest tools, frameworks, and research in the cybersecurity domain.
+
+---
+
+## **How It Works**
+
+- Automated Updates: CyberWatchdog leverages GitHub Actions to automatically fetch and update the list of top cybersecurity repositories daily.
+- Key Metrics Tracked: The list highlights repositories with their stars, forks, and concise descriptions to give a quick overview of their relevance.
+- Focus on Cybersecurity: Only repositories tagged or associated with cybersecurity topics are included, ensuring highly focused and useful results.
+- Rich Metadata: Provides information like repository owner, project description, and last updated date to evaluate projects at a glance.
+
+---
+
+## **Summary of Today's Analysis**
+
+| Metric                    | Value                   |
+|---------------------------|-------------------------|
+| Execution Date            | $(date '+%Y-%m-%d %H:%M:%S') |
+| Repositories Analyzed     | <REPOS_ANALYZED>       |
+| Repositories Retrieved    | <REPOS_RETRIEVED>      |
+| Pages Processed           | <PAGES_PROCESSED>      |
+| Consecutive Empty Pages   | <EMPTY_PAGES>          |
+
+---
+
+## **Top Cybersecurity Repositories (Updated: $(date '+%Y-%m-%d'))**
+
+| Repository (Link)               | Stars   | Forks   | Description                     | Last Updated |
+|---------------------------------|---------|---------|---------------------------------|--------------|
+EOF
+
+# Loop through each page
+for i in $(seq 1 "$pg"); do
     pages_processed=$((pages_processed + 1))
-    page_response=$(curl -s -H "Authorization: token $GITHUB_TOKEN" "https://api.github.com/search/repositories?q=stars%3A%3E50+$topic+sort:stars&per_page=100&page=$i")
+    page_response=$(curl -s -H "Authorization: token $GITHUB_TOKEN" \
+        "https://api.github.com/search/repositories?q=stars%3A%3E50+$topic+sort:stars&per_page=100&page=$i")
 
-    # Validate the response
-    if ! echo "$page_response" | jq -e '.items | length > 0' > /dev/null 2>&1; then
+    # Check if this page has items
+    item_count=$(echo "$page_response" | jq '.items | length')
+    if [[ "$item_count" -eq 0 || "$item_count" == "null" ]]; then
         empty_pages=$((empty_pages + 1))
+        # If we get 3 consecutive empty pages, stop
         if [[ $empty_pages -ge 3 ]]; then
             break
         fi
         continue
+    else
+        # Reset consecutive empty pages if we found items
+        empty_pages=0
     fi
 
-    empty_pages=0  # Reset counter if valid repositories are found
-
-    # Process repository information
+    # Process repositories in this page
     echo "$page_response" | jq -c '.items[]' | while read -r line; do
         repos_analyzed=$((repos_analyzed + 1))
         name=$(echo "$line" | jq -r '.name // "Unknown"')
@@ -121,22 +131,31 @@ for i in $(seq 1 $pg); do
         short_desc=$(echo "$desc" | cut -c 1-50)
         [ ${#desc} -gt 50 ] && short_desc="$short_desc..."
 
+        # Convert updated date (UTC) to YYYY-MM-DD
         if [[ "$OSTYPE" == "darwin"* ]]; then
             updated_date=$(echo "$updated" | awk '{print $1}' | xargs -I {} date -u -jf "%Y-%m-%dT%H:%M:%SZ" {} "+%Y-%m-%d")
         else
             updated_date=$(date -d "$updated" "+%Y-%m-%d")
         fi
 
-        printf "| [%s](%s) | %-7s | %-7s | %-31s | %-12s |\n" "$name" "$url" "$stars" "$forks" "$short_desc" "$updated_date" >> README.md
+        printf "| [%s](%s) | %-7s | %-7s | %-31s | %-12s |\n" \
+               "$name" "$url" "$stars" "$forks" "$short_desc" "$updated_date" >> README.md
     done
 done
 
-# Update summary metrics
-sed -i "s/| Repositories Analyzed           | 0                                  |/| Repositories Analyzed           | $repos_analyzed                   |/" README.md
-sed -i "s/| Repositories Retrieved          | 0                                  |/| Repositories Retrieved          | $repos_retrieved                  |/" README.md
-sed -i "s/| Consecutive Empty Pages         | 0                                  |/| Consecutive Empty Pages         | $empty_pages                      |/" README.md
+#
+# Now that we have the final values, replace the placeholders in README.md
+#
 
-# Display summary and push updates
+# On Linux systems, this usually works; on macOS you might need: sed -i '' "s/.../.../" README.md
+sed -i "s/<REPOS_ANALYZED>/$repos_analyzed/" README.md
+sed -i "s/<REPOS_RETRIEVED>/$repos_retrieved/" README.md
+sed -i "s/<PAGES_PROCESSED>/$pages_processed/" README.md
+sed -i "s/<EMPTY_PAGES>/$empty_pages/" README.md
+
+#
+# Finally, commit and push to GitHub
+#
 if [ -s README.md ]; then
     git config --global user.email "github-actions@github.com"
     git config --global user.name "GitHub Actions Bot"
