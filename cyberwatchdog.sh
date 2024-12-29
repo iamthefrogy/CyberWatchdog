@@ -65,13 +65,13 @@ rm -f README.md
 cat <<EOF > README.md
 # **CyberWatchdog**
 
-CyberWatchdog is your **FULLY AUTOMATED DAILY TRACKER** for the top GitHub repositories related to **cybersecurity**. By monitoring and curating trending repositories, CyberWatchdog ensures you stay up-to-date with the latest tools, frameworks, and research in the cybersecurity domain.
+CyberWatchdog is your **FULLY AUTOMATED WEEKLY(THURSDAY) TRACKER** for the top GitHub repositories related to **cybersecurity**. By monitoring and curating trending repositories, CyberWatchdog ensures you stay up-to-date with the latest tools, frameworks, and research in the cybersecurity domain.
 
 ---
 
 ## **How It Works**
 
-- **Automated Updates**: CyberWatchdog leverages GitHub Actions to automatically fetch and update the list of top cybersecurity repositories daily.
+- **Automated Updates**: CyberWatchdog leverages GitHub Actions to automatically fetch and update the list of top cybersecurity repositories weekly.
 - **Key Metrics Tracked**: The list highlights repositories with their stars, forks, and concise descriptions to give a quick overview of their relevance.
 - **Focus on Cybersecurity**: Only repositories tagged or associated with cybersecurity topics are included, ensuring highly focused and useful results.
 - **Rich Metadata**: Provides information like repository owner, project description, and last updated date to evaluate projects at a glance.
