@@ -17,7 +17,7 @@
 
 | Metric                          | Value                              |
 |---------------------------------|------------------------------------|
-| Execution Date                  | 2024-12-29 18:59:10       |
+| Execution Date                  | 2024-12-29 19:06:44       |
 | Repositories Analyzed           | 0                   |
 | Repositories Retrieved          | 0                  |
 | Pages Processed                 | 6                               |
@@ -44,7 +44,7 @@
 | [APT_CyberCriminal_Campagin_Collections](https://github.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections) | 3771    | 943     | APT & CyberCriminal Campaign Collection | 2024-12-28   |
 | [awesome-cyber-skills](https://github.com/joe-shenouda/awesome-cyber-skills) | 3730    | 482     | A curated list of hacking environments where you c... | 2024-12-29   |
 | [cyberduck](https://github.com/iterate-ch/cyberduck) | 3444    | 296     | Cyberduck is a libre FTP, SFTP, WebDAV, Amazon S3,... | 2024-12-29   |
-| [BruteShark](https://github.com/odedshimon/BruteShark) | 3051    | 333     | Network Analysis Tool           | 2024-12-28   |
+| [BruteShark](https://github.com/odedshimon/BruteShark) | 3052    | 333     | Network Analysis Tool           | 2024-12-29   |
 | [the_cyber_plumbers_handbook](https://github.com/opsdisk/the_cyber_plumbers_handbook) | 2613    | 170     | Free copy of The Cyber Plumber's Handbook - The de... | 2024-12-26   |
 | [Cyberbrain](https://github.com/laike9m/Cyberbrain) | 2522    | 161     | Python debugging, redefined.    | 2024-12-28   |
 | [Awesome-Cybersecurity-Handbooks](https://github.com/0xsyr0/Awesome-Cybersecurity-Handbooks) | 2394    | 310     | A huge chunk of my personal notes since I started ... | 2024-12-28   |
