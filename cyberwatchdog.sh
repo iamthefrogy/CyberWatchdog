@@ -35,7 +35,7 @@ topic=$(echo "$input" | tr '[:upper:]' '[:lower:]' | tr " " "+")
 # Fetch the total count of repositories
 echo -e "${YELLOW}Fetching repository information for topic: ${GREEN}${input}${NC}"
 response=$(curl -s -H "Authorization: token $GITHUB_TOKEN" \
-    "https://api.github.com/search/repositories?q=stars%3A%3E50+$topic+sort:stars&per_page=5")
+  "https://api.github.com/search/repositories?q=stars%3A%3E50+$topic+sort:stars&per_page=5")
 
 # Validate the API response
 if ! echo "$response" | jq -e . > /dev/null 2>&1; then
@@ -56,10 +56,10 @@ pg=$(( (tpc + 99) / 100 ))
 # Initialize counters
 repos_analyzed=0
 repos_retrieved=0
-empty_pages=0
 pages_processed=0
+empty_pages=0
 
-# Wipe out old README (if any) and start fresh
+# Remove any old README
 rm -f README.md
 
 cat <<EOF > README.md
@@ -92,33 +92,37 @@ cat <<EOF > README.md
 
 ## **Top Cybersecurity Repositories (Updated: $(date '+%Y-%m-%d'))**
 
-| Repository (Link)               | Stars   | Forks   | Description                     | Last Updated |
-|---------------------------------|---------|---------|---------------------------------|--------------|
+| Repository (Link) | Stars   | Forks   | Description                     | Last Updated |
+|-------------------|---------|---------|---------------------------------|--------------|
 EOF
 
-# Loop through each page
+# Iterate through pages
 for i in $(seq 1 "$pg"); do
     pages_processed=$((pages_processed + 1))
-    page_response=$(curl -s -H "Authorization: token $GITHUB_TOKEN" \
-        "https://api.github.com/search/repositories?q=stars%3A%3E50+$topic+sort:stars&per_page=100&page=$i")
 
-    # Check if this page has items
+    page_response=$(curl -s -H "Authorization: token $GITHUB_TOKEN" \
+      "https://api.github.com/search/repositories?q=stars%3A%3E50+$topic+sort:stars&per_page=100&page=$i")
+
+    # Check if the page has items
     item_count=$(echo "$page_response" | jq '.items | length')
     if [[ "$item_count" -eq 0 || "$item_count" == "null" ]]; then
         empty_pages=$((empty_pages + 1))
-        # If we get 3 consecutive empty pages, stop
+        # Stop if we see 3 consecutive empty pages
         if [[ $empty_pages -ge 3 ]]; then
             break
         fi
         continue
     else
-        # Reset consecutive empty pages if we found items
         empty_pages=0
     fi
 
-    # Process repositories in this page
-    echo "$page_response" | jq -c '.items[]' | while read -r line; do
+    #
+    # IMPORTANT: Use while-read redirection instead of a pipe
+    # so increments happen in the current shell, not a subshell.
+    #
+    while read -r line; do
         repos_analyzed=$((repos_analyzed + 1))
+
         name=$(echo "$line" | jq -r '.name // "Unknown"')
         owner=$(echo "$line" | jq -r '.owner.login // "Unknown"')
         stars=$(echo "$line" | jq -r '.stargazers_count // 0')
@@ -126,36 +130,44 @@ for i in $(seq 1 "$pg"); do
         desc=$(echo "$line" | jq -r '.description // "No description"')
         updated=$(echo "$line" | jq -r '.updated_at // "1970-01-01T00:00:00Z"')
         url=$(echo "$line" | jq -r '.html_url // "#"')
+
         repos_retrieved=$((repos_retrieved + 1))
 
         short_desc=$(echo "$desc" | cut -c 1-50)
-        [ ${#desc} -gt 50 ] && short_desc="$short_desc..."
+        if [ ${#desc} -gt 50 ]; then
+          short_desc="$short_desc..."
+        fi
 
-        # Convert updated date (UTC) to YYYY-MM-DD
+        # Convert updated date to YYYY-MM-DD (UTC)
         if [[ "$OSTYPE" == "darwin"* ]]; then
-            updated_date=$(echo "$updated" | awk '{print $1}' | xargs -I {} date -u -jf "%Y-%m-%dT%H:%M:%SZ" {} "+%Y-%m-%d")
+            updated_date=$(echo "$updated" | \
+                           awk '{print $1}' | \
+                           xargs -I {} date -u -jf "%Y-%m-%dT%H:%M:%SZ" {} "+%Y-%m-%d")
         else
             updated_date=$(date -d "$updated" "+%Y-%m-%d")
         fi
 
         printf "| [%s](%s) | %-7s | %-7s | %-31s | %-12s |\n" \
-               "$name" "$url" "$stars" "$forks" "$short_desc" "$updated_date" >> README.md
-    done
+               "$name" "$url" "$stars" "$forks" "$short_desc" "$updated_date" \
+               >> README.md
+    done < <(echo "$page_response" | jq -c '.items[]')  # < <(...) is the key
 done
 
 #
-# Now that we have the final values, replace the placeholders in README.md
+# Replace placeholders in README
 #
-
-# On Linux systems, this usually works; on macOS you might need: sed -i '' "s/.../.../" README.md
 sed -i "s/<REPOS_ANALYZED>/$repos_analyzed/" README.md
 sed -i "s/<REPOS_RETRIEVED>/$repos_retrieved/" README.md
 sed -i "s/<PAGES_PROCESSED>/$pages_processed/" README.md
 sed -i "s/<EMPTY_PAGES>/$empty_pages/" README.md
 
-#
-# Finally, commit and push to GitHub
-#
+# Optionally print debug info to help troubleshooting
+echo "DEBUG: repos_analyzed=$repos_analyzed"
+echo "DEBUG: repos_retrieved=$repos_retrieved"
+echo "DEBUG: pages_processed=$pages_processed"
+echo "DEBUG: empty_pages=$empty_pages"
+
+# Commit and push if README changed
 if [ -s README.md ]; then
     git config --global user.email "github-actions@github.com"
     git config --global user.name "GitHub Actions Bot"
