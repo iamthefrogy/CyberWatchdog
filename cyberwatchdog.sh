@@ -14,6 +14,9 @@ fi
 
 GITHUB_TOKEN="$PAT_TOKEN"
 
+# Start execution time tracking
+start_time=$(date +%s)
+
 # Check rate limit
 rate_limit_response=$(curl -s -H "Authorization: token $GITHUB_TOKEN" "https://api.github.com/rate_limit")
 remaining=$(echo "$rate_limit_response" | jq -r '.rate.remaining // 0')
@@ -48,12 +51,15 @@ fi
 
 # Calculate pages needed
 pg=$(( (tpc + 99) / 100 ))
+repos_analyzed=0
+repos_retrieved=0
+empty_pages=0  # Counter for consecutive empty pages
 
 # Initialize README.md
 rm -f README.md  # Remove any existing file
-echo "# **CyberWatchdog**" > README.md
+echo "# **CyberWatchdog** 🐾🔍" > README.md
 echo "" >> README.md
-echo "**CyberWatchdog** is your daily tracker for the top GitHub repositories related to **cybersecurity**. By monitoring and curating trending repositories, CyberWatchdog ensures you stay up-to-date with the latest tools, frameworks, and research in the cybersecurity domain." >> README.md
+echo "**CyberWatchdog** is your **DAILY FULLY AUTOMATED TRACKER** for the top GitHub repositories related to **cybersecurity**. By monitoring and curating trending repositories, CyberWatchdog ensures you stay up-to-date with the latest tools, frameworks, and research in the cybersecurity domain." >> README.md
 echo "" >> README.md
 echo "---" >> README.md
 echo "" >> README.md
@@ -81,14 +87,25 @@ echo "Cybersecurity evolves rapidly, and staying updated with the best tools and
 echo "" >> README.md
 echo "---" >> README.md
 echo "" >> README.md
+
+# Add summary section
+echo "## **Summary of Today's Analysis**" >> README.md
+echo "" >> README.md
+echo "| Metric                          | Value                              |" >> README.md
+echo "|---------------------------------|------------------------------------|" >> README.md
+echo "| **Execution Date**              | $(date '+%Y-%m-%d %H:%M:%S')       |" >> README.md
+echo "| **Total Repositories Found**    | $tpc                              |" >> README.md
+echo "| **Pages to Process**            | $pg                               |" >> README.md
+echo "" >> README.md
+echo "---" >> README.md
+echo "" >> README.md
+
 echo "## **Top Cybersecurity Repositories (Updated: $(date '+%Y-%m-%d'))**" >> README.md
 echo "" >> README.md
 echo "| Repository (Link)                        | Stars   | Forks   | Description                     | Last Updated |" >> README.md
 echo "|------------------------------------------|---------|---------|---------------------------------|--------------|" >> README.md
 
 # Fetch repositories and format output
-empty_pages=0  # Counter for consecutive empty pages
-
 for i in $(seq 1 $pg); do
     page_response=$(curl -s -H "Authorization: token $GITHUB_TOKEN" "https://api.github.com/search/repositories?q=stars%3A%3E50+$topic+sort:stars&per_page=100&page=$i")
     echo "$page_response" > debug_page_response.json  # Debugging: Save raw response
@@ -110,6 +127,7 @@ for i in $(seq 1 $pg); do
 
     # Process repository information
     echo "$page_response" | jq -c '.items[]' | while read -r line; do
+        repos_analyzed=$((repos_analyzed + 1))
         name=$(echo "$line" | jq -r '.name // "Unknown"')
         owner=$(echo "$line" | jq -r '.owner.login // "Unknown"')
         stars=$(echo "$line" | jq -r '.stargazers_count // 0')
@@ -117,6 +135,7 @@ for i in $(seq 1 $pg); do
         desc=$(echo "$line" | jq -r '.description // "No description"')
         updated=$(echo "$line" | jq -r '.updated_at // "1970-01-01T00:00:00Z"')
         url=$(echo "$line" | jq -r '.html_url // "#"')
+        repos_retrieved=$((repos_retrieved + 1))
 
         # Truncate long descriptions
         short_desc=$(echo "$desc" | cut -c 1-50)
