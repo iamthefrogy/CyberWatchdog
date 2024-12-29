@@ -1,12 +1,12 @@
 # **CyberWatchdog**
 
-CyberWatchdog is your **FULLY AUTOMATED DAILY TRACKER** for the top GitHub repositories related to **cybersecurity**. By monitoring and curating trending repositories, CyberWatchdog ensures you stay up-to-date with the latest tools, frameworks, and research in the cybersecurity domain.
+CyberWatchdog is your **FULLY AUTOMATED WEEKLY(THURSDAY) TRACKER** for the top GitHub repositories related to **cybersecurity**. By monitoring and curating trending repositories, CyberWatchdog ensures you stay up-to-date with the latest tools, frameworks, and research in the cybersecurity domain.
 
 ---
 
 ## **How It Works**
 
-- **Automated Updates**: CyberWatchdog leverages GitHub Actions to automatically fetch and update the list of top cybersecurity repositories daily.
+- **Automated Updates**: CyberWatchdog leverages GitHub Actions to automatically fetch and update the list of top cybersecurity repositories weekly.
 - **Key Metrics Tracked**: The list highlights repositories with their stars, forks, and concise descriptions to give a quick overview of their relevance.
 - **Focus on Cybersecurity**: Only repositories tagged or associated with cybersecurity topics are included, ensuring highly focused and useful results.
 - **Rich Metadata**: Provides information like repository owner, project description, and last updated date to evaluate projects at a glance.
@@ -17,7 +17,7 @@ CyberWatchdog is your **FULLY AUTOMATED DAILY TRACKER** for the top GitHub repos
 
 | Metric                    | Value                   |
 |---------------------------|-------------------------|
-| Execution Date            | 2024-12-29 19:20:31 |
+| Execution Date            | 2024-12-29 21:00:56 |
 | Repositories Analyzed     | 530       |
 | Repositories Retrieved    | 530      |
 | Pages Processed           | 6      |
@@ -30,12 +30,12 @@ CyberWatchdog is your **FULLY AUTOMATED DAILY TRACKER** for the top GitHub repos
 | Repository (Link) | Stars   | Forks   | Description                     | Last Updated |
 |-------------------|---------|---------|---------------------------------|--------------|
 | [CyberChef](https://github.com/gchq/CyberChef) | 29693   | 3321    | The Cyber Swiss Army Knife - a web app for encrypt... | 2024-12-29   |
-| [MHDDoS](https://github.com/MatrixTM/MHDDoS) | 13228   | 2765    | Best DDoS Attack Script  Python3, (Cyber / DDos) A... | 2024-12-29   |
+| [MHDDoS](https://github.com/MatrixTM/MHDDoS) | 13229   | 2764    | Best DDoS Attack Script  Python3, (Cyber / DDos) A... | 2024-12-29   |
 | [awesome-ml-for-cybersecurity](https://github.com/jivoi/awesome-ml-for-cybersecurity) | 7326    | 1774    |  :octocat: Machine Learning for Cyber Security | 2024-12-29   |
 | [Mindmap](https://github.com/Ignitetechnologies/Mindmap) | 7299    | 1399    | This repository will contain many mindmaps for cyb... | 2024-12-29   |
-| [90DaysOfCyberSecurity](https://github.com/farhanashrafdev/90DaysOfCyberSecurity) | 6903    | 794     | This repository contains a 90-day cybersecurity st... | 2024-12-29   |
+| [90DaysOfCyberSecurity](https://github.com/farhanashrafdev/90DaysOfCyberSecurity) | 6904    | 795     | This repository contains a 90-day cybersecurity st... | 2024-12-29   |
 | [yakit](https://github.com/yaklang/yakit) | 6796    | 838     | Cyber Security ALL-IN-ONE Platform | 2024-12-29   |
-| [pyWhat](https://github.com/bee-san/pyWhat) | 6740    | 366     | 🐸   Identify anything. pyWhat easily lets you i... | 2024-12-29   |
+| [pyWhat](https://github.com/bee-san/pyWhat) | 6741    | 366     | 🐸   Identify anything. pyWhat easily lets you i... | 2024-12-29   |
 | [opencti](https://github.com/OpenCTI-Platform/opencti) | 6595    | 967     | Open Cyber Threat Intelligence Platform | 2024-12-28   |
 | [Awesome-Black-Friday-Cyber-Monday](https://github.com/trungdq88/Awesome-Black-Friday-Cyber-Monday) | 5996    | 1205    | Awesome deals on Black Friday: Apps, SaaS, Books, ... | 2024-12-29   |
 | [deepdarkCTI](https://github.com/fastfire/deepdarkCTI) | 4642    | 806     | Collection of Cyber Threat Intelligence sources fr... | 2024-12-29   |
@@ -51,7 +51,7 @@ CyberWatchdog is your **FULLY AUTOMATED DAILY TRACKER** for the top GitHub repos
 | [Cybersecurity-Resources](https://github.com/Nickyie/Cybersecurity-Resources) | 2317    | 343     | A Library of various cybersecurity resources | 2024-12-29   |
 | [awesome-canbus](https://github.com/iDoka/awesome-canbus) | 2293    | 281     | :articulated_lorry: Awesome CAN bus tools, hardwar... | 2024-12-29   |
 | [cyberchef-recipes](https://github.com/mattnotmax/cyberchef-recipes) | 2045    | 258     | A list of cyber-chef recipes and curated links | 2024-12-27   |
-| [Wifi-Hacking](https://github.com/ankit0183/Wifi-Hacking) | 1886    | 287     | Cyber Security Tool For Hacking Wireless Connectio... | 2024-12-29   |
+| [Wifi-Hacking](https://github.com/ankit0183/Wifi-Hacking) | 1886    | 286     | Cyber Security Tool For Hacking Wireless Connectio... | 2024-12-29   |
 | [Free_CyberSecurity_Professional_Development_Resources](https://github.com/gerryguy311/Free_CyberSecurity_Professional_Development_Resources) | 1844    | 266     | An awesome list of FREE resources for training, co... | 2024-12-26   |
 | [awesome-cyber-security-university](https://github.com/brootware/awesome-cyber-security-university) | 1814    | 174     | 🎓 Because Education should be free. Contributio... | 2024-12-29   |
 | [cti](https://github.com/mitre/cti) | 1774    | 421     | Cyber Threat Intelligence Repository expressed in ... | 2024-12-29   |
@@ -116,13 +116,13 @@ CyberWatchdog is your **FULLY AUTOMATED DAILY TRACKER** for the top GitHub repos
 | [WIFI-HACKING](https://github.com/U7P4L-IN/WIFI-HACKING) | 568     | 75      | Cyber Security Tool For Hacking Wireless Connectio... | 2024-12-29   |
 | [5pillars](https://github.com/DFIRmadness/5pillars) | 555     | 80      | A guide on how to become an Information (or Cyber)... | 2024-12-25   |
 | [firewalla](https://github.com/firewalla/firewalla) | 555     | 130     | http://firewalla.com            | 2024-12-27   |
-| [Awesome-LLM4Cybersecurity](https://github.com/tmylla/Awesome-LLM4Cybersecurity) | 540     | 51      | An overview of LLMs for cybersecurity. | 2024-12-29   |
+| [Awesome-LLM4Cybersecurity](https://github.com/tmylla/Awesome-LLM4Cybersecurity) | 541     | 51      | An overview of LLMs for cybersecurity. | 2024-12-29   |
 | [awesome-cybersecurity-internships](https://github.com/paralax/awesome-cybersecurity-internships) | 536     | 67      | a list of cybersecurity internships | 2024-12-22   |
 | [Getting-into-InfoSec-and-Cybersecurity](https://github.com/Abacus-Group-RTO/Getting-into-InfoSec-and-Cybersecurity) | 536     | 66      | A shorter, less intimidating list of infosec resou... | 2024-12-17   |
 | [Cybersecurity-Doughnuts](https://github.com/ZivJia/Cybersecurity-Doughnuts) | 533     | 85      | Fullstack engineer's checklist for your cybersecur... | 2024-10-24   |
 | [GHOSTS](https://github.com/cmu-sei/GHOSTS) | 533     | 70      | GHOSTS is a realistic user simulation framework fo... | 2024-12-22   |
 | [Kumpulan-Script-Termux](https://github.com/landy22granatt/Kumpulan-Script-Termux) | 521     | 110     | Ok, Langsung Saja Ke Materi. Sesuai Judul, Disini ... | 2024-12-27   |
-| [luos_engine](https://github.com/Luos-io/luos_engine) | 517     | 55      | Open-source and real-time orchestrator for cyber-p... | 2024-12-03   |
+| [luos_engine](https://github.com/Luos-io/luos_engine) | 518     | 56      | Open-source and real-time orchestrator for cyber-p... | 2024-12-29   |
 | [Microsoft-Extractor-Suite](https://github.com/invictus-ir/Microsoft-Extractor-Suite) | 505     | 74      | A PowerShell module for acquisition of data from M... | 2024-12-27   |
 | [cybergurukulam](https://github.com/amfoss/cybergurukulam) | 486     | 1       | Archive for the source of a website for "CyberGuru... | 2024-10-30   |
 | [CyberPhish](https://github.com/Cyber-Dioxide/CyberPhish) | 483     | 68      | A heavily armed customizable phishing tool for edu... | 2024-12-26   |
@@ -132,7 +132,7 @@ CyberWatchdog is your **FULLY AUTOMATED DAILY TRACKER** for the top GitHub repos
 | [Awesome-Black-Friday-Cyber-Monday-deals](https://github.com/twf-nikhila/Awesome-Black-Friday-Cyber-Monday-deals) | 459     | 228     | 🟢 2024 Deals Live - Black Friday & Cyber Monday... | 2024-12-25   |
 | [tram](https://github.com/center-for-threat-informed-defense/tram) | 459     | 99      | TRAM is an open-source platform designed to advanc... | 2024-12-27   |
 | [Cybersecurity-Books](https://github.com/zealraj/Cybersecurity-Books) | 447     | 86      | Here you will get awesome collection of mostly all... | 2024-12-26   |
-| [realm](https://github.com/spellshift/realm) | 431     | 33      | Realm is a cross platform Red Team engagement plat... | 2024-12-28   |
+| [realm](https://github.com/spellshift/realm) | 431     | 33      | Realm is a cross platform Red Team engagement plat... | 2024-12-29   |
 | [CyberScan](https://github.com/medbenali/CyberScan) | 429     | 130     | CyberScan: Network's Forensics ToolKit | 2024-12-29   |
 | [Cyber-Sec-Resources](https://github.com/scspcommunity/Cyber-Sec-Resources) | 427     | 130     | An organized list of resources including tools, bl... | 2024-12-03   |
 | [cybersources](https://github.com/brunoooost/cybersources) | 421     | 42      | Cybersources is a repository that curates a compre... | 2024-12-29   |
@@ -189,8 +189,8 @@ CyberWatchdog is your **FULLY AUTOMATED DAILY TRACKER** for the top GitHub repos
 | [cybersec-notes](https://github.com/ir0nstone/cybersec-notes) | 267     | 23      | My notes on pwn                 | 2024-12-27   |
 | [awesome-cybersecurity-conferences](https://github.com/TalEliyahu/awesome-cybersecurity-conferences) | 267     | 29      | Watch the latest awesome security talks around the... | 2024-12-27   |
 | [Cybersecurity101](https://github.com/danieldonda/Cybersecurity101) | 261     | 29      | Um guia abrangente para iniciantes na área de cib... | 2024-12-24   |
+| [Cybersecurity-Indonesia](https://github.com/screetsec/Cybersecurity-Indonesia) | 261     | 38      | Kumpulan Course Video pembalajaran tentang Cyber S... | 2024-12-29   |
 | [hackingLibrary](https://github.com/jwx0539/hackingLibrary) | 261     | 256     | ‪APT,‬ ‪Cyber warfare,‬ ‪Penetration tes... | 2024-12-18   |
-| [Cybersecurity-Indonesia](https://github.com/screetsec/Cybersecurity-Indonesia) | 260     | 38      | Kumpulan Course Video pembalajaran tentang Cyber S... | 2024-12-22   |
 | [awesome-cyber-security](https://github.com/okhosting/awesome-cyber-security) | 259     | 34      | A curated list of cyber security resources and too... | 2024-12-29   |
 | [Intrusion-Detection-Systems](https://github.com/rahulvigneswaran/Intrusion-Detection-Systems) | 259     | 104     | This is the repo of the research paper, "Evaluatin... | 2024-12-29   |
 | [CyberDropDownloader](https://github.com/jbsparrow/CyberDropDownloader) | 258     | 24      | Bulk Gallery Downloader for Cyberdrop.me and Other... | 2024-12-29   |
@@ -207,7 +207,7 @@ CyberWatchdog is your **FULLY AUTOMATED DAILY TRACKER** for the top GitHub repos
 | [Cyberpunk-2077-theme-css](https://github.com/gwannon/Cyberpunk-2077-theme-css) | 236     | 40      | This is a theme in CSS3 to simulate the interfaxes... | 2024-12-23   |
 | [CSSR](https://github.com/0x000NULL/CSSR) | 235     | 95      | Repository of practice, guides, list, and scripts ... | 2024-12-29   |
 | [malware_api_class](https://github.com/ocatak/malware_api_class) | 234     | 36      | Malware dataset for security researchers, data sci... | 2024-12-23   |
-| [Cyberion-Spark-X](https://github.com/carl24tech/Cyberion-Spark-X) | 228     | 702     | Cyberion-Spark-X is a dynamic WhatsApp bot designe... | 2024-12-29   |
+| [Cyberion-Spark-X](https://github.com/carl24tech/Cyberion-Spark-X) | 228     | 703     | Cyberion-Spark-X is a dynamic WhatsApp bot designe... | 2024-12-29   |
 | [CYBER-X-WHATSAPP-BOT](https://github.com/darkalphaxteam/CYBER-X-WHATSAPP-BOT) | 217     | 1931    | A 3ʳᵈ Party user bot for WhatsApp. Developed by... | 2024-12-23   |
 | [Termux](https://github.com/uday-khan/Termux) | 216     | 14      | KUMPULAN CODE TERMUX LENGKAP   | SPAM CHAT WHATSAP... | 2024-12-29   |
 | [3commas-cyber-bots](https://github.com/cyberjunky/3commas-cyber-bots) | 215     | 68      | 3Commas bot helpers, AltRank, GalaxyScore, Watchli... | 2024-12-10   |
@@ -409,7 +409,7 @@ CyberWatchdog is your **FULLY AUTOMATED DAILY TRACKER** for the top GitHub repos
 | [Obsidian-CyberGlow](https://github.com/ArtexJay/Obsidian-CyberGlow) | 83      | 6       | A colorful unique theme, giving Obsidian a fresh n... | 2024-12-27   |
 | [CyberScores](https://github.com/matthewzring/CyberScores) | 83      | 0       | A Discord bot for interaction with the CyberPatrio... | 2024-12-19   |
 | [takuan](https://github.com/evilsocket/takuan) | 83      | 6       | Takuan is a system service that parses logs and de... | 2024-11-28   |
-| [google-cybersecurity](https://github.com/ethansilvas/google-cybersecurity) | 82      | 27      | Projects, notes, and write-ups I have done while c... | 2024-12-23   |
+| [google-cybersecurity](https://github.com/ethansilvas/google-cybersecurity) | 82      | 28      | Projects, notes, and write-ups I have done while c... | 2024-12-23   |
 | [Sunset-Cyberspace](https://github.com/EvanBacon/Sunset-Cyberspace) | 82      | 25      | 🎮👾Retro-runner Game made in Expo, Three.js, ... | 2024-12-16   |
 | [Cyber-Security](https://github.com/luisrodrigues154/Cyber-Security) | 82      | 17      | This repository is used to store answers when reso... | 2024-10-18   |
 | [cybersecurity-portfolio-webpage](https://github.com/Duerme/cybersecurity-portfolio-webpage) | 82      | 15      | No description                  | 2024-12-12   |
@@ -459,11 +459,11 @@ CyberWatchdog is your **FULLY AUTOMATED DAILY TRACKER** for the top GitHub repos
 | [CASE](https://github.com/casework/CASE) | 67      | 22      | Cyber-investigation Analysis Standard Expression (... | 2024-12-23   |
 | [hack-the-arch](https://github.com/mcpa-stlouis/hack-the-arch) | 67      | 27      | Welcome to HackTheArch!  A free open source scorin... | 2024-11-29   |
 | [CyberSpace-Security-Learning](https://github.com/HackingCost/CyberSpace-Security-Learning) | 67      | 4       | 网络安全学习wiki，包括Web安全、内网� | 2024-12-06   |
+| [CybORG](https://github.com/cage-challenge/CybORG) | 66      | 29      | Cyber Operations Research Gym   | 2024-12-29   |
 | [CyberSecurityUP](https://github.com/CyberSecurityUP/CyberSecurityUP) | 66      | 14      | No description                  | 2024-12-27   |
 | [Cybertron](https://github.com/lvyufeng/Cybertron) | 66      | 10      | mindspore implementation of transformers | 2024-11-12   |
 | [intro-2-cybersecurity-in-python](https://github.com/shantoroy/intro-2-cybersecurity-in-python) | 66      | 16      | This is a repository containing Python code exampl... | 2024-10-22   |
 | [cyber-security-llm-agents](https://github.com/NVISOsecurity/cyber-security-llm-agents) | 66      | 6       | A collection of agents that use Large Language Mod... | 2024-12-29   |
-| [CybORG](https://github.com/cage-challenge/CybORG) | 65      | 29      | Cyber Operations Research Gym   | 2024-12-07   |
 | [Cyber-Security-Roadmap-from-0](https://github.com/ishan-siddiqui/Cyber-Security-Roadmap-from-0) | 65      | 11      | No description                  | 2024-12-07   |
 | [coronavirus-covid-19-SARS-CoV-2-IoCs](https://github.com/parthdmaniar/coronavirus-covid-19-SARS-CoV-2-IoCs) | 65      | 7       | All the IOC's I have gathered which are used direc... | 2023-04-23   |
 | [cyber-security-books](https://github.com/DoS0x99/cyber-security-books) | 63      | 19      | A collection of cyber security books | 2024-12-26   |
