@@ -51,7 +51,7 @@ pg=$(( (tpc + 99) / 100 ))
 
 # Initialize README.md
 rm -f README.md  # Remove any existing file
-echo "# **CyberWatchdog** 🐾🔍" > README.md
+echo "# **CyberWatchdog**" > README.md
 echo "" >> README.md
 echo "**CyberWatchdog** is your daily tracker for the top GitHub repositories related to **cybersecurity**. By monitoring and curating trending repositories, CyberWatchdog ensures you stay up-to-date with the latest tools, frameworks, and research in the cybersecurity domain." >> README.md
 echo "" >> README.md
@@ -68,10 +68,10 @@ echo "---" >> README.md
 echo "" >> README.md
 echo "## **Features**" >> README.md
 echo "" >> README.md
-echo "- 📊 **Daily Updates**: A fresh list of top repositories every day." >> README.md
-echo "- 🔒 **Focus on Security**: Only cybersecurity-related repositories are tracked." >> README.md
-echo "- 🌟 **Key Metrics**: Stars, forks, and descriptions to gauge repository popularity and activity." >> README.md
-echo "- 🛠️ **Actionable Insights**: Repository descriptions and last update details help you decide what to explore further." >> README.md
+echo "- **Daily Updates**: A fresh list of top repositories every day." >> README.md
+echo "- **Focus on Security**: Only cybersecurity-related repositories are tracked." >> README.md
+echo "- **Key Metrics**: Stars, forks, and descriptions to gauge repository popularity and activity." >> README.md
+echo "- **Actionable Insights**: Repository descriptions and last update details help you decide what to explore further." >> README.md
 echo "" >> README.md
 echo "---" >> README.md
 echo "" >> README.md
