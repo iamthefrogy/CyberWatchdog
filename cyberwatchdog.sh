@@ -25,11 +25,8 @@ if [[ "$remaining" -eq 0 ]]; then
     exit 1
 fi
 
-# Prompt user for a topic
-echo -e "${YELLOW}What topic are you interested in?${NC}"
-read input
-
-# Sanitize user input
+# Hardcoded topic
+input="cyber"
 topic=$(echo "$input" | tr '[:upper:]' '[:lower:]' | tr " " "+")
 
 # Fetch the total count of repositories
@@ -140,6 +137,10 @@ done
 # Display summary and push updates
 if [ -s README.md ]; then
     echo -e "${GREEN}Successfully updated README.md with top repositories for '$input'.${NC}"
+
+    # Set user details for commit
+    git config --global user.email "github-actions@github.com"
+    git config --global user.name "GitHub Actions Bot"
 
     # Commit and push changes to GitHub
     git add README.md
