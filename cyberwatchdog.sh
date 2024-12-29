@@ -94,7 +94,6 @@ echo "|---------------------------------|---------|---------|-------------------
 for i in $(seq 1 $pg); do
     pages_processed=$((pages_processed + 1))
     page_response=$(curl -s -H "Authorization: token $GITHUB_TOKEN" "https://api.github.com/search/repositories?q=stars%3A%3E50+$topic+sort:stars&per_page=100&page=$i")
-    echo "$page_response" > debug_page_response.json  # Debugging: Save raw response
 
     # Validate the response
     if ! echo "$page_response" | jq -e '.items | length > 0' > /dev/null 2>&1; then
@@ -117,7 +116,6 @@ for i in $(seq 1 $pg); do
         desc=$(echo "$line" | jq -r '.description // "No description"')
         updated=$(echo "$line" | jq -r '.updated_at // "1970-01-01T00:00:00Z"')
         url=$(echo "$line" | jq -r '.html_url // "#"')
-
         repos_retrieved=$((repos_retrieved + 1))
 
         short_desc=$(echo "$desc" | cut -c 1-50)
