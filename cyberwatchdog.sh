@@ -57,6 +57,30 @@ echo "**CyberWatchdog** is your daily tracker for the top GitHub repositories re
 echo "" >> README.md
 echo "---" >> README.md
 echo "" >> README.md
+echo "## **How It Works**" >> README.md
+echo "" >> README.md
+echo "- **Automated Updates:** CyberWatchdog leverages GitHub Actions to automatically fetch and update the list of top cybersecurity repositories daily." >> README.md
+echo "- **Key Metrics Tracked:** The list highlights repositories with their stars, forks, and concise descriptions to give a quick overview of their relevance." >> README.md
+echo "- **Focus on Cybersecurity:** Only repositories tagged or associated with cybersecurity topics are included, ensuring highly focused and useful results." >> README.md
+echo "- **Rich Metadata:** Provides information like repository owner, project description, and last updated date to evaluate projects at a glance." >> README.md
+echo "" >> README.md
+echo "---" >> README.md
+echo "" >> README.md
+echo "## **Features**" >> README.md
+echo "" >> README.md
+echo "- 📊 **Daily Updates**: A fresh list of top repositories every day." >> README.md
+echo "- 🔒 **Focus on Security**: Only cybersecurity-related repositories are tracked." >> README.md
+echo "- 🌟 **Key Metrics**: Stars, forks, and descriptions to gauge repository popularity and activity." >> README.md
+echo "- 🛠️ **Actionable Insights**: Repository descriptions and last update details help you decide what to explore further." >> README.md
+echo "" >> README.md
+echo "---" >> README.md
+echo "" >> README.md
+echo "## **Why Use CyberWatchdog?**" >> README.md
+echo "" >> README.md
+echo "Cybersecurity evolves rapidly, and staying updated with the best tools and frameworks is essential. CyberWatchdog ensures you never miss out on the top repositories by delivering an organized and easy-to-read list, making it a perfect companion for researchers, developers, and cybersecurity enthusiasts." >> README.md
+echo "" >> README.md
+echo "---" >> README.md
+echo "" >> README.md
 echo "## **Top Cybersecurity Repositories (Updated: $(date '+%Y-%m-%d'))**" >> README.md
 echo "" >> README.md
 echo "| Repository (Link)                        | Stars   | Forks   | Description                     | Last Updated |" >> README.md
