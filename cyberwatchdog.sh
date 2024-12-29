@@ -57,9 +57,9 @@ empty_pages=0  # Counter for consecutive empty pages
 
 # Initialize README.md
 rm -f README.md  # Remove any existing file
-echo "# **CyberWatchdog**" > README.md
+echo "# **CyberWatchdog** 🐾🔍" > README.md
 echo "" >> README.md
-echo "**CyberWatchdog** is your **DAILY FULLY AUTOMATED TRACKER** for the top GitHub repositories related to **cybersecurity**. By monitoring and curating trending repositories, CyberWatchdog ensures you stay up-to-date with the latest tools, frameworks, and research in the cybersecurity domain." >> README.md
+echo "CyberWatchdog is your **DAILY FULLY AUTOMATED TRACKER** for the top GitHub repositories related to **cybersecurity**. By monitoring and curating trending repositories, CyberWatchdog ensures you stay up-to-date with the latest tools, frameworks, and research in the cybersecurity domain." >> README.md
 echo "" >> README.md
 echo "---" >> README.md
 echo "" >> README.md
@@ -89,13 +89,19 @@ echo "---" >> README.md
 echo "" >> README.md
 
 # Add summary section
+execution_time=$(( $(date +%s) - start_time ))
 echo "## **Summary of Today's Analysis**" >> README.md
 echo "" >> README.md
 echo "| Metric                          | Value                              |" >> README.md
 echo "|---------------------------------|------------------------------------|" >> README.md
 echo "| **Execution Date**              | $(date '+%Y-%m-%d %H:%M:%S')       |" >> README.md
-echo "| **Total Repositories Found**    | $tpc                              |" >> README.md
-echo "| **Pages to Process**            | $pg                               |" >> README.md
+echo "| **Repositories Analyzed**       | $repos_analyzed                   |" >> README.md
+echo "| **Repositories Retrieved**      | $repos_retrieved                  |" >> README.md
+echo "| **Pages Processed**             | $pg                               |" >> README.md
+echo "| **Consecutive Empty Pages**     | $empty_pages                      |" >> README.md
+echo "| **Execution Time**              | ${execution_time}s                |" >> README.md
+echo "| **Rate Limit Remaining**        | $remaining                        |" >> README.md
+echo "| **Last Rate Limit Reset**       | $(date -d "@$reset_time" "+%Y-%m-%d %H:%M:%S") |" >> README.md
 echo "" >> README.md
 echo "---" >> README.md
 echo "" >> README.md
