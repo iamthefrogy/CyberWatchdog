@@ -2,7 +2,7 @@ name: CyberWatchdog Automation
 
 on:
   schedule:
-    - cron: '0 0 * * *'  # Runs daily at midnight UTC
+    - cron: '0 0 * * 4'  # Runs every Thursday at midnight UTC
   workflow_dispatch:  # Allows manual triggering of the workflow
 
 jobs:
