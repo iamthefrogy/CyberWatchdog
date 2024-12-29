@@ -71,10 +71,10 @@ CyberWatchdog is your **FULLY AUTOMATED DAILY TRACKER** for the top GitHub repos
 
 ## **How It Works**
 
-- Automated Updates: CyberWatchdog leverages GitHub Actions to automatically fetch and update the list of top cybersecurity repositories daily.
-- Key Metrics Tracked: The list highlights repositories with their stars, forks, and concise descriptions to give a quick overview of their relevance.
-- Focus on Cybersecurity: Only repositories tagged or associated with cybersecurity topics are included, ensuring highly focused and useful results.
-- Rich Metadata: Provides information like repository owner, project description, and last updated date to evaluate projects at a glance.
+- **Automated Updates**: CyberWatchdog leverages GitHub Actions to automatically fetch and update the list of top cybersecurity repositories daily.
+- **Key Metrics Tracked**: The list highlights repositories with their stars, forks, and concise descriptions to give a quick overview of their relevance.
+- **Focus on Cybersecurity**: Only repositories tagged or associated with cybersecurity topics are included, ensuring highly focused and useful results.
+- **Rich Metadata**: Provides information like repository owner, project description, and last updated date to evaluate projects at a glance.
 
 ---
 
