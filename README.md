@@ -1,6 +1,6 @@
-# **CyberWatchdog** 🐾🔍
+# **CyberWatchdog**
 
-**CyberWatchdog** is your daily tracker for the top GitHub repositories related to **cybersecurity**. By monitoring and curating trending repositories, CyberWatchdog ensures you stay up-to-date with the latest tools, frameworks, and research in the cybersecurity domain.
+**CyberWatchdog** is your **DAILY FULLY AUTOMATED TRACKER** for the top GitHub repositories related to **cybersecurity**. By monitoring and curating trending repositories, CyberWatchdog ensures you stay up-to-date with the latest tools, frameworks, and research in the cybersecurity domain.
 
 ---
 
@@ -15,16 +15,26 @@
 
 ## **Features**
 
-- 📊 **Daily Updates**: A fresh list of top repositories every day.
-- 🔒 **Focus on Security**: Only cybersecurity-related repositories are tracked.
-- 🌟 **Key Metrics**: Stars, forks, and descriptions to gauge repository popularity and activity.
-- 🛠️ **Actionable Insights**: Repository descriptions and last update details help you decide what to explore further.
+- **Daily Updates**: A fresh list of top repositories every day.
+- **Focus on Security**: Only cybersecurity-related repositories are tracked.
+- **Key Metrics**: Stars, forks, and descriptions to gauge repository popularity and activity.
+- **Actionable Insights**: Repository descriptions and last update details help you decide what to explore further.
 
 ---
 
 ## **Why Use CyberWatchdog?**
 
 Cybersecurity evolves rapidly, and staying updated with the best tools and frameworks is essential. CyberWatchdog ensures you never miss out on the top repositories by delivering an organized and easy-to-read list, making it a perfect companion for researchers, developers, and cybersecurity enthusiasts.
+
+---
+
+## **Summary of Today's Analysis**
+
+| Metric                          | Value                              |
+|---------------------------------|------------------------------------|
+| **Execution Date**              | 2024-12-29 18:44:35       |
+| **Total Repositories Found**    | 530                              |
+| **Pages to Process**            | 6                               |
 
 ---
 
@@ -41,7 +51,7 @@ Cybersecurity evolves rapidly, and staying updated with the best tools and frame
 | [pyWhat](https://github.com/bee-san/pyWhat) | 6740    | 366     | 🐸   Identify anything. pyWhat easily lets you i... | 2024-12-29   |
 | [opencti](https://github.com/OpenCTI-Platform/opencti) | 6595    | 967     | Open Cyber Threat Intelligence Platform | 2024-12-28   |
 | [Awesome-Black-Friday-Cyber-Monday](https://github.com/trungdq88/Awesome-Black-Friday-Cyber-Monday) | 5996    | 1205    | Awesome deals on Black Friday: Apps, SaaS, Books, ... | 2024-12-29   |
-| [deepdarkCTI](https://github.com/fastfire/deepdarkCTI) | 4641    | 806     | Collection of Cyber Threat Intelligence sources fr... | 2024-12-29   |
+| [deepdarkCTI](https://github.com/fastfire/deepdarkCTI) | 4642    | 806     | Collection of Cyber Threat Intelligence sources fr... | 2024-12-29   |
 | [CyberEngineTweaks](https://github.com/maximegmd/CyberEngineTweaks) | 4596    | 291     | Cyberpunk 2077 tweaks, hacks and scripting framewo... | 2024-12-29   |
 | [awesome-cybersecurity-blueteam](https://github.com/fabacab/awesome-cybersecurity-blueteam) | 4451    | 693     | :computer:🛡️ A curated collection of awesome ... | 2024-12-29   |
 | [APT_CyberCriminal_Campagin_Collections](https://github.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections) | 3771    | 943     | APT & CyberCriminal Campaign Collection | 2024-12-28   |
@@ -210,7 +220,7 @@ Cybersecurity evolves rapidly, and staying updated with the best tools and frame
 | [Cyberpunk-2077-theme-css](https://github.com/gwannon/Cyberpunk-2077-theme-css) | 236     | 40      | This is a theme in CSS3 to simulate the interfaxes... | 2024-12-23   |
 | [CSSR](https://github.com/0x000NULL/CSSR) | 235     | 95      | Repository of practice, guides, list, and scripts ... | 2024-12-29   |
 | [malware_api_class](https://github.com/ocatak/malware_api_class) | 234     | 36      | Malware dataset for security researchers, data sci... | 2024-12-23   |
-| [Cyberion-Spark-X](https://github.com/carl24tech/Cyberion-Spark-X) | 228     | 701     | Cyberion-Spark-X is a dynamic WhatsApp bot designe... | 2024-12-29   |
+| [Cyberion-Spark-X](https://github.com/carl24tech/Cyberion-Spark-X) | 228     | 702     | Cyberion-Spark-X is a dynamic WhatsApp bot designe... | 2024-12-29   |
 | [CYBER-X-WHATSAPP-BOT](https://github.com/darkalphaxteam/CYBER-X-WHATSAPP-BOT) | 217     | 1931    | A 3ʳᵈ Party user bot for WhatsApp. Developed by... | 2024-12-23   |
 | [Termux](https://github.com/uday-khan/Termux) | 216     | 14      | KUMPULAN CODE TERMUX LENGKAP   | SPAM CHAT WHATSAP... | 2024-12-29   |
 | [3commas-cyber-bots](https://github.com/cyberjunky/3commas-cyber-bots) | 215     | 68      | 3Commas bot helpers, AltRank, GalaxyScore, Watchli... | 2024-12-10   |
@@ -359,8 +369,8 @@ Cybersecurity evolves rapidly, and staying updated with the best tools and frame
 | [cybertruckchallenge19](https://github.com/nowsecure/cybertruckchallenge19) | 98      | 20      | Android security workshop material taught during t... | 2024-10-09   |
 | [cyberrunner](https://github.com/thomasbi1/cyberrunner) | 98      | 5       | CyberRunner is an AI robot whose task is to learn ... | 2024-12-19   |
 | [factory](https://github.com/oncyberio/factory) | 98      | 22      | Smart contracts for Cyber Destinations (spaces dig... | 2024-12-11   |
+| [local-first-cyberspace](https://github.com/RangerMauve/local-first-cyberspace) | 98      | 2       | A roadmap for realizing a local-first and offline-... | 2024-12-29   |
 | [ggCyberPunk](https://github.com/delabj/ggCyberPunk) | 97      | 3       | A "Geom" for creating charts with a cyberpunk aest... | 2024-11-05   |
-| [local-first-cyberspace](https://github.com/RangerMauve/local-first-cyberspace) | 97      | 2       | A roadmap for realizing a local-first and offline-... | 2024-12-29   |
 | [Cyber-Labs-Get-Started](https://github.com/Cyber-Labs/Cyber-Labs-Get-Started) | 95      | 57      | This repository contains resources to get you star... | 2024-12-07   |
 | [Cyberpunk2077Apology](https://github.com/foone/Cyberpunk2077Apology) | 95      | 10      | A generator for Cyberpunk2077 Apology images | 2024-07-25   |
 | [Unified-Cybersecurity-Ontology](https://github.com/Ebiquity/Unified-Cybersecurity-Ontology) | 94      | 29      | Unified Cybersecurity Ontology  | 2024-11-19   |
