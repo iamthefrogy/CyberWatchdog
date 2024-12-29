@@ -20,7 +20,9 @@ jobs:
 
     - name: Run CyberWatchdog Script
       env:
-        PAT_TOKEN: ${{ secrets.PAT_TOKEN }}
+        PAT_TOKEN: ${{ secrets.PAT_TOKEN }}  # For GitHub API calls
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}  # For pushing to the repo
+        GITHUB_REPOSITORY: ${{ github.repository }}  # Your repo name
       run: |
         chmod +x ./cyberwatchdog.sh
-        ./cyberwatchdog.sh "cyber"
+        ./cyberwatchdog.sh
