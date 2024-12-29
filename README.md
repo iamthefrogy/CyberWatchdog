@@ -17,9 +17,9 @@
 
 | Metric                    | Value                   |
 |---------------------------|-------------------------|
-| Execution Date            | 2024-12-29 19:11:08 |
-| Repositories Analyzed     | 0       |
-| Repositories Retrieved    | 0      |
+| Execution Date            | 2024-12-29 19:14:33 |
+| Repositories Analyzed     | 530       |
+| Repositories Retrieved    | 530      |
 | Pages Processed           | 6      |
 | Consecutive Empty Pages   | 0          |
 
@@ -27,8 +27,8 @@
 
 ## **Top Cybersecurity Repositories (Updated: 2024-12-29)**
 
-| Repository (Link)               | Stars   | Forks   | Description                     | Last Updated |
-|---------------------------------|---------|---------|---------------------------------|--------------|
+| Repository (Link) | Stars   | Forks   | Description                     | Last Updated |
+|-------------------|---------|---------|---------------------------------|--------------|
 | [CyberChef](https://github.com/gchq/CyberChef) | 29693   | 3321    | The Cyber Swiss Army Knife - a web app for encrypt... | 2024-12-29   |
 | [MHDDoS](https://github.com/MatrixTM/MHDDoS) | 13228   | 2765    | Best DDoS Attack Script  Python3, (Cyber / DDos) A... | 2024-12-29   |
 | [awesome-ml-for-cybersecurity](https://github.com/jivoi/awesome-ml-for-cybersecurity) | 7326    | 1774    |  :octocat: Machine Learning for Cyber Security | 2024-12-29   |
