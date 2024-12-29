@@ -1,30 +1,15 @@
-# **CyberWatchdog** 🐾🔍
+# **CyberWatchdog**
 
-CyberWatchdog is your **DAILY FULLY AUTOMATED TRACKER** for the top GitHub repositories related to **cybersecurity**. By monitoring and curating trending repositories, CyberWatchdog ensures you stay up-to-date with the latest tools, frameworks, and research in the cybersecurity domain.
+**CyberWatchdog** is your daily tracker for the top GitHub repositories related to **cybersecurity**. By monitoring and curating trending repositories, CyberWatchdog ensures you stay up-to-date with the latest tools, frameworks, and research in the cybersecurity domain.
 
 ---
 
 ## **How It Works**
 
-- **Automated Updates:** CyberWatchdog leverages GitHub Actions to automatically fetch and update the list of top cybersecurity repositories daily.
-- **Key Metrics Tracked:** The list highlights repositories with their stars, forks, and concise descriptions to give a quick overview of their relevance.
-- **Focus on Cybersecurity:** Only repositories tagged or associated with cybersecurity topics are included, ensuring highly focused and useful results.
-- **Rich Metadata:** Provides information like repository owner, project description, and last updated date to evaluate projects at a glance.
-
----
-
-## **Features**
-
-- **Daily Updates**: A fresh list of top repositories every day.
-- **Focus on Security**: Only cybersecurity-related repositories are tracked.
-- **Key Metrics**: Stars, forks, and descriptions to gauge repository popularity and activity.
-- **Actionable Insights**: Repository descriptions and last update details help you decide what to explore further.
-
----
-
-## **Why Use CyberWatchdog?**
-
-Cybersecurity evolves rapidly, and staying updated with the best tools and frameworks is essential. CyberWatchdog ensures you never miss out on the top repositories by delivering an organized and easy-to-read list, making it a perfect companion for researchers, developers, and cybersecurity enthusiasts.
+- Automated Updates: CyberWatchdog leverages GitHub Actions to automatically fetch and update the list of top cybersecurity repositories daily.
+- Key Metrics Tracked: The list highlights repositories with their stars, forks, and concise descriptions to give a quick overview of their relevance.
+- Focus on Cybersecurity: Only repositories tagged or associated with cybersecurity topics are included, ensuring highly focused and useful results.
+- Rich Metadata: Provides information like repository owner, project description, and last updated date to evaluate projects at a glance.
 
 ---
 
@@ -32,25 +17,25 @@ Cybersecurity evolves rapidly, and staying updated with the best tools and frame
 
 | Metric                          | Value                              |
 |---------------------------------|------------------------------------|
-| **Execution Date**              | 2024-12-29 18:49:52       |
-| **Repositories Analyzed**       | 0                   |
-| **Repositories Retrieved**      | 0                  |
-| **Pages Processed**             | 6                               |
-| **Consecutive Empty Pages**     | 0                      |
-| **Execution Time**              | 0s                |
-| **Rate Limit Remaining**        | 5000                        |
-| **Last Rate Limit Reset**       | 2024-12-29 19:49:52 |
+| Execution Date                  | 2024-12-29 18:54:43       |
+| Repositories Analyzed           | 0                   |
+| Repositories Retrieved          | 0                  |
+| Pages Processed                 | 6                               |
+| Consecutive Empty Pages         | 0                      |
+| Execution Time                  | 29s                |
+| Rate Limit Remaining            | 5000                        |
+| Last Rate Limit Reset           | 2024-12-29 19:54:42 |
 
 ---
 
 ## **Top Cybersecurity Repositories (Updated: 2024-12-29)**
 
-| Repository (Link)                        | Stars   | Forks   | Description                     | Last Updated |
-|------------------------------------------|---------|---------|---------------------------------|--------------|
+| Repository (Link)               | Stars   | Forks   | Description                     | Last Updated |
+|---------------------------------|---------|---------|---------------------------------|--------------|
 | [CyberChef](https://github.com/gchq/CyberChef) | 29693   | 3321    | The Cyber Swiss Army Knife - a web app for encrypt... | 2024-12-29   |
-| [MHDDoS](https://github.com/MatrixTM/MHDDoS) | 13228   | 2764    | Best DDoS Attack Script  Python3, (Cyber / DDos) A... | 2024-12-29   |
+| [MHDDoS](https://github.com/MatrixTM/MHDDoS) | 13228   | 2765    | Best DDoS Attack Script  Python3, (Cyber / DDos) A... | 2024-12-29   |
 | [awesome-ml-for-cybersecurity](https://github.com/jivoi/awesome-ml-for-cybersecurity) | 7326    | 1774    |  :octocat: Machine Learning for Cyber Security | 2024-12-29   |
-| [Mindmap](https://github.com/Ignitetechnologies/Mindmap) | 7298    | 1399    | This repository will contain many mindmaps for cyb... | 2024-12-29   |
+| [Mindmap](https://github.com/Ignitetechnologies/Mindmap) | 7299    | 1399    | This repository will contain many mindmaps for cyb... | 2024-12-29   |
 | [90DaysOfCyberSecurity](https://github.com/farhanashrafdev/90DaysOfCyberSecurity) | 6903    | 794     | This repository contains a 90-day cybersecurity st... | 2024-12-29   |
 | [yakit](https://github.com/yaklang/yakit) | 6796    | 838     | Cyber Security ALL-IN-ONE Platform | 2024-12-29   |
 | [pyWhat](https://github.com/bee-san/pyWhat) | 6740    | 366     | 🐸   Identify anything. pyWhat easily lets you i... | 2024-12-29   |
