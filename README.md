@@ -17,7 +17,7 @@ CyberWatchdog is your **FULLY AUTOMATED WEEKLY(THURSDAY) TRACKER** for the top G
 
 | Metric                    | Value                   |
 |---------------------------|-------------------------|
-| Execution Date            | 2024-12-29 21:00:56 |
+| Execution Date            | 2024-12-29 21:27:48 |
 | Repositories Analyzed     | 530       |
 | Repositories Retrieved    | 530      |
 | Pages Processed           | 6      |
@@ -29,7 +29,7 @@ CyberWatchdog is your **FULLY AUTOMATED WEEKLY(THURSDAY) TRACKER** for the top G
 
 | Repository (Link) | Stars   | Forks   | Description                     | Last Updated |
 |-------------------|---------|---------|---------------------------------|--------------|
-| [CyberChef](https://github.com/gchq/CyberChef) | 29693   | 3321    | The Cyber Swiss Army Knife - a web app for encrypt... | 2024-12-29   |
+| [CyberChef](https://github.com/gchq/CyberChef) | 29694   | 3321    | The Cyber Swiss Army Knife - a web app for encrypt... | 2024-12-29   |
 | [MHDDoS](https://github.com/MatrixTM/MHDDoS) | 13229   | 2764    | Best DDoS Attack Script  Python3, (Cyber / DDos) A... | 2024-12-29   |
 | [awesome-ml-for-cybersecurity](https://github.com/jivoi/awesome-ml-for-cybersecurity) | 7326    | 1774    |  :octocat: Machine Learning for Cyber Security | 2024-12-29   |
 | [Mindmap](https://github.com/Ignitetechnologies/Mindmap) | 7299    | 1399    | This repository will contain many mindmaps for cyb... | 2024-12-29   |
@@ -106,8 +106,8 @@ CyberWatchdog is your **FULLY AUTOMATED WEEKLY(THURSDAY) TRACKER** for the top G
 | [cyberdog_ros2](https://github.com/MiRoboticsLab/cyberdog_ros2) | 663     | 191     | ROS 2 packages for CyberDog     | 2024-12-27   |
 | [netlas-cookbook](https://github.com/netlas-io/netlas-cookbook) | 648     | 79      | The goal of this guide is very simple - to teach a... | 2024-12-28   |
 | [rex](https://github.com/angr/rex) | 639     | 103     | Shellphish's automated exploitation engine, origin... | 2024-12-27   |
+| [CTI-fundamentals](https://github.com/curated-intel/CTI-fundamentals) | 626     | 70      | A collection of papers, blogs, and resources that ... | 2024-12-29   |
 | [CyberFSR2](https://github.com/PotatoOfDoom/CyberFSR2) | 625     | 68      | FidelityFx Super Resolution 2.0 for Cyberpunk | 2024-12-24   |
-| [CTI-fundamentals](https://github.com/curated-intel/CTI-fundamentals) | 625     | 70      | A collection of papers, blogs, and resources that ... | 2024-12-26   |
 | [PracticalCyberSecurityResources](https://github.com/brcyrr/PracticalCyberSecurityResources) | 622     | 96      | This repository contains a curated list of resourc... | 2024-12-27   |
 | [Open-source-tools-for-CTI](https://github.com/BushidoUK/Open-source-tools-for-CTI) | 621     | 103     | Public Repository of Open Source Tools for Cyber T... | 2024-12-27   |
 | [awesome-automotive-can-id](https://github.com/iDoka/awesome-automotive-can-id) | 614     | 87      | :tractor: Collect of CAN IDs and its payloads for ... | 2024-12-28   |
@@ -125,7 +125,7 @@ CyberWatchdog is your **FULLY AUTOMATED WEEKLY(THURSDAY) TRACKER** for the top G
 | [luos_engine](https://github.com/Luos-io/luos_engine) | 518     | 56      | Open-source and real-time orchestrator for cyber-p... | 2024-12-29   |
 | [Microsoft-Extractor-Suite](https://github.com/invictus-ir/Microsoft-Extractor-Suite) | 505     | 74      | A PowerShell module for acquisition of data from M... | 2024-12-27   |
 | [cybergurukulam](https://github.com/amfoss/cybergurukulam) | 486     | 1       | Archive for the source of a website for "CyberGuru... | 2024-10-30   |
-| [CyberPhish](https://github.com/Cyber-Dioxide/CyberPhish) | 483     | 68      | A heavily armed customizable phishing tool for edu... | 2024-12-26   |
+| [CyberPhish](https://github.com/Cyber-Dioxide/CyberPhish) | 484     | 69      | A heavily armed customizable phishing tool for edu... | 2024-12-29   |
 | [CyberRange](https://github.com/secdevops-cuse/CyberRange) | 479     | 90      | The Open-Source AWS Cyber Range | 2024-12-21   |
 | [Cyber-Defence](https://github.com/nccgroup/Cyber-Defence) | 475     | 98      | Information released publicly by NCC Group's Cyber... | 2024-11-21   |
 | [Tools-termux](https://github.com/Taoviqinvicible/Tools-termux) | 462     | 0       | 1.[Script Termux] -Cmatrix *apt-get update *apt-ge... | 2024-12-12   |
