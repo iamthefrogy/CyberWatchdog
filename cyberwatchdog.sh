@@ -59,10 +59,8 @@ echo "---" >> README.md
 echo "" >> README.md
 echo "## **Top Cybersecurity Repositories (Updated: $(date '+%Y-%m-%d'))**" >> README.md
 echo "" >> README.md
-echo "_**Note:** Hover over hyperlinks to preview repository details._" >> README.md
-echo "" >> README.md
-echo "| Repository (Link)                        | Stars   | Forks   | Issues  | Updated   |" >> README.md
-echo "|------------------------------------------|---------|---------|---------|-----------|" >> README.md
+echo "| Repository (Link)                        | Stars   | Forks   | Description                     | Last Updated |" >> README.md
+echo "|------------------------------------------|---------|---------|---------------------------------|--------------|" >> README.md
 
 # Fetch repositories and format output
 empty_pages=0  # Counter for consecutive empty pages
@@ -92,9 +90,13 @@ for i in $(seq 1 $pg); do
         owner=$(echo "$line" | jq -r '.owner.login // "Unknown"')
         stars=$(echo "$line" | jq -r '.stargazers_count // 0')
         forks=$(echo "$line" | jq -r '.forks_count // 0')
-        issues=$(echo "$line" | jq -r '.open_issues_count // 0')
+        desc=$(echo "$line" | jq -r '.description // "No description"')
         updated=$(echo "$line" | jq -r '.updated_at // "1970-01-01T00:00:00Z"')
         url=$(echo "$line" | jq -r '.html_url // "#"')
+
+        # Truncate long descriptions
+        short_desc=$(echo "$desc" | cut -c 1-50)
+        [ ${#desc} -gt 50 ] && short_desc="$short_desc..."
 
         # Cross-platform date formatting
         if [[ "$OSTYPE" == "darwin"* ]]; then
@@ -104,7 +106,7 @@ for i in $(seq 1 $pg); do
         fi
 
         # Format the table row
-        printf "| [%s](%s) | %-7s | %-7s | %-7s | %-9s |\n" "$name" "$url" "$stars" "$forks" "$issues" "$updated_date" >> README.md
+        printf "| [%s](%s) | %-7s | %-7s | %-31s | %-12s |\n" "$name" "$url" "$stars" "$forks" "$short_desc" "$updated_date" >> README.md
     done
 done
 
