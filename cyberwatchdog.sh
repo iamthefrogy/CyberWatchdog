@@ -57,34 +57,12 @@ echo "**CyberWatchdog** is your daily tracker for the top GitHub repositories re
 echo "" >> README.md
 echo "---" >> README.md
 echo "" >> README.md
-echo "## **How It Works**" >> README.md
-echo "" >> README.md
-echo "- **Automated Updates:** CyberWatchdog leverages GitHub Actions to automatically fetch and update the list of top cybersecurity repositories daily." >> README.md
-echo "- **Key Metrics Tracked:** The list highlights repositories with their stars, forks, open issues, and concise descriptions to give a quick overview of their relevance." >> README.md
-echo "- **Focus on Cybersecurity:** Only repositories tagged or associated with cybersecurity topics are included, ensuring highly focused and useful results." >> README.md
-echo "- **Rich Metadata:** Provides information like repository owner, project description, and last updated date to evaluate projects at a glance." >> README.md
-echo "" >> README.md
-echo "---" >> README.md
-echo "" >> README.md
-echo "## **Features**" >> README.md
-echo "" >> README.md
-echo "- 📊 **Daily Updates**: A fresh list of top repositories every day." >> README.md
-echo "- 🔒 **Focus on Security**: Only cybersecurity-related repositories are tracked." >> README.md
-echo "- 🌟 **Key Metrics**: Stars, forks, and issues to gauge repository popularity and activity." >> README.md
-echo "- 🛠️ **Actionable Insights**: Repository descriptions and last update details help you decide what to explore further." >> README.md
-echo "" >> README.md
-echo "---" >> README.md
-echo "" >> README.md
-echo "## **Why Use CyberWatchdog?**" >> README.md
-echo "" >> README.md
-echo "Cybersecurity evolves rapidly, and staying updated with the best tools and frameworks is essential. CyberWatchdog ensures you never miss out on the top repositories by delivering an organized and easy-to-read list, making it a perfect companion for researchers, developers, and cybersecurity enthusiasts." >> README.md
-echo "" >> README.md
-echo "---" >> README.md
-echo "" >> README.md
 echo "## **Top Cybersecurity Repositories (Updated: $(date '+%Y-%m-%d'))**" >> README.md
 echo "" >> README.md
-echo "| Repository        | Owner       | 🌟 Stars | 🍴 Forks | 🐛 Issues | Description                     | Last Updated |" >> README.md
-echo "|-------------------|-------------|----------|----------|-----------|---------------------------------|--------------|" >> README.md
+echo "_**Note:** Hover over hyperlinks to preview repository details._" >> README.md
+echo "" >> README.md
+echo "| Repository (Link)                        | Stars   | Forks   | Issues  | Updated   |" >> README.md
+echo "|------------------------------------------|---------|---------|---------|-----------|" >> README.md
 
 # Fetch repositories and format output
 empty_pages=0  # Counter for consecutive empty pages
@@ -115,12 +93,8 @@ for i in $(seq 1 $pg); do
         stars=$(echo "$line" | jq -r '.stargazers_count // 0')
         forks=$(echo "$line" | jq -r '.forks_count // 0')
         issues=$(echo "$line" | jq -r '.open_issues_count // 0')
-        desc=$(echo "$line" | jq -r '.description // "No description"')
         updated=$(echo "$line" | jq -r '.updated_at // "1970-01-01T00:00:00Z"')
-
-        # Truncate long descriptions
-        short_desc=$(echo "$desc" | cut -c 1-50)
-        [ ${#desc} -gt 50 ] && short_desc="$short_desc..."
+        url=$(echo "$line" | jq -r '.html_url // "#"')
 
         # Cross-platform date formatting
         if [[ "$OSTYPE" == "darwin"* ]]; then
@@ -130,7 +104,7 @@ for i in $(seq 1 $pg); do
         fi
 
         # Format the table row
-        printf "| %-17s | %-11s | %-8s | %-8s | %-9s | %-31s | %-12s |\n" "$name" "$owner" "$stars" "$forks" "$issues" "$short_desc" "$updated_date" >> README.md
+        printf "| [%s](%s) | %-7s | %-7s | %-7s | %-9s |\n" "$name" "$url" "$stars" "$forks" "$issues" "$updated_date" >> README.md
     done
 done
 
