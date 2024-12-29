@@ -57,7 +57,7 @@ empty_pages=0  # Counter for consecutive empty pages
 
 # Initialize README.md
 rm -f README.md  # Remove any existing file
-echo "# **CyberWatchdog** 🐾🔍" > README.md
+echo "# **CyberWatchdog**" > README.md
 echo "" >> README.md
 echo "**CyberWatchdog** is your **DAILY FULLY AUTOMATED TRACKER** for the top GitHub repositories related to **cybersecurity**. By monitoring and curating trending repositories, CyberWatchdog ensures you stay up-to-date with the latest tools, frameworks, and research in the cybersecurity domain." >> README.md
 echo "" >> README.md
