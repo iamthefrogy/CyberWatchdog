@@ -54,6 +54,7 @@ pg=$(( (tpc + 99) / 100 ))
 repos_analyzed=0
 repos_retrieved=0
 empty_pages=0  # Counter for consecutive empty pages
+pages_processed=0  # Total pages processed
 
 # Initialize README.md
 rm -f README.md  # Remove any existing file
@@ -80,10 +81,7 @@ echo "| Execution Date                  | $(date '+%Y-%m-%d %H:%M:%S')       |" 
 echo "| Repositories Analyzed           | 0                                  |" >> README.md
 echo "| Repositories Retrieved          | 0                                  |" >> README.md
 echo "| Pages Processed                 | $pg                               |" >> README.md
-echo "| Consecutive Empty Pages         | $empty_pages                      |" >> README.md
-echo "| Execution Time                  | 0s                                |" >> README.md
-echo "| Rate Limit Remaining            | $remaining                        |" >> README.md
-echo "| Last Rate Limit Reset           | $(date -d "@$reset_time" "+%Y-%m-%d %H:%M:%S") |" >> README.md
+echo "| Consecutive Empty Pages         | 0                                  |" >> README.md
 echo "" >> README.md
 echo "---" >> README.md
 echo "" >> README.md
@@ -94,6 +92,7 @@ echo "|---------------------------------|---------|---------|-------------------
 
 # Fetch repositories and format output
 for i in $(seq 1 $pg); do
+    pages_processed=$((pages_processed + 1))
     page_response=$(curl -s -H "Authorization: token $GITHUB_TOKEN" "https://api.github.com/search/repositories?q=stars%3A%3E50+$topic+sort:stars&per_page=100&page=$i")
     echo "$page_response" > debug_page_response.json  # Debugging: Save raw response
 
@@ -118,6 +117,7 @@ for i in $(seq 1 $pg); do
         desc=$(echo "$line" | jq -r '.description // "No description"')
         updated=$(echo "$line" | jq -r '.updated_at // "1970-01-01T00:00:00Z"')
         url=$(echo "$line" | jq -r '.html_url // "#"')
+
         repos_retrieved=$((repos_retrieved + 1))
 
         short_desc=$(echo "$desc" | cut -c 1-50)
@@ -134,10 +134,9 @@ for i in $(seq 1 $pg); do
 done
 
 # Update summary metrics
-execution_time=$(( $(date +%s) - start_time ))
 sed -i "s/| Repositories Analyzed           | 0                                  |/| Repositories Analyzed           | $repos_analyzed                   |/" README.md
 sed -i "s/| Repositories Retrieved          | 0                                  |/| Repositories Retrieved          | $repos_retrieved                  |/" README.md
-sed -i "s/| Execution Time                  | 0s                                |/| Execution Time                  | ${execution_time}s                |/" README.md
+sed -i "s/| Consecutive Empty Pages         | 0                                  |/| Consecutive Empty Pages         | $empty_pages                      |/" README.md
 
 # Display summary and push updates
 if [ -s README.md ]; then
