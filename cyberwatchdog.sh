@@ -29,7 +29,7 @@ if [[ "$remaining" -eq 0 ]]; then
 fi
 
 # Hardcoded topic
-input="cyber"
+input="bugbounty"
 topic=$(echo "$input" | tr '[:upper:]' '[:lower:]' | tr " " "+")
 
 # Fetch the total count of repositories
@@ -65,7 +65,7 @@ rm -f README.md
 cat <<EOF > README.md
 # **CyberWatchdog**
 
-**CyberWatchdog** is your daily tracker for the top GitHub repositories related to **cybersecurity**. By monitoring and curating trending repositories, CyberWatchdog ensures you stay up-to-date with the latest tools, frameworks, and research in the cybersecurity domain.
+CyberWatchdog is your **FULLY AUTOMATED DAILY TRACKER** for the top GitHub repositories related to **cybersecurity**. By monitoring and curating trending repositories, CyberWatchdog ensures you stay up-to-date with the latest tools, frameworks, and research in the cybersecurity domain.
 
 ---
 
