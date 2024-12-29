@@ -1,6 +1,6 @@
-# **CyberWatchdog**
+# **CyberWatchdog** 🐾🔍
 
-**CyberWatchdog** is your **DAILY FULLY AUTOMATED TRACKER** for the top GitHub repositories related to **cybersecurity**. By monitoring and curating trending repositories, CyberWatchdog ensures you stay up-to-date with the latest tools, frameworks, and research in the cybersecurity domain.
+CyberWatchdog is your **DAILY FULLY AUTOMATED TRACKER** for the top GitHub repositories related to **cybersecurity**. By monitoring and curating trending repositories, CyberWatchdog ensures you stay up-to-date with the latest tools, frameworks, and research in the cybersecurity domain.
 
 ---
 
@@ -32,9 +32,14 @@ Cybersecurity evolves rapidly, and staying updated with the best tools and frame
 
 | Metric                          | Value                              |
 |---------------------------------|------------------------------------|
-| **Execution Date**              | 2024-12-29 18:44:35       |
-| **Total Repositories Found**    | 530                              |
-| **Pages to Process**            | 6                               |
+| **Execution Date**              | 2024-12-29 18:49:52       |
+| **Repositories Analyzed**       | 0                   |
+| **Repositories Retrieved**      | 0                  |
+| **Pages Processed**             | 6                               |
+| **Consecutive Empty Pages**     | 0                      |
+| **Execution Time**              | 0s                |
+| **Rate Limit Remaining**        | 5000                        |
+| **Last Rate Limit Reset**       | 2024-12-29 19:49:52 |
 
 ---
 
