@@ -33,7 +33,7 @@ Cybersecurity evolves rapidly, and staying updated with the best tools and frame
 | Repository        | Owner       | 🌟 Stars | 🍴 Forks | 🐛 Issues | Description                     | Last Updated |
 |-------------------|-------------|----------|----------|-----------|---------------------------------|--------------|
 | CyberChef         | gchq        | 29693    | 3321     | 525       | The Cyber Swiss Army Knife - a web app for encrypt... | 2024-12-29   |
-| MHDDoS            | MatrixTM    | 13228    | 2763     | 5         | Best DDoS Attack Script  Python3, (Cyber / DDos) A... | 2024-12-29   |
+| MHDDoS            | MatrixTM    | 13228    | 2764     | 5         | Best DDoS Attack Script  Python3, (Cyber / DDos) A... | 2024-12-29   |
 | awesome-ml-for-cybersecurity | jivoi       | 7326     | 1774     | 13        |  :octocat: Machine Learning for Cyber Security | 2024-12-29   |
 | Mindmap           | Ignitetechnologies | 7298     | 1399     | 13        | This repository will contain many mindmaps for cyb... | 2024-12-29   |
 | 90DaysOfCyberSecurity | farhanashrafdev | 6903     | 794      | 54        | This repository contains a 90-day cybersecurity st... | 2024-12-29   |
@@ -196,8 +196,8 @@ Cybersecurity evolves rapidly, and staying updated with the best tools and frame
 | Cybersecurity-Indonesia | screetsec   | 260      | 38       | 0         | Kumpulan Course Video pembalajaran tentang Cyber S... | 2024-12-22   |
 | awesome-cyber-security | okhosting   | 259      | 34       | 0         | A curated list of cyber security resources and too... | 2024-12-29   |
 | Intrusion-Detection-Systems | rahulvigneswaran | 259      | 104      | 7         | This is the repo of the research paper, "Evaluatin... | 2024-12-29   |
+| CyberDropDownloader | jbsparrow   | 258      | 24       | 20        | Bulk Gallery Downloader for Cyberdrop.me and Other... | 2024-12-29   |
 | cyberpunk-theme.el | n3mo        | 258      | 49       | 6         | Cyberpunk theme for emacs built-in color theme sup... | 2024-11-24   |
-| CyberDropDownloader | jbsparrow   | 257      | 24       | 20        | Bulk Gallery Downloader for Cyberdrop.me and Other... | 2024-12-29   |
 | SCPA              | ghostsec420 | 256      | 58       | 0         | Sophisticated cyber penetration attacks is a serie... | 2024-12-26   |
 | MrKaplan          | Idov31      | 256      | 48       | 0         | MrKaplan is a tool aimed to help red teamers to st... | 2024-11-22   |
 | patcherex         | angr        | 254      | 45       | 6         | Shellphish's automated patching engine, originally... | 2024-12-11   |
