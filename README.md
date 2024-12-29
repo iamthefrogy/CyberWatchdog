@@ -15,13 +15,13 @@
 
 ## **Summary of Today's Analysis**
 
-| Metric                          | Value                              |
-|---------------------------------|------------------------------------|
-| Execution Date                  | 2024-12-29 19:06:44       |
-| Repositories Analyzed           | 0                   |
-| Repositories Retrieved          | 0                  |
-| Pages Processed                 | 6                               |
-| Consecutive Empty Pages         | 0                      |
+| Metric                    | Value                   |
+|---------------------------|-------------------------|
+| Execution Date            | 2024-12-29 19:11:08 |
+| Repositories Analyzed     | 0       |
+| Repositories Retrieved    | 0      |
+| Pages Processed           | 6      |
+| Consecutive Empty Pages   | 0          |
 
 ---
 
@@ -222,12 +222,12 @@
 | [cybercongress](https://github.com/cybercongress/cybercongress) | 204     | 29      | Helping humanity evolve         | 2024-12-24   |
 | [cyberspace-sdk](https://github.com/cyberspace-dev/cyberspace-sdk) | 203     | 9       | Cyberspace.dev - Online Competition For Coders. | 2024-08-24   |
 | [cyberdrop.me-downloaders](https://github.com/cyberdrop-me/cyberdrop.me-downloaders) | 199     | 46      | List of downloaders built by the community | 2024-12-20   |
+| [Cyber-Security-Resources](https://github.com/vlakhani28/Cyber-Security-Resources) | 198     | 45      | No description                  | 2024-12-29   |
 | [CyberRT](https://github.com/minhanghuang/CyberRT) | 197     | 80      | Baidu Apollo(v9.0.0) CyberRT Framework  CMake Buil... | 2024-12-24   |
 | [CyberSpaceSearchEngine-Research](https://github.com/EXHades/CyberSpaceSearchEngine-Research) | 197     | 48      | 网络空间测绘/搜索引擎相关的资料 | 2024-12-17   |
 | [Sec_Mind_Maps](https://github.com/h0tak88r/Sec_Mind_Maps) | 197     | 33      | cyber security mind maps collection | 2024-12-24   |
 | [CyberRadio](https://github.com/luigifcruz/CyberRadio) | 197     | 18      | 📻 An SDR Based FM/AM Radio For Desktop. Acceler... | 2024-12-02   |
 | [cyber-security](https://github.com/alik604/cyber-security) | 197     | 46      | Machine Learning for Network Intrusion Detection &... | 2024-12-27   |
-| [Cyber-Security-Resources](https://github.com/vlakhani28/Cyber-Security-Resources) | 197     | 45      | No description                  | 2024-11-29   |
 | [BAJINGANv6](https://github.com/DarknessCyberTeam/BAJINGANv6) | 195     | 137     | Tools Auto installer from Darkness Cyber Team We S... | 2024-12-11   |
 | [CTI-Analyst-Challenge](https://github.com/BushidoUK/CTI-Analyst-Challenge) | 191     | 18      | An analytical challenge created to test junior ana... | 2024-12-25   |
 | [cybersecurity-resources](https://github.com/alex-bellon/cybersecurity-resources) | 189     | 34      | Resources for learning about cybersecurity and CTF... | 2024-12-27   |
