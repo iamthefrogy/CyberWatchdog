@@ -17,14 +17,11 @@
 
 | Metric                          | Value                              |
 |---------------------------------|------------------------------------|
-| Execution Date                  | 2024-12-29 18:54:43       |
+| Execution Date                  | 2024-12-29 18:59:10       |
 | Repositories Analyzed           | 0                   |
 | Repositories Retrieved          | 0                  |
 | Pages Processed                 | 6                               |
 | Consecutive Empty Pages         | 0                      |
-| Execution Time                  | 29s                |
-| Rate Limit Remaining            | 5000                        |
-| Last Rate Limit Reset           | 2024-12-29 19:54:42 |
 
 ---
 
