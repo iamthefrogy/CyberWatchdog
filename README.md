@@ -17,308 +17,309 @@ CyberWatchdog is your **FULLY AUTOMATED WEEKLY(THURSDAY) TRACKER** for the top G
 
 | Metric                    | Value                   |
 |---------------------------|-------------------------|
-| Execution Date            | 2025-09-04 00:22:38 |
-| Repositories Analyzed     | 620       |
-| Repositories Retrieved    | 620      |
+| Execution Date            | 2025-09-11 00:23:32 |
+| Repositories Analyzed     | 621       |
+| Repositories Retrieved    | 621      |
 | Pages Processed           | 7      |
 | Consecutive Empty Pages   | 0          |
 
 ---
 
-## **Top Cybersecurity Repositories (Updated: 2025-09-04)**
+## **Top Cybersecurity Repositories (Updated: 2025-09-11)**
 
 | Repository (Link) | Stars   | Forks   | Description                     | Last Updated |
 |-------------------|---------|---------|---------------------------------|--------------|
-| [CyberChef](https://github.com/gchq/CyberChef) | 32356   | 3636    | The Cyber Swiss Army Knife - a web app for encrypt... | 2025-09-04   |
-| [MHDDoS](https://github.com/MatrixTM/MHDDoS) | 14627   | 3309    | Best DDoS Attack Script  Python3, (Cyber / DDos) A... | 2025-09-03   |
-| [airi](https://github.com/moeru-ai/airi) | 12518   | 1027    | 💖🧸 Self hosted, you owned Grok Companion, a ... | 2025-09-04   |
-| [90DaysOfCyberSecurity](https://github.com/farhanashrafdev/90DaysOfCyberSecurity) | 11455   | 1279    | This repository contains a 90-day cybersecurity st... | 2025-09-04   |
-| [Mindmap](https://github.com/Ignitetechnologies/Mindmap) | 8322    | 1626    | This repository will contain many mindmaps for cyb... | 2025-09-03   |
-| [awesome-ml-for-cybersecurity](https://github.com/jivoi/awesome-ml-for-cybersecurity) | 7742    | 1823    |  :octocat: Machine Learning for Cyber Security | 2025-09-03   |
-| [opencti](https://github.com/OpenCTI-Platform/opencti) | 7699    | 1120    | Open Cyber Threat Intelligence Platform | 2025-09-03   |
-| [pyWhat](https://github.com/bee-san/pyWhat) | 7042    | 383     | 🐸   Identify anything. pyWhat easily lets you i... | 2025-09-03   |
-| [yakit](https://github.com/yaklang/yakit) | 6740    | 768     | Cyber Security ALL-IN-ONE Platform | 2025-09-03   |
-| [Awesome-Black-Friday-Cyber-Monday](https://github.com/trungdq88/Awesome-Black-Friday-Cyber-Monday) | 6050    | 1190    | Awesome deals on Black Friday: Apps, SaaS, Books, ... | 2025-09-01   |
-| [deepdarkCTI](https://github.com/fastfire/deepdarkCTI) | 5598    | 973     | Collection of Cyber Threat Intelligence sources fr... | 2025-09-03   |
-| [awesome-cybersecurity-blueteam](https://github.com/fabacab/awesome-cybersecurity-blueteam) | 4872    | 745     | :computer:🛡️ A curated collection of awesome ... | 2025-09-03   |
-| [CyberEngineTweaks](https://github.com/maximegmd/CyberEngineTweaks) | 4728    | 296     | Cyberpunk 2077 tweaks, hacks and scripting framewo... | 2025-09-03   |
-| [awesome-cyber-skills](https://github.com/joe-shenouda/awesome-cyber-skills) | 4018    | 497     | A curated list of hacking environments where you c... | 2025-09-02   |
-| [APT_CyberCriminal_Campagin_Collections](https://github.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections) | 3958    | 965     | APT & CyberCriminal Campaign Collection | 2025-09-03   |
-| [cyberduck](https://github.com/iterate-ch/cyberduck) | 3898    | 316     | Cyberduck is a libre FTP, SFTP, WebDAV, Amazon S3,... | 2025-09-03   |
-| [BruteShark](https://github.com/odedshimon/BruteShark) | 3273    | 358     | Network Analysis Tool           | 2025-09-03   |
-| [awesome-canbus](https://github.com/iDoka/awesome-canbus) | 2739    | 328     | :articulated_lorry: Awesome CAN bus tools, hardwar... | 2025-09-02   |
-| [Awesome-Cybersecurity-Handbooks](https://github.com/0xsyr0/Awesome-Cybersecurity-Handbooks) | 2737    | 366     | A huge chunk of my personal notes since I started ... | 2025-09-03   |
-| [the_cyber_plumbers_handbook](https://github.com/opsdisk/the_cyber_plumbers_handbook) | 2698    | 172     | Free copy of The Cyber Plumber's Handbook - The de... | 2025-09-03   |
-| [Cyberbrain](https://github.com/laike9m/Cyberbrain) | 2541    | 160     | Python debugging, redefined.    | 2025-08-29   |
-| [Cybersecurity-Resources](https://github.com/Nickyie/Cybersecurity-Resources) | 2433    | 346     | A Library of various cybersecurity resources | 2025-09-03   |
-| [awesome-cyber-security-university](https://github.com/brootware/awesome-cyber-security-university) | 2370    | 233     | 🎓 Because Education should be free. Contributio... | 2025-09-03   |
-| [Wifi-Hacking](https://github.com/ankit0183/Wifi-Hacking) | 2213    | 334     | Cyber Security Tool For Hacking Wireless Connectio... | 2025-09-02   |
-| [digital-forensics-lab](https://github.com/frankwxu/digital-forensics-lab) | 2137    | 477     | Free hands-on digital forensics labs for students ... | 2025-09-03   |
+| [CyberChef](https://github.com/gchq/CyberChef) | 32443   | 3652    | The Cyber Swiss Army Knife - a web app for encrypt... | 2025-09-10   |
+| [MHDDoS](https://github.com/MatrixTM/MHDDoS) | 14658   | 3320    | Best DDoS Attack Script  Python3, (Cyber / DDos) A... | 2025-09-10   |
+| [airi](https://github.com/moeru-ai/airi) | 13418   | 1130    | 💖🧸 Self hosted, you owned Grok Companion, a ... | 2025-09-10   |
+| [90DaysOfCyberSecurity](https://github.com/farhanashrafdev/90DaysOfCyberSecurity) | 11534   | 1283    | This repository contains a 90-day cybersecurity st... | 2025-09-10   |
+| [Mindmap](https://github.com/Ignitetechnologies/Mindmap) | 8338    | 1627    | This repository will contain many mindmaps for cyb... | 2025-09-10   |
+| [awesome-ml-for-cybersecurity](https://github.com/jivoi/awesome-ml-for-cybersecurity) | 7754    | 1822    |  :octocat: Machine Learning for Cyber Security | 2025-09-10   |
+| [opencti](https://github.com/OpenCTI-Platform/opencti) | 7733    | 1124    | Open Cyber Threat Intelligence Platform | 2025-09-10   |
+| [pyWhat](https://github.com/bee-san/pyWhat) | 7046    | 382     | 🐸   Identify anything. pyWhat easily lets you i... | 2025-09-10   |
+| [yakit](https://github.com/yaklang/yakit) | 6753    | 769     | Cyber Security ALL-IN-ONE Platform | 2025-09-10   |
+| [Awesome-Black-Friday-Cyber-Monday](https://github.com/trungdq88/Awesome-Black-Friday-Cyber-Monday) | 6052    | 1189    | Awesome deals on Black Friday: Apps, SaaS, Books, ... | 2025-09-09   |
+| [deepdarkCTI](https://github.com/fastfire/deepdarkCTI) | 5626    | 984     | Collection of Cyber Threat Intelligence sources fr... | 2025-09-10   |
+| [awesome-cybersecurity-blueteam](https://github.com/fabacab/awesome-cybersecurity-blueteam) | 4881    | 746     | :computer:🛡️ A curated collection of awesome ... | 2025-09-10   |
+| [CyberEngineTweaks](https://github.com/maximegmd/CyberEngineTweaks) | 4735    | 297     | Cyberpunk 2077 tweaks, hacks and scripting framewo... | 2025-09-10   |
+| [awesome-cyber-skills](https://github.com/joe-shenouda/awesome-cyber-skills) | 4022    | 497     | A curated list of hacking environments where you c... | 2025-09-10   |
+| [APT_CyberCriminal_Campagin_Collections](https://github.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections) | 3964    | 966     | APT & CyberCriminal Campaign Collection | 2025-09-09   |
+| [cyberduck](https://github.com/iterate-ch/cyberduck) | 3909    | 315     | Cyberduck is a libre FTP, SFTP, WebDAV, Amazon S3,... | 2025-09-10   |
+| [BruteShark](https://github.com/odedshimon/BruteShark) | 3277    | 358     | Network Analysis Tool           | 2025-09-10   |
+| [awesome-canbus](https://github.com/iDoka/awesome-canbus) | 2751    | 328     | :articulated_lorry: Awesome CAN bus tools, hardwar... | 2025-09-10   |
+| [Awesome-Cybersecurity-Handbooks](https://github.com/0xsyr0/Awesome-Cybersecurity-Handbooks) | 2745    | 366     | A huge chunk of my personal notes since I started ... | 2025-09-09   |
+| [the_cyber_plumbers_handbook](https://github.com/opsdisk/the_cyber_plumbers_handbook) | 2700    | 172     | Free copy of The Cyber Plumber's Handbook - The de... | 2025-09-08   |
+| [Cyberbrain](https://github.com/laike9m/Cyberbrain) | 2540    | 160     | Python debugging, redefined.    | 2025-09-09   |
+| [Cybersecurity-Resources](https://github.com/Nickyie/Cybersecurity-Resources) | 2435    | 347     | A Library of various cybersecurity resources | 2025-09-10   |
+| [awesome-cyber-security-university](https://github.com/brootware/awesome-cyber-security-university) | 2386    | 233     | 🎓 Because Education should be free. Contributio... | 2025-09-10   |
+| [Wifi-Hacking](https://github.com/ankit0183/Wifi-Hacking) | 2223    | 337     | Cyber Security Tool For Hacking Wireless Connectio... | 2025-09-10   |
+| [digital-forensics-lab](https://github.com/frankwxu/digital-forensics-lab) | 2149    | 479     | Free hands-on digital forensics labs for students ... | 2025-09-10   |
 | [cyberchef-recipes](https://github.com/mattnotmax/cyberchef-recipes) | 2130    | 272     | A list of cyber-chef recipes and curated links | 2025-08-26   |
-| [Free_CyberSecurity_Professional_Development_Resources](https://github.com/gerryguy311/Free_CyberSecurity_Professional_Development_Resources) | 1971    | 283     | An awesome list of FREE resources for training, co... | 2025-09-02   |
-| [cti](https://github.com/mitre/cti) | 1934    | 443     | Cyber Threat Intelligence Repository expressed in ... | 2025-09-03   |
-| [CyberSecurityRSS](https://github.com/zer0yu/CyberSecurityRSS) | 1816    | 238     | CyberSecurityRSS: A collection of cybersecurity rs... | 2025-09-03   |
+| [Free_CyberSecurity_Professional_Development_Resources](https://github.com/gerryguy311/Free_CyberSecurity_Professional_Development_Resources) | 1972    | 283     | An awesome list of FREE resources for training, co... | 2025-09-04   |
+| [cti](https://github.com/mitre/cti) | 1942    | 443     | Cyber Threat Intelligence Repository expressed in ... | 2025-09-10   |
+| [CyberSecurityRSS](https://github.com/zer0yu/CyberSecurityRSS) | 1818    | 238     | CyberSecurityRSS: A collection of cybersecurity rs... | 2025-09-10   |
+| [cyberpanel](https://github.com/usmannasir/cyberpanel) | 1789    | 675     | Cyber Panel - The hosting control panel for OpenLi... | 2025-09-09   |
 | [bucket-stream](https://github.com/eth0izzle/bucket-stream) | 1787    | 207     | Find interesting Amazon S3 Buckets by watching cer... | 2025-08-25   |
-| [cyberpanel](https://github.com/usmannasir/cyberpanel) | 1782    | 672     | Cyber Panel - The hosting control panel for OpenLi... | 2025-09-02   |
-| [Awesome-Cybersecurity-Datasets](https://github.com/shramos/Awesome-Cybersecurity-Datasets) | 1775    | 306     | A curated list of amazingly awesome Cybersecurity ... | 2025-09-03   |
-| [CyberScraper-2077](https://github.com/itsOwen/CyberScraper-2077) | 1763    | 161     | A Powerful web scraper powered by LLM | OpenAI, Ge... | 2025-09-03   |
-| [CyberDropDownloader](https://github.com/Jules-WinnfieldX/CyberDropDownloader) | 1725    | 203     | Bulk Gallery Downloader for Cyberdrop.me and Other... | 2025-08-30   |
-| [CyberBattleSim](https://github.com/microsoft/CyberBattleSim) | 1722    | 272     | An experimentation and research platform to invest... | 2025-08-31   |
-| [CyberSources](https://github.com/bst04/CyberSources) | 1708    | 197     | A curated list of cybersecurity tools and resource... | 2025-09-03   |
-| [awesome-cyber-security](https://github.com/fabionoth/awesome-cyber-security) | 1670    | 233     | A collection of awesome software, libraries, docum... | 2025-08-31   |
-| [cybersecurity-career-path](https://github.com/rezaduty/cybersecurity-career-path) | 1666    | 189     | Cybersecurity Career Path       | 2025-09-03   |
+| [Awesome-Cybersecurity-Datasets](https://github.com/shramos/Awesome-Cybersecurity-Datasets) | 1779    | 307     | A curated list of amazingly awesome Cybersecurity ... | 2025-09-10   |
+| [CyberScraper-2077](https://github.com/itsOwen/CyberScraper-2077) | 1770    | 162     | A Powerful web scraper powered by LLM | OpenAI, Ge... | 2025-09-10   |
+| [CyberBattleSim](https://github.com/microsoft/CyberBattleSim) | 1725    | 273     | An experimentation and research platform to invest... | 2025-09-10   |
+| [CyberDropDownloader](https://github.com/Jules-WinnfieldX/CyberDropDownloader) | 1723    | 203     | Bulk Gallery Downloader for Cyberdrop.me and Other... | 2025-09-09   |
+| [CyberSources](https://github.com/bst04/CyberSources) | 1720    | 199     | A curated list of cybersecurity tools and resource... | 2025-09-10   |
+| [awesome-cyber-security](https://github.com/fabionoth/awesome-cyber-security) | 1680    | 233     | A collection of awesome software, libraries, docum... | 2025-09-10   |
+| [cybersecurity-career-path](https://github.com/rezaduty/cybersecurity-career-path) | 1675    | 190     | Cybersecurity Career Path       | 2025-09-10   |
 | [investigations](https://github.com/AmnestyTech/investigations) | 1616    | 180     | Indicators of Compromise from Amnesty Internationa... | 2025-09-03   |
 | [succinct-cybernetics](https://github.com/espadrine/succinct-cybernetics) | 1602    | 89      | Computer Science Cheatsheets.   | 2025-08-26   |
-| [Name-That-Hash](https://github.com/bee-san/Name-That-Hash) | 1593    | 106     | 🔗  Don't know what type of hash it is? Name Tha... | 2025-09-03   |
-| [Machine-Learning-for-Cyber-Security](https://github.com/wtsxDev/Machine-Learning-for-Cyber-Security) | 1500    | 440     | Curated list of tools and resources related to the... | 2025-09-02   |
-| [Hacking-Windows](https://github.com/mytechnotalent/Hacking-Windows) | 1499    | 138     | A FREE Windows C development course where we will ... | 2025-09-02   |
-| [Lockdoor-Framework](https://github.com/SofianeHamlaoui/Lockdoor-Framework) | 1482    | 303     | 🔐 Lockdoor Framework : A Penetration Testing fr... | 2025-09-02   |
+| [Name-That-Hash](https://github.com/bee-san/Name-That-Hash) | 1597    | 106     | 🔗  Don't know what type of hash it is? Name Tha... | 2025-09-10   |
+| [Machine-Learning-for-Cyber-Security](https://github.com/wtsxDev/Machine-Learning-for-Cyber-Security) | 1501    | 441     | Curated list of tools and resources related to the... | 2025-09-09   |
+| [Hacking-Windows](https://github.com/mytechnotalent/Hacking-Windows) | 1501    | 138     | A FREE Windows C development course where we will ... | 2025-09-06   |
+| [Lockdoor-Framework](https://github.com/SofianeHamlaoui/Lockdoor-Framework) | 1486    | 302     | 🔐 Lockdoor Framework : A Penetration Testing fr... | 2025-09-09   |
 | [extempore](https://github.com/digego/extempore) | 1437    | 128     | A cyber-physical programming environment | 2025-09-02   |
-| [OSINT-SPY](https://github.com/SharadKumar97/OSINT-SPY) | 1351    | 187     | Performs OSINT scan on email/domain/ip_address/org... | 2025-09-01   |
-| [Nginx-Lua-Anti-DDoS](https://github.com/C0nw0nk/Nginx-Lua-Anti-DDoS) | 1347    | 293     | A Anti-DDoS script to protect Nginx web servers us... | 2025-09-03   |
-| [cyber](https://github.com/fubark/cyber) | 1342    | 50      | Fast and concurrent scripting.  | 2025-08-30   |
-| [TermuxCyberArmy](https://github.com/Err0r-ICA/TermuxCyberArmy) | 1321    | 83      | No description                  | 2025-09-03   |
-| [CyberController](https://github.com/KikiLetGo/CyberController) | 1312    | 251     | CyberController                 | 2025-08-21   |
-| [Windows-Optimize-Harden-Debloat](https://github.com/simeononsecurity/Windows-Optimize-Harden-Debloat) | 1311    | 91      | Enhance the security and privacy of your Windows 1... | 2025-09-02   |
-| [ThreatPursuit-VM](https://github.com/mandiant/ThreatPursuit-VM) | 1281    | 255     | Threat Pursuit Virtual Machine (VM): A fully custo... | 2025-08-27   |
-| [CyberCodeOnline](https://github.com/DexterHuang/CyberCodeOnline) | 1253    | 1310    | Cyberpunk Text MMO RPG, built with React.js & Type... | 2025-09-03   |
-| [CyberSecurity](https://github.com/Berkanktk/CyberSecurity) | 1246    | 106     | A collection of essential and foundational cyberse... | 2025-09-03   |
-| [cherrybomb](https://github.com/blst-security/cherrybomb) | 1209    | 82      | Stop half-done APIs! Cherrybomb is a CLI tool that... | 2025-08-22   |
-| [awesome-security-newsletters](https://github.com/TalEliyahu/awesome-security-newsletters) | 1149    | 77      | Periodic cyber security newsletters that capture t... | 2025-09-02   |
-| [Cybersecurity](https://github.com/harisqazi1/Cybersecurity) | 1139    | 108     | This is meant to assist people looking for entry l... | 2025-09-03   |
-| [cyberdream.nvim](https://github.com/scottmckendry/cyberdream.nvim) | 1095    | 48      | 🤖💤 High-contrast, Futuristic & Vibrant Neovi... | 2025-09-03   |
+| [OSINT-SPY](https://github.com/SharadKumar97/OSINT-SPY) | 1355    | 189     | Performs OSINT scan on email/domain/ip_address/org... | 2025-09-10   |
+| [Nginx-Lua-Anti-DDoS](https://github.com/C0nw0nk/Nginx-Lua-Anti-DDoS) | 1355    | 293     | A Anti-DDoS script to protect Nginx web servers us... | 2025-09-10   |
+| [cyber](https://github.com/fubark/cyber) | 1341    | 50      | Fast and concurrent scripting.  | 2025-09-07   |
+| [TermuxCyberArmy](https://github.com/Err0r-ICA/TermuxCyberArmy) | 1329    | 83      | No description                  | 2025-09-09   |
+| [Windows-Optimize-Harden-Debloat](https://github.com/simeononsecurity/Windows-Optimize-Harden-Debloat) | 1313    | 91      | Enhance the security and privacy of your Windows 1... | 2025-09-08   |
+| [CyberController](https://github.com/KikiLetGo/CyberController) | 1312    | 252     | CyberController                 | 2025-08-21   |
+| [ThreatPursuit-VM](https://github.com/mandiant/ThreatPursuit-VM) | 1284    | 255     | Threat Pursuit Virtual Machine (VM): A fully custo... | 2025-09-06   |
+| [CyberCodeOnline](https://github.com/DexterHuang/CyberCodeOnline) | 1256    | 1310    | Cyberpunk Text MMO RPG, built with React.js & Type... | 2025-09-08   |
+| [CyberSecurity](https://github.com/Berkanktk/CyberSecurity) | 1253    | 105     | A collection of essential and foundational cyberse... | 2025-09-09   |
+| [cherrybomb](https://github.com/blst-security/cherrybomb) | 1210    | 82      | Stop half-done APIs! Cherrybomb is a CLI tool that... | 2025-09-04   |
+| [awesome-security-newsletters](https://github.com/TalEliyahu/awesome-security-newsletters) | 1154    | 77      | Periodic cyber security newsletters that capture t... | 2025-09-09   |
+| [Cybersecurity](https://github.com/harisqazi1/Cybersecurity) | 1144    | 109     | This is meant to assist people looking for entry l... | 2025-09-10   |
+| [cyberdream.nvim](https://github.com/scottmckendry/cyberdream.nvim) | 1106    | 50      | 🤖💤 High-contrast, Futuristic & Vibrant Neovi... | 2025-09-10   |
 | [CyberWaifu](https://github.com/Syan-Lin/CyberWaifu) | 1074    | 119     | LLM + TTS 的真实感聊天机器人 | QQ 机器� | 2025-09-03   |
-| [Awesome-LLM4Cybersecurity](https://github.com/tmylla/Awesome-LLM4Cybersecurity) | 1023    | 109     | An overview of LLMs for cybersecurity. | 2025-09-01   |
-| [chepy](https://github.com/securisec/chepy) | 1005    | 57      | Chepy is a python lib/cli equivalent of the awesom... | 2025-09-02   |
-| [car](https://github.com/mitre-attack/car) | 954     | 347     | Cyber Analytics Repository      | 2025-08-10   |
-| [Ukraine-Cyber-Operations](https://github.com/curated-intel/Ukraine-Cyber-Operations) | 932     | 92      | Curated Intelligence is working with analysts from... | 2025-09-02   |
-| [awesome-rl-for-cybersecurity](https://github.com/Limmen/awesome-rl-for-cybersecurity) | 914     | 133     | A curated list of resources dedicated to reinforce... | 2025-08-29   |
-| [awesome-cybersecurity-blueteam-cn](https://github.com/satan1a/awesome-cybersecurity-blueteam-cn) | 903     | 122     | 网络安全 · 攻防对抗 · 蓝队清单，中 | 2025-08-30   |
-| [haiti](https://github.com/noraj/haiti) | 902     | 58      | :key: Hash type identifier (CLI & lib) | 2025-09-02   |
-| [Cybersecurity-Mastery-Roadmap](https://github.com/Hamed233/Cybersecurity-Mastery-Roadmap) | 901     | 133     | A comprehensive, step-by-step guide to mastering c... | 2025-09-03   |
-| [CyberThreatHunting](https://github.com/A3sal0n/CyberThreatHunting) | 898     | 173     | A collection of resources for Threat Hunters | 2025-08-29   |
-| [Awesome-SOAR](https://github.com/correlatedsecurity/Awesome-SOAR) | 883     | 138     | A curated Cyber "Security Orchestration, Automatio... | 2025-08-27   |
-| [infoooze](https://github.com/devxprite/infoooze) | 821     | 128     | A OSINT tool which helps you to quickly find infor... | 2025-09-03   |
-| [inshackle-bot](https://github.com/cyberkallan/inshackle-bot) | 795     | 202     | Get unlimited followers on Instagram for free . Bo... | 2025-09-03   |
-| [netlas-cookbook](https://github.com/netlas-io/netlas-cookbook) | 780     | 93      | The goal of this guide is very simple - to teach a... | 2025-09-01   |
+| [Awesome-LLM4Cybersecurity](https://github.com/tmylla/Awesome-LLM4Cybersecurity) | 1028    | 111     | An overview of LLMs for cybersecurity. | 2025-09-10   |
+| [chepy](https://github.com/securisec/chepy) | 1007    | 57      | Chepy is a python lib/cli equivalent of the awesom... | 2025-09-06   |
+| [car](https://github.com/mitre-attack/car) | 955     | 346     | Cyber Analytics Repository      | 2025-09-06   |
+| [Cybersecurity-Mastery-Roadmap](https://github.com/Hamed233/Cybersecurity-Mastery-Roadmap) | 951     | 139     | A comprehensive, step-by-step guide to mastering c... | 2025-09-10   |
+| [Ukraine-Cyber-Operations](https://github.com/curated-intel/Ukraine-Cyber-Operations) | 933     | 92      | Curated Intelligence is working with analysts from... | 2025-09-09   |
+| [awesome-rl-for-cybersecurity](https://github.com/Limmen/awesome-rl-for-cybersecurity) | 917     | 133     | A curated list of resources dedicated to reinforce... | 2025-09-07   |
+| [haiti](https://github.com/noraj/haiti) | 907     | 58      | :key: Hash type identifier (CLI & lib) | 2025-09-07   |
+| [awesome-cybersecurity-blueteam-cn](https://github.com/satan1a/awesome-cybersecurity-blueteam-cn) | 905     | 122     | 网络安全 · 攻防对抗 · 蓝队清单，中 | 2025-09-09   |
+| [CyberThreatHunting](https://github.com/A3sal0n/CyberThreatHunting) | 898     | 171     | A collection of resources for Threat Hunters | 2025-09-06   |
+| [infoooze](https://github.com/devxprite/infoooze) | 897     | 142     | A OSINT tool which helps you to quickly find infor... | 2025-09-10   |
+| [Awesome-SOAR](https://github.com/correlatedsecurity/Awesome-SOAR) | 886     | 140     | A curated Cyber "Security Orchestration, Automatio... | 2025-09-09   |
+| [inshackle-bot](https://github.com/cyberkallan/inshackle-bot) | 794     | 202     | Get unlimited followers on Instagram for free . Bo... | 2025-09-07   |
+| [netlas-cookbook](https://github.com/netlas-io/netlas-cookbook) | 788     | 93      | The goal of this guide is very simple - to teach a... | 2025-09-09   |
+| [tirreno](https://github.com/tirrenotechnologies/tirreno) | 780     | 82      | tirreno - Open Source Security Analytics. Understa... | 2025-09-10   |
 | [Black-Friday-2024](https://github.com/mdbootstrap/Black-Friday-2024) | 776     | 129     | Black Friday & Cyber Monday Deals (UI Kits WordPre... | 2025-08-28   |
-| [awesome-automotive-can-id](https://github.com/iDoka/awesome-automotive-can-id) | 767     | 103     | :tractor: Collect of CAN IDs and its payloads for ... | 2025-09-03   |
-| [Cyberpunk-Neon](https://github.com/Roboron3042/Cyberpunk-Neon) | 749     | 83      | Cyberpunk Neon Themes for KDE Plasma, GTK, Telegra... | 2025-09-01   |
-| [MasterParser](https://github.com/securityjoes/MasterParser) | 741     | 64      | MasterParser is a powerful DFIR tool designed for ... | 2025-08-20   |
-| [CyberSecurity](https://github.com/DerekBabb/CyberSecurity) | 733     | 177     | A curriculum for a high school cyber security cour... | 2025-09-04   |
-| [CTFs](https://github.com/Adamkadaban/CTFs) | 724     | 57      | CTF Cheat Sheet + Writeups / Files for some of the... | 2025-09-03   |
-| [Open-source-tools-for-CTI](https://github.com/BushidoUK/Open-source-tools-for-CTI) | 721     | 118     | Public Repository of Open Source Tools for Cyber T... | 2025-09-02   |
-| [Cybersecurity-Roadmap](https://github.com/thatstraw/Cybersecurity-Roadmap) | 714     | 67      | No description                  | 2025-08-31   |
-| [CyberThreatIntel](https://github.com/StrangerealIntel/CyberThreatIntel) | 713     | 134     | Analysis of malware and Cyber Threat Intel of APT ... | 2025-08-16   |
-| [osint_toolkit](https://github.com/dev-lu/osint_toolkit) | 713     | 114     | Open source platform for cyber security analysts w... | 2025-08-31   |
+| [awesome-automotive-can-id](https://github.com/iDoka/awesome-automotive-can-id) | 773     | 103     | :tractor: Collect of CAN IDs and its payloads for ... | 2025-09-10   |
+| [Cyberpunk-Neon](https://github.com/Roboron3042/Cyberpunk-Neon) | 750     | 84      | Cyberpunk Neon Themes for KDE Plasma, GTK, Telegra... | 2025-09-05   |
+| [MasterParser](https://github.com/securityjoes/MasterParser) | 742     | 65      | MasterParser is a powerful DFIR tool designed for ... | 2025-09-10   |
+| [CyberSecurity](https://github.com/DerekBabb/CyberSecurity) | 734     | 177     | A curriculum for a high school cyber security cour... | 2025-09-08   |
+| [Open-source-tools-for-CTI](https://github.com/BushidoUK/Open-source-tools-for-CTI) | 723     | 119     | Public Repository of Open Source Tools for Cyber T... | 2025-09-09   |
+| [CTFs](https://github.com/Adamkadaban/CTFs) | 723     | 57      | CTF Cheat Sheet + Writeups / Files for some of the... | 2025-09-10   |
+| [Cybersecurity-Roadmap](https://github.com/thatstraw/Cybersecurity-Roadmap) | 716     | 67      | No description                  | 2025-09-10   |
+| [osint_toolkit](https://github.com/dev-lu/osint_toolkit) | 716     | 115     | Open source platform for cyber security analysts w... | 2025-09-10   |
+| [CyberThreatIntel](https://github.com/StrangerealIntel/CyberThreatIntel) | 714     | 134     | Analysis of malware and Cyber Threat Intel of APT ... | 2025-09-10   |
 | [FunctionStomping](https://github.com/Idov31/FunctionStomping) | 706     | 97      | Shellcode injection technique. Given as C++ header... | 2025-08-27   |
-| [cyberdog_ros2](https://github.com/MiRoboticsLab/cyberdog_ros2) | 701     | 201     | ROS 2 packages for CyberDog     | 2025-08-27   |
-| [Microsoft-Extractor-Suite](https://github.com/invictus-ir/Microsoft-Extractor-Suite) | 696     | 100     | A PowerShell module for acquisition of data from M... | 2025-09-03   |
-| [CTI-fundamentals](https://github.com/curated-intel/CTI-fundamentals) | 687     | 77      | A collection of papers, blogs, and resources that ... | 2025-09-01   |
-| [cheatsheets](https://github.com/cipher387/cheatsheets) | 676     | 101     | High quality and text versions of cheat sheets fro... | 2025-09-02   |
-| [rex](https://github.com/angr/rex) | 649     | 103     | Shellphish's automated exploitation engine, origin... | 2025-08-29   |
-| [PracticalCyberSecurityResources](https://github.com/brcyrr/PracticalCyberSecurityResources) | 644     | 97      | This repository contains a curated list of resourc... | 2025-08-31   |
-| [CyberPhish](https://github.com/Cyber-Dioxide/CyberPhish) | 631     | 94      | A heavily armed customizable phishing tool for edu... | 2025-09-01   |
-| [CyberFSR2](https://github.com/PotatoOfDoom/CyberFSR2) | 625     | 66      | FidelityFx Super Resolution 2.0 for Cyberpunk | 2025-09-01   |
-| [awesome-annual-security-reports](https://github.com/jacobdjwilson/awesome-annual-security-reports) | 621     | 88      | A curated list of annual cyber security reports | 2025-09-03   |
-| [Kumpulan-Script-Termux](https://github.com/landy22granatt/Kumpulan-Script-Termux) | 617     | 126     | Ok, Langsung Saja Ke Materi. Sesuai Judul, Disini ... | 2025-09-03   |
-| [GHOSTS](https://github.com/cmu-sei/GHOSTS) | 599     | 77      | GHOSTS is a realistic user simulation framework fo... | 2025-08-30   |
-| [5pillars](https://github.com/DFIRmadness/5pillars) | 583     | 83      | A guide on how to become an Information (or Cyber)... | 2025-08-11   |
-| [Cybersecurity-Books](https://github.com/zealraj/Cybersecurity-Books) | 580     | 126     | Here you will get awesome collection of mostly all... | 2025-09-03   |
-| [firewalla](https://github.com/firewalla/firewalla) | 579     | 138     | http://firewalla.com            | 2025-09-03   |
+| [cyberdog_ros2](https://github.com/MiRoboticsLab/cyberdog_ros2) | 702     | 201     | ROS 2 packages for CyberDog     | 2025-09-05   |
+| [Microsoft-Extractor-Suite](https://github.com/invictus-ir/Microsoft-Extractor-Suite) | 699     | 101     | A PowerShell module for acquisition of data from M... | 2025-09-08   |
+| [CTI-fundamentals](https://github.com/curated-intel/CTI-fundamentals) | 688     | 77      | A collection of papers, blogs, and resources that ... | 2025-09-05   |
+| [cheatsheets](https://github.com/cipher387/cheatsheets) | 679     | 101     | High quality and text versions of cheat sheets fro... | 2025-09-10   |
+| [rex](https://github.com/angr/rex) | 650     | 103     | Shellphish's automated exploitation engine, origin... | 2025-09-07   |
+| [PracticalCyberSecurityResources](https://github.com/brcyrr/PracticalCyberSecurityResources) | 644     | 97      | This repository contains a curated list of resourc... | 2025-09-08   |
+| [CyberPhish](https://github.com/Cyber-Dioxide/CyberPhish) | 632     | 94      | A heavily armed customizable phishing tool for edu... | 2025-09-10   |
+| [CyberFSR2](https://github.com/PotatoOfDoom/CyberFSR2) | 626     | 66      | FidelityFx Super Resolution 2.0 for Cyberpunk | 2025-09-05   |
+| [awesome-annual-security-reports](https://github.com/jacobdjwilson/awesome-annual-security-reports) | 625     | 89      | A curated list of annual cyber security reports | 2025-09-10   |
+| [Kumpulan-Script-Termux](https://github.com/landy22granatt/Kumpulan-Script-Termux) | 624     | 127     | Ok, Langsung Saja Ke Materi. Sesuai Judul, Disini ... | 2025-09-10   |
+| [GHOSTS](https://github.com/cmu-sei/GHOSTS) | 601     | 77      | GHOSTS is a realistic user simulation framework fo... | 2025-09-08   |
+| [5pillars](https://github.com/DFIRmadness/5pillars) | 584     | 83      | A guide on how to become an Information (or Cyber)... | 2025-09-10   |
+| [Cybersecurity-Books](https://github.com/zealraj/Cybersecurity-Books) | 580     | 127     | Here you will get awesome collection of mostly all... | 2025-09-03   |
+| [firewalla](https://github.com/firewalla/firewalla) | 579     | 138     | http://firewalla.com            | 2025-09-10   |
 | [Cryptography-and-Cyber-Security](https://github.com/FIT-DNU/Cryptography-and-Cyber-Security) | 575     | 5       | An toàn, bảo mật thông tin | 2025-08-22   |
-| [CyberEdge](https://github.com/Symph0nia/CyberEdge) | 562     | 70      | 互联网资产综合扫描/攻击面测绘 | 2025-09-03   |
-| [CYBER-BOT-COMMUNITY](https://github.com/cyber-ullash/CYBER-BOT-COMMUNITY) | 558     | 2328    | Done change Description. It's massager Mirai bot. ... | 2025-09-03   |
-| [awesome-cybersecurity-internships](https://github.com/paralax/awesome-cybersecurity-internships) | 549     | 69      | a list of cybersecurity internships | 2025-08-28   |
+| [CYBER-BOT-COMMUNITY](https://github.com/cyber-ullash/CYBER-BOT-COMMUNITY) | 572     | 2455    | Done change Description. It's massager Mirai bot. ... | 2025-09-10   |
+| [CyberEdge](https://github.com/Symph0nia/CyberEdge) | 564     | 70      | 互联网资产综合扫描/攻击面测绘 | 2025-09-10   |
+| [awesome-cybersecurity-internships](https://github.com/paralax/awesome-cybersecurity-internships) | 550     | 69      | a list of cybersecurity internships | 2025-09-10   |
 | [Getting-into-InfoSec-and-Cybersecurity](https://github.com/Abacus-Group-RTO/Getting-into-InfoSec-and-Cybersecurity) | 543     | 66      | A shorter, less intimidating list of infosec resou... | 2025-06-12   |
-| [realm](https://github.com/spellshift/realm) | 536     | 45      | Realm is a cross platform Red Team engagement plat... | 2025-09-03   |
+| [realm](https://github.com/spellshift/realm) | 542     | 46      | Realm is a cross platform Red Team engagement plat... | 2025-09-08   |
+| [DyberPet](https://github.com/ChaozhongLiu/DyberPet) | 533     | 48      | Desktop Cyber Pet Framework based on PySide6 | 2025-09-10   |
 | [luos_engine](https://github.com/Luos-io/luos_engine) | 530     | 58      | Open-source and real-time orchestrator for cyber-p... | 2025-08-31   |
-| [DyberPet](https://github.com/ChaozhongLiu/DyberPet) | 529     | 48      | Desktop Cyber Pet Framework based on PySide6 | 2025-09-02   |
 | [Tools-termux](https://github.com/Taoviqinvicible/Tools-termux) | 521     | 0       | 1.[Script Termux] -Cmatrix *apt-get update *apt-ge... | 2025-09-02   |
-| [cyber-security-books](https://github.com/DoS0x99/cyber-security-books) | 515     | 147     | A collection of FREE cyber security books | 2025-09-02   |
-| [tram](https://github.com/center-for-threat-informed-defense/tram) | 512     | 102     | TRAM is an open-source platform designed to advanc... | 2025-08-25   |
-| [Cybersecurity-Roadmap](https://github.com/carlcastanas/Cybersecurity-Roadmap) | 509     | 49      | No description                  | 2025-09-02   |
+| [cyber-security-books](https://github.com/DoS0x99/cyber-security-books) | 517     | 147     | A collection of FREE cyber security books | 2025-09-09   |
+| [Cybersecurity-Roadmap](https://github.com/carlcastanas/Cybersecurity-Roadmap) | 514     | 50      | No description                  | 2025-09-10   |
+| [tram](https://github.com/center-for-threat-informed-defense/tram) | 514     | 102     | TRAM is an open-source platform designed to advanc... | 2025-09-06   |
+| [CyberDropDownloader](https://github.com/jbsparrow/CyberDropDownloader) | 495     | 44      | Bulk Gallery Downloader for Cyberdrop.me and Other... | 2025-09-10   |
 | [CyberRange](https://github.com/secdevops-cuse/CyberRange) | 491     | 91      | The Open-Source AWS Cyber Range | 2025-08-12   |
-| [CyberDropDownloader](https://github.com/jbsparrow/CyberDropDownloader) | 488     | 44      | Bulk Gallery Downloader for Cyberdrop.me and Other... | 2025-09-03   |
+| [All-In-One-CyberSecurity-Resources](https://github.com/vatsalgupta67/All-In-One-CyberSecurity-Resources) | 484     | 62      | List of CyberSecurity Resources and some different... | 2025-09-09   |
 | [cybergurukulam](https://github.com/amfoss/cybergurukulam) | 480     | 1       | Archive for the source of a website for "CyberGuru... | 2025-08-07   |
-| [All-In-One-CyberSecurity-Resources](https://github.com/vatsalgupta67/All-In-One-CyberSecurity-Resources) | 479     | 63      | List of CyberSecurity Resources and some different... | 2025-09-03   |
 | [Cyber-Defence](https://github.com/nccgroup/Cyber-Defence) | 476     | 97      | Information released publicly by NCC Group's Cyber... | 2025-08-26   |
-| [Cyberonix](https://github.com/TeamDefronix/Cyberonix) | 472     | 95      | Cyberonix is a complete resource hub for Cyber Sec... | 2025-09-01   |
-| [awesome-llm-cybersecurity-tools](https://github.com/tenable/awesome-llm-cybersecurity-tools) | 472     | 50      | A curated list of large language model tools for c... | 2025-09-02   |
+| [awesome-llm-cybersecurity-tools](https://github.com/tenable/awesome-llm-cybersecurity-tools) | 473     | 50      | A curated list of large language model tools for c... | 2025-09-07   |
+| [Cyberonix](https://github.com/TeamDefronix/Cyberonix) | 472     | 95      | Cyberonix is a complete resource hub for Cyber Sec... | 2025-09-10   |
 | [Awesome-Black-Friday-Cyber-Monday-deals](https://github.com/twf-nikhila/Awesome-Black-Friday-Cyber-Monday-deals) | 463     | 225     | 🟢 2024 Deals Live - Black Friday & Cyber Monday... | 2025-08-19   |
-| [cyberbro](https://github.com/stanfrbd/cyberbro) | 451     | 45      | A simple application that extracts your IoCs from ... | 2025-09-03   |
-| [CyberScan](https://github.com/medbenali/CyberScan) | 448     | 133     | CyberScan: Network's Forensics ToolKit | 2025-08-12   |
-| [kunge-cybersecurity-learning](https://github.com/sechelper/kunge-cybersecurity-learning) | 448     | 148     | 全网首创，坤哥网安学习法，最屌没� | 2025-09-02   |
-| [OpenUBA](https://github.com/GACWR/OpenUBA) | 447     | 254     | A robust, and flexible open source User & Entity B... | 2025-09-03   |
-| [Real-CyberSecurity-Datasets](https://github.com/gfek/Real-CyberSecurity-Datasets) | 446     | 68      | Public datasets to help you address various cyber ... | 2025-09-01   |
-| [CyberEther](https://github.com/luigifcruz/CyberEther) | 441     | 14      | Multi-platform GPU-accelerated interface for compu... | 2025-09-02   |
+| [cyberbro](https://github.com/stanfrbd/cyberbro) | 453     | 45      | A simple application that extracts your IoCs from ... | 2025-09-10   |
+| [kunge-cybersecurity-learning](https://github.com/sechelper/kunge-cybersecurity-learning) | 450     | 148     | 全网首创，坤哥网安学习法，最屌没� | 2025-09-10   |
+| [CyberScan](https://github.com/medbenali/CyberScan) | 448     | 134     | CyberScan: Network's Forensics ToolKit | 2025-08-12   |
+| [OpenUBA](https://github.com/GACWR/OpenUBA) | 448     | 255     | A robust, and flexible open source User & Entity B... | 2025-09-05   |
+| [Real-CyberSecurity-Datasets](https://github.com/gfek/Real-CyberSecurity-Datasets) | 447     | 69      | Public datasets to help you address various cyber ... | 2025-09-07   |
+| [CyberEther](https://github.com/luigifcruz/CyberEther) | 443     | 14      | Multi-platform GPU-accelerated interface for compu... | 2025-09-09   |
 | [Cyber-Sec-Resources](https://github.com/scspcommunity/Cyber-Sec-Resources) | 440     | 131     | An organized list of resources including tools, bl... | 2025-08-30   |
-| [specification](https://github.com/CycloneDX/specification) | 421     | 70      | OWASP CycloneDX is a full-stack Bill of Materials ... | 2025-09-02   |
-| [gsvsoc_cirt-playbook-battle-cards](https://github.com/guardsight/gsvsoc_cirt-playbook-battle-cards) | 412     | 79      | Cyber Incident Response Team Playbook Battle Cards | 2025-09-03   |
+| [specification](https://github.com/CycloneDX/specification) | 423     | 71      | OWASP CycloneDX is a full-stack Bill of Materials ... | 2025-09-09   |
+| [gsvsoc_cirt-playbook-battle-cards](https://github.com/guardsight/gsvsoc_cirt-playbook-battle-cards) | 414     | 80      | Cyber Incident Response Team Playbook Battle Cards | 2025-09-07   |
 | [CyberLink4Android](https://github.com/CharonChui/CyberLink4Android) | 403     | 138     | CyberLink for Android is a development package for... | 2025-08-25   |
-| [CyberControllerServer](https://github.com/KikiLetGo/CyberControllerServer) | 401     | 140     | CyberController for PC          | 2025-08-21   |
+| [CyberControllerServer](https://github.com/KikiLetGo/CyberControllerServer) | 401     | 141     | CyberController for PC          | 2025-08-21   |
 | [CyberryPotter_ElectromagicWand_Basic_Project](https://github.com/lyg09270/CyberryPotter_ElectromagicWand_Basic_Project) | 401     | 43      | Cyberry Potter electromagic wand.的基础工程�... | 2025-08-26   |
-| [cybergarage-upnp](https://github.com/cybergarage/cybergarage-upnp) | 399     | 149     | cybergarage-upnp is a development package for UPnP... | 2025-08-30   |
-| [cyberdeck](https://github.com/BenMakesEverything/cyberdeck) | 393     | 27      | This contains the 3D files and parts list for my F... | 2025-08-23   |
+| [cybergarage-upnp](https://github.com/cybergarage/cybergarage-upnp) | 400     | 149     | cybergarage-upnp is a development package for UPnP... | 2025-09-06   |
+| [cyberdeck](https://github.com/BenMakesEverything/cyberdeck) | 394     | 27      | This contains the 3D files and parts list for my F... | 2025-09-10   |
 | [Venom](https://github.com/Idov31/Venom) | 389     | 56      | Venom is a library that meant to perform evasive c... | 2025-08-27   |
-| [wifi-hacking.py](https://github.com/akashblackhat/wifi-hacking.py) | 387     | 53      | Cyber Security Tool For Hacking Wireless Connectio... | 2025-09-03   |
+| [wifi-hacking.py](https://github.com/akashblackhat/wifi-hacking.py) | 387     | 54      | Cyber Security Tool For Hacking Wireless Connectio... | 2025-09-03   |
 | [Cybersecurity-Doughnuts](https://github.com/ZivJia/Cybersecurity-Doughnuts) | 383     | 58      | Fullstack engineer's checklist for your cybersecur... | 2025-09-02   |
+| [python-for-cybersecurity](https://github.com/hposton/python-for-cybersecurity) | 378     | 225     | This repository holds the Python scripts discussed... | 2025-09-09   |
+| [FOTOSPLOIT-](https://github.com/Juanhacker051/FOTOSPLOIT-) | 378     | 41      | *FotoSploit*  $ git clone https://github.com/Cesar... | 2025-09-04   |
 | [Lucifer](https://github.com/Skiller9090/Lucifer) | 377     | 83      | A Powerful Penetration Tool For Automating Penetra... | 2025-08-31   |
-| [FOTOSPLOIT-](https://github.com/Juanhacker051/FOTOSPLOIT-) | 377     | 41      | *FotoSploit*  $ git clone https://github.com/Cesar... | 2025-09-03   |
-| [python-for-cybersecurity](https://github.com/hposton/python-for-cybersecurity) | 376     | 224     | This repository holds the Python scripts discussed... | 2025-08-26   |
 | [CyberNvim](https://github.com/pgosar/CyberNvim) | 370     | 14      | CyberNvim: A IDE-like Neovim distribution. Simplic... | 2025-09-03   |
 | [cyberpunk](https://github.com/prometheux-ar/cyberpunk) | 368     | 44      | A theme for visual studio code  | 2025-07-24   |
 | [geoip-attack-map](https://github.com/MatthewClarkMay/geoip-attack-map) | 360     | 208     | Cyber security geoip attack map that follows syslo... | 2025-06-19   |
-| [go-cyber](https://github.com/cybercongress/go-cyber) | 358     | 89      | Your 🔵 Superintelligence     | 2025-08-19   |
-| [awesome-cyber-security](https://github.com/okhosting/awesome-cyber-security) | 358     | 44      | A curated list of cyber security resources and too... | 2025-09-02   |
-| [cybersecurity-roadmap](https://github.com/jassics/cybersecurity-roadmap) | 357     | 52      | Skills and career roadmap for various security rol... | 2025-09-03   |
-| [HUST-CSE-Experiments](https://github.com/ZCXu1/HUST-CSE-Experiments) | 353     | 60      | 华中科技大学网络空间安全学院课程�... | 2025-08-05   |
-| [Machine-Learning-for-Cybersecurity-Cookbook](https://github.com/PacktPublishing/Machine-Learning-for-Cybersecurity-Cookbook) | 344     | 184     | Machine Learning for Cybersecurity Cookbook, publi... | 2025-09-03   |
-| [AutoAudit](https://github.com/ddzipp/AutoAudit) | 344     | 39      | AutoAudit—— the LLM for Cyber Security 网络� | 2025-09-03   |
-| [Tools](https://github.com/cyberguideme/Tools) | 342     | 91      | Cyber Security Tools            | 2025-08-28   |
-| [CyberpunkSaveEditor](https://github.com/PixelRick/CyberpunkSaveEditor) | 337     | 47      | A tool to edit Cyberpunk 2077 sav.dat files | 2025-08-12   |
-| [CyberspaceSecurity](https://github.com/BUPT-Resource/CyberspaceSecurity) | 336     | 75      | 网络空间安全学院        | 2025-09-01   |
+| [awesome-cyber-security](https://github.com/okhosting/awesome-cyber-security) | 359     | 44      | A curated list of cyber security resources and too... | 2025-09-07   |
+| [go-cyber](https://github.com/cybercongress/go-cyber) | 358     | 90      | Your 🔵 Superintelligence     | 2025-08-19   |
+| [cybersecurity-roadmap](https://github.com/jassics/cybersecurity-roadmap) | 358     | 53      | Skills and career roadmap for various security rol... | 2025-09-08   |
+| [HUST-CSE-Experiments](https://github.com/ZCXu1/HUST-CSE-Experiments) | 352     | 61      | 华中科技大学网络空间安全学院课程�... | 2025-09-06   |
+| [AutoAudit](https://github.com/ddzipp/AutoAudit) | 346     | 39      | AutoAudit—— the LLM for Cyber Security 网络� | 2025-09-05   |
+| [Tools](https://github.com/cyberguideme/Tools) | 345     | 92      | Cyber Security Tools            | 2025-09-10   |
+| [Machine-Learning-for-Cybersecurity-Cookbook](https://github.com/PacktPublishing/Machine-Learning-for-Cybersecurity-Cookbook) | 345     | 184     | Machine Learning for Cybersecurity Cookbook, publi... | 2025-09-10   |
+| [CyberspaceSecurity](https://github.com/BUPT-Resource/CyberspaceSecurity) | 336     | 74      | 网络空间安全学院        | 2025-09-01   |
+| [CyberpunkSaveEditor](https://github.com/PixelRick/CyberpunkSaveEditor) | 336     | 47      | A tool to edit Cyberpunk 2077 sav.dat files | 2025-09-04   |
 | [CyberPipe](https://github.com/dwmetz/CyberPipe) | 330     | 52      | An easy to use PowerShell script to collect memory... | 2025-08-30   |
-| [cyberapi](https://github.com/vicanso/cyberapi) | 329     | 37      | API tool based on tauri, it is smaller and faster. | 2025-08-28   |
-| [DFW1N-OSINT](https://github.com/DFW1N/DFW1N-OSINT) | 326     | 45      | Australian Open Source Intelligence Gathering Reso... | 2025-08-20   |
+| [cyberapi](https://github.com/vicanso/cyberapi) | 330     | 37      | API tool based on tauri, it is smaller and faster. | 2025-09-07   |
+| [DFW1N-OSINT](https://github.com/DFW1N/DFW1N-OSINT) | 327     | 45      | Australian Open Source Intelligence Gathering Reso... | 2025-09-10   |
 | [samples](https://github.com/CyberGrandChallenge/samples) | 325     | 111     | DARPA Cyber Grand Challenge Sample Challenges | 2025-08-12   |
-| [Cybersecurity101](https://github.com/danieldonda/Cybersecurity101) | 319     | 39      | Um guia abrangente para iniciantes na área de cib... | 2025-08-26   |
-| [cybertron](https://github.com/nlpodyssey/cybertron) | 319     | 27      | Cybertron: the home planet of the Transformers in ... | 2025-09-02   |
+| [Cybersecurity101](https://github.com/danieldonda/Cybersecurity101) | 322     | 39      | Um guia abrangente para iniciantes na área de cib... | 2025-09-07   |
+| [cybertron](https://github.com/nlpodyssey/cybertron) | 321     | 28      | Cybertron: the home planet of the Transformers in ... | 2025-09-09   |
 | [cyber-security-hub.github.io](https://github.com/Cyber-Security-Hub/cyber-security-hub.github.io) | 318     | 19      | Cyber Security Trainings        | 2025-07-23   |
-| [cyberspy](https://github.com/Darkmux/cyberspy) | 313     | 16      | Plugin for Termux in order to extend its functions... | 2025-08-04   |
+| [cyberspy](https://github.com/Darkmux/cyberspy) | 314     | 16      | Plugin for Termux in order to extend its functions... | 2025-09-04   |
+| [Cybersecurity-Indonesia](https://github.com/screetsec/Cybersecurity-Indonesia) | 310     | 49      | Kumpulan Course Video pembalajaran tentang Cyber S... | 2025-09-08   |
 | [rawsec-cybersecurity-inventory](https://github.com/noraj/rawsec-cybersecurity-inventory) | 309     | 64      | An inventory of tools and resources about CyberSec... | 2025-08-22   |
-| [Cybersecurity-Indonesia](https://github.com/screetsec/Cybersecurity-Indonesia) | 308     | 48      | Kumpulan Course Video pembalajaran tentang Cyber S... | 2025-08-30   |
-| [DyberPet_GenshinImpact](https://github.com/ChaozhongLiu/DyberPet_GenshinImpact) | 307     | 26      | Genshin Impact Desktop Cyber Pet built with DyberP... | 2025-08-16   |
+| [DyberPet_GenshinImpact](https://github.com/ChaozhongLiu/DyberPet_GenshinImpact) | 308     | 26      | Genshin Impact Desktop Cyber Pet built with DyberP... | 2025-09-04   |
+| [cybersec-path](https://github.com/isaqueprofeta/cybersec-path) | 307     | 35      | Path "Zero to Hero" "No Bull$h1t" em Segurança Ci... | 2025-09-10   |
+| [awesome-cybersecurity-agentic-ai](https://github.com/raphabot/awesome-cybersecurity-agentic-ai) | 307     | 41      | No description                  | 2025-09-08   |
 | [Cyber-Security-Resources](https://github.com/Aksheet10/Cyber-Security-Resources) | 305     | 53      | I have collected many Free Resources. Feel free sh... | 2025-08-25   |
-| [awesome-cybersecurity-agentic-ai](https://github.com/raphabot/awesome-cybersecurity-agentic-ai) | 305     | 41      | No description                  | 2025-08-31   |
-| [cybersec-path](https://github.com/isaqueprofeta/cybersec-path) | 304     | 35      | Path "Zero to Hero" "No Bull$h1t" em Segurança Ci... | 2025-09-02   |
+| [python-for-cybersecurity](https://github.com/jassics/python-for-cybersecurity) | 304     | 106     | Python for cybersecurity with the basic concepts, ... | 2025-09-08   |
+| [cybertype](https://github.com/MananTank/cybertype) | 304     | 21      | A Fast & Minimal Typing App     | 2025-09-09   |
 | [cybersecurity-resources](https://github.com/sujayadkesar/cybersecurity-resources) | 303     | 41      | Cybersecurity Resources         | 2025-08-30   |
-| [cybertype](https://github.com/MananTank/cybertype) | 303     | 21      | A Fast & Minimal Typing App     | 2025-09-02   |
-| [python-for-cybersecurity](https://github.com/jassics/python-for-cybersecurity) | 302     | 105     | Python for cybersecurity with the basic concepts, ... | 2025-09-03   |
 | [CSSR](https://github.com/0x000NULL/CSSR) | 297     | 110     | Repository of practice, guides, list, and scripts ... | 2025-08-25   |
+| [SEU-CyberSecurity-courses](https://github.com/WCY-dt/SEU-CyberSecurity-courses) | 296     | 27      | 东南大学网络空间安全学院学习资料� | 2025-09-10   |
 | [IDACyber](https://github.com/patois/IDACyber) | 295     | 32      | Data Visualization Plugin for IDA Pro | 2025-08-27   |
+| [Termux](https://github.com/uday-khan/Termux) | 295     | 22      | KUMPULAN CODE TERMUX LENGKAP   | SPAM CHAT WHATSAP... | 2025-09-09   |
 | [Labtainers](https://github.com/mfthomps/Labtainers) | 292     | 74      | Labtainers: A Docker-based cyber lab framework | 2025-08-25   |
-| [SEU-CyberSecurity-courses](https://github.com/WCY-dt/SEU-CyberSecurity-courses) | 291     | 27      | 东南大学网络空间安全学院学习资料� | 2025-09-03   |
-| [Termux](https://github.com/uday-khan/Termux) | 291     | 21      | KUMPULAN CODE TERMUX LENGKAP   | SPAM CHAT WHATSAP... | 2025-09-03   |
+| [CYBER-X-WHATSAPP-BOT](https://github.com/darkalphaxteam/CYBER-X-WHATSAPP-BOT) | 290     | 2225    | A 3ʳᵈ Party user bot for WhatsApp. Developed by... | 2025-09-10   |
 | [hackingLibrary](https://github.com/jwx0539/hackingLibrary) | 288     | 259     | ‪APT,‬ ‪Cyber warfare,‬ ‪Penetration tes... | 2025-09-02   |
-| [CYBER-X-WHATSAPP-BOT](https://github.com/darkalphaxteam/CYBER-X-WHATSAPP-BOT) | 287     | 2209    | A 3ʳᵈ Party user bot for WhatsApp. Developed by... | 2025-08-30   |
 | [cybersec-notes](https://github.com/ir0nstone/cybersec-notes) | 287     | 24      | My notes on pwn                 | 2025-09-01   |
 | [Cyber-Bookmarks](https://github.com/x0rb3l/Cyber-Bookmarks) | 286     | 38      | A list of bookmarks I have used since I started my... | 2025-07-23   |
-| [Intrusion-Detection-Systems](https://github.com/rahulvigneswaran/Intrusion-Detection-Systems) | 281     | 106     | This is the repo of the research paper, "Evaluatin... | 2025-08-19   |
+| [Intrusion-Detection-Systems](https://github.com/rahulvigneswaran/Intrusion-Detection-Systems) | 282     | 106     | This is the repo of the research paper, "Evaluatin... | 2025-09-10   |
 | [awesome-cybersecurity-conferences](https://github.com/TalEliyahu/awesome-cybersecurity-conferences) | 278     | 28      | Watch the latest awesome security talks around the... | 2025-08-26   |
 | [SCPA](https://github.com/ghostsec420/SCPA) | 275     | 64      | Sophisticated cyber penetration attacks is a serie... | 2025-08-07   |
 | [cyberpunk-theme.el](https://github.com/n3mo/cyberpunk-theme.el) | 270     | 48      | Cyberpunk theme for emacs built-in color theme sup... | 2025-08-26   |
+| [My-CyberSecurity-Store](https://github.com/Raunaksplanet/My-CyberSecurity-Store) | 268     | 82      | This repository contains a comprehensive collectio... | 2025-09-10   |
+| [cti-blueprints](https://github.com/center-for-threat-informed-defense/cti-blueprints) | 265     | 40      | CTI Blueprints is a free suite of templates and to... | 2025-09-07   |
 | [MrKaplan](https://github.com/Idov31/MrKaplan) | 265     | 49      | MrKaplan is a tool aimed to help red teamers to st... | 2025-08-28   |
-| [My-CyberSecurity-Store](https://github.com/Raunaksplanet/My-CyberSecurity-Store) | 263     | 82      | This repository contains a comprehensive collectio... | 2025-09-02   |
-| [cti-blueprints](https://github.com/center-for-threat-informed-defense/cti-blueprints) | 263     | 40      | CTI Blueprints is a free suite of templates and to... | 2025-09-01   |
 | [Cyberpunk-2077-theme-css](https://github.com/gwannon/Cyberpunk-2077-theme-css) | 262     | 41      | This is a theme in CSS3 to simulate the interfaxes... | 2025-08-30   |
 | [patcherex](https://github.com/angr/patcherex) | 261     | 46      | Shellphish's automated patching engine, originally... | 2025-08-29   |
 | [cyberowl](https://github.com/karimhabush/cyberowl) | 259     | 20      | A daily updated summary of the most frequent types... | 2025-08-22   |
-| [CyberCAT-SimpleGUI](https://github.com/Deweh/CyberCAT-SimpleGUI) | 257     | 49      | A simplified offshoot of SirBitesalot's CyberCAT. | 2025-08-25   |
+| [CyberCAT-SimpleGUI](https://github.com/Deweh/CyberCAT-SimpleGUI) | 256     | 50      | A simplified offshoot of SirBitesalot's CyberCAT. | 2025-09-04   |
 | [FalconGate](https://github.com/A3sal0n/FalconGate) | 254     | 59      | A smart gateway to stop cyber criminals - Sponsore... | 2025-06-26   |
-| [cradle](https://github.com/prodaft/cradle) | 253     | 16      | CRADLE is a collaborative platform for Cyber Threa... | 2025-08-31   |
+| [cradle](https://github.com/prodaft/cradle) | 253     | 16      | CRADLE is a collaborative platform for Cyber Threa... | 2025-09-05   |
+| [InfosecHouse](https://github.com/InfosecHouse/InfosecHouse) | 252     | 57      | Tools & Resources for Cyber Security Operations | 2025-09-08   |
 | [scot](https://github.com/sandialabs/scot) | 251     | 48      | Sandia Cyber Omni Tracker (SCOT) | 2025-08-29   |
-| [Awesome-Search-Engines-for-Cybersecurity-Researchers](https://github.com/onhexgroup/Awesome-Search-Engines-for-Cybersecurity-Researchers) | 251     | 43      | Awesome list of Search Engines for Cybersecurity R... | 2025-09-03   |
-| [Awesome-Cyber-Security-List](https://github.com/emtuls/Awesome-Cyber-Security-List) | 249     | 92      | No description                  | 2025-08-25   |
-| [InfosecHouse](https://github.com/InfosecHouse/InfosecHouse) | 248     | 57      | Tools & Resources for Cyber Security Operations | 2025-08-31   |
-| [CyberRT](https://github.com/minhanghuang/CyberRT) | 247     | 102     | Baidu Apollo v10.0.0 CyberRT Framework  CMake Buil... | 2025-08-28   |
-| [cyberdog_ws](https://github.com/MiRoboticsLab/cyberdog_ws) | 247     | 45      | No description                  | 2025-08-29   |
-| [Cyberry_Potter_Electromagic_Wand](https://github.com/lyg09270/Cyberry_Potter_Electromagic_Wand) | 246     | 43      | This is a magic wand which can record and transmit... | 2025-08-26   |
+| [Awesome-Search-Engines-for-Cybersecurity-Researchers](https://github.com/onhexgroup/Awesome-Search-Engines-for-Cybersecurity-Researchers) | 251     | 45      | Awesome list of Search Engines for Cybersecurity R... | 2025-09-09   |
+| [Awesome-Cyber-Security-List](https://github.com/emtuls/Awesome-Cyber-Security-List) | 250     | 92      | No description                  | 2025-09-08   |
+| [CyberRT](https://github.com/minhanghuang/CyberRT) | 249     | 102     | Baidu Apollo v10.0.0 CyberRT Framework  CMake Buil... | 2025-09-10   |
+| [cyberdog_ws](https://github.com/MiRoboticsLab/cyberdog_ws) | 247     | 46      | No description                  | 2025-08-29   |
+| [Cyberry_Potter_Electromagic_Wand](https://github.com/lyg09270/Cyberry_Potter_Electromagic_Wand) | 247     | 44      | This is a magic wand which can record and transmit... | 2025-09-05   |
 | [malware_api_class](https://github.com/ocatak/malware_api_class) | 246     | 37      | Malware dataset for security researchers, data sci... | 2025-08-09   |
-| [CyberdropBunkrDownloader](https://github.com/PaaaulZ/CyberdropBunkrDownloader) | 242     | 49      | Simple downloader for cyberdrop.me and bunkrr.sk | 2025-09-02   |
-| [Cyber-Security-chatGPT-prompt](https://github.com/DummyKitty/Cyber-Security-chatGPT-prompt) | 240     | 44      | some prompt about cyber security | 2025-09-02   |
+| [CyberdropBunkrDownloader](https://github.com/PaaaulZ/CyberdropBunkrDownloader) | 243     | 49      | Simple downloader for cyberdrop.me and bunkrr.sk | 2025-09-09   |
+| [Cyber-Security-chatGPT-prompt](https://github.com/DummyKitty/Cyber-Security-chatGPT-prompt) | 243     | 44      | some prompt about cyber security | 2025-09-08   |
 | [Awesome-AI-for-cybersecurity](https://github.com/Billy1900/Awesome-AI-for-cybersecurity) | 231     | 32      | Awesome list of AI for cybersecurity including net... | 2025-08-31   |
-| [Go-Hacking](https://github.com/mytechnotalent/Go-Hacking) | 226     | 22      | A FREE comprehensive online Go hacking tutorial ut... | 2025-09-01   |
-| [Sec_Mind_Maps](https://github.com/h0tak88r/Sec_Mind_Maps) | 221     | 35      | cyber security mind maps collection | 2025-08-21   |
+| [Go-Hacking](https://github.com/mytechnotalent/Go-Hacking) | 227     | 22      | A FREE comprehensive online Go hacking tutorial ut... | 2025-09-07   |
+| [Sec_Mind_Maps](https://github.com/h0tak88r/Sec_Mind_Maps) | 222     | 35      | cyber security mind maps collection | 2025-09-08   |
 | [3commas-cyber-bots](https://github.com/cyberjunky/3commas-cyber-bots) | 221     | 68      | 3Commas bot helpers, AltRank, GalaxyScore, Watchli... | 2025-08-31   |
 | [My-Security-Resources](https://github.com/stevenyu113228/My-Security-Resources) | 218     | 17      | My note about Cyber Security,  in Chinese, English... | 2025-08-19   |
-| [cybersecurity-resources](https://github.com/alex-bellon/cybersecurity-resources) | 216     | 35      | Resources for learning about cybersecurity and CTF... | 2025-08-21   |
+| [cybersecurity-resources](https://github.com/alex-bellon/cybersecurity-resources) | 217     | 35      | Resources for learning about cybersecurity and CTF... | 2025-09-08   |
+| [cyber-doctor](https://github.com/Warma10032/cyber-doctor) | 217     | 25      | 赛博医生项目——”赛博华佗“，基�... | 2025-09-08   |
 | [cyber-dojo](https://github.com/JonJagger/cyber-dojo) | 212     | 92      | NOTE: cyber-dojo development has moved to... | 2024-11-02   |
-| [cyber-doctor](https://github.com/Warma10032/cyber-doctor) | 212     | 24      | 赛博医生项目——”赛博华佗“，基�... | 2025-09-03   |
+| [CyberSecurityRoadmapSuggestions](https://github.com/brcyrr/CyberSecurityRoadmapSuggestions) | 210     | 28      | This repository contains a list of roadmaps I crea... | 2025-09-08   |
 | [cyber-security](https://github.com/alik604/cyber-security) | 210     | 45      | Machine Learning for Network Intrusion Detection &... | 2025-08-31   |
-| [CyberSecurityRoadmapSuggestions](https://github.com/brcyrr/CyberSecurityRoadmapSuggestions) | 209     | 28      | This repository contains a list of roadmaps I crea... | 2025-08-23   |
+| [cybersecurity](https://github.com/paulveillard/cybersecurity) | 206     | 49      | Welcome Cybersecurity's World. An ongoing & curate... | 2025-09-08   |
 | [cybercongress](https://github.com/cybercongress/cybercongress) | 206     | 31      | Helping humanity evolve         | 2025-08-25   |
-| [cybersecurity](https://github.com/paulveillard/cybersecurity) | 205     | 49      | Welcome Cybersecurity's World. An ongoing & curate... | 2025-09-03   |
-| [cyber-apocalypse-2024](https://github.com/hackthebox/cyber-apocalypse-2024) | 205     | 41      | Official writeups for Cyber Apocalypse CTF 2024: H... | 2025-08-23   |
+| [cyber-apocalypse-2024](https://github.com/hackthebox/cyber-apocalypse-2024) | 206     | 41      | Official writeups for Cyber Apocalypse CTF 2024: H... | 2025-09-10   |
 | [cyberspace-sdk](https://github.com/cyberspace-dev/cyberspace-sdk) | 205     | 9       | Cyberspace.dev - Online Competition For Coders. | 2025-04-17   |
 | [Hacking-Rust](https://github.com/mytechnotalent/Hacking-Rust) | 203     | 12      | A  FREE comprehensive online Rust hacking tutorial... | 2025-08-29   |
-| [cyberdesk](https://github.com/cyberdesk-hq/cyberdesk) | 201     | 31      | Open source virtual desktops for AI agents | 2025-09-03   |
+| [cyberdesk](https://github.com/cyberdesk-hq/cyberdesk) | 202     | 31      | Open source virtual desktops for AI agents | 2025-09-10   |
 | [cyberdrop.me-downloaders](https://github.com/cyberdrop-me/cyberdrop.me-downloaders) | 200     | 46      | List of downloaders built by the community | 2025-08-27   |
 | [CyberRadio](https://github.com/luigifcruz/CyberRadio) | 199     | 18      | 📻 An SDR Based FM/AM Radio For Desktop. Acceler... | 2025-08-13   |
+| [rare-big-deal](https://github.com/danmindru/rare-big-deal) | 199     | 249     | 🎁 App deals for Black Friday/Cyber Monday etc. ... | 2025-09-08   |
 | [Cyber-Security-Resources](https://github.com/vlakhani28/Cyber-Security-Resources) | 199     | 46      | No description                  | 2025-05-25   |
 | [CTI-Analyst-Challenge](https://github.com/BushidoUK/CTI-Analyst-Challenge) | 199     | 19      | An analytical challenge created to test junior ana... | 2025-07-13   |
 | [CyberSpaceSearchEngine-Research](https://github.com/EXHades/CyberSpaceSearchEngine-Research) | 198     | 47      | 网络空间测绘/搜索引擎相关的资料 | 2025-07-02   |
-| [rare-big-deal](https://github.com/danmindru/rare-big-deal) | 198     | 249     | 🎁 App deals for Black Friday/Cyber Monday etc. ... | 2025-08-31   |
 | [raven](https://github.com/qeeqbox/raven) | 198     | 54      | Advanced Cyber Threat Map (Simplified, customizabl... | 2025-08-25   |
 | [Hands-on-Machine-Learning-for-Cyber-Security](https://github.com/PacktPublishing/Hands-on-Machine-Learning-for-Cyber-Security) | 195     | 110     | Hands-On Machine Learning for Cybersecurity, publi... | 2025-09-01   |
 | [BAJINGANv6](https://github.com/DarknessCyberTeam/BAJINGANv6) | 195     | 136     | Tools Auto installer from Darkness Cyber Team We S... | 2025-07-29   |
 | [cyberclopaedia](https://github.com/cr0mll/cyberclopaedia) | 192     | 21      | This is an aspiring project aimed at accumulating ... | 2025-08-27   |
-| [AeroSpace-Cybersecurity](https://github.com/r0r0x-xx/AeroSpace-Cybersecurity) | 190     | 16      | No description                  | 2025-09-03   |
-| [100-days-of-cybersecurity](https://github.com/vaishnavucv/100-days-of-cybersecurity) | 188     | 140     | 100 days of cybersecurity - join Discord and conne... | 2025-08-19   |
-| [CyberSecurity-and-Pentesting-Exam-Resources](https://github.com/cybergeekgyan/CyberSecurity-and-Pentesting-Exam-Resources) | 187     | 43      | Top 5 ethical hacking books to get started? Top 5 ... | 2025-08-31   |
+| [AeroSpace-Cybersecurity](https://github.com/r0r0x-xx/AeroSpace-Cybersecurity) | 192     | 16      | No description                  | 2025-09-07   |
+| [SecBERT](https://github.com/jackaduma/SecBERT) | 189     | 34      | pretrained BERT model for cyber security text, lea... | 2025-09-07   |
+| [cybernetics](https://github.com/navy2609/cybernetics) | 188     | 74      | 控制论相关资料           | 2025-09-10   |
+| [100-days-of-cybersecurity](https://github.com/vaishnavucv/100-days-of-cybersecurity) | 188     | 139     | 100 days of cybersecurity - join Discord and conne... | 2025-08-19   |
+| [CyberSecurity-and-Pentesting-Exam-Resources](https://github.com/cybergeekgyan/CyberSecurity-and-Pentesting-Exam-Resources) | 188     | 44      | Top 5 ethical hacking books to get started? Top 5 ... | 2025-09-05   |
 | [awesome-cybersec](https://github.com/dhotrey/awesome-cybersec) | 187     | 32      | A collection of awesome platforms, blogs, document... | 2025-07-12   |
-| [SecBERT](https://github.com/jackaduma/SecBERT) | 187     | 34      | pretrained BERT model for cyber security text, lea... | 2025-08-31   |
-| [cybernetics](https://github.com/navy2609/cybernetics) | 186     | 74      | 控制论相关资料           | 2025-08-31   |
-| [Cyber-Sploit](https://github.com/Cyber-Dioxide/Cyber-Sploit) | 184     | 25      | A framework like a metasploit containg a variety o... | 2025-09-03   |
-| [Sec-88](https://github.com/h0tak88r/Sec-88) | 182     | 46      | Cyber Security Notes, Methodology, Resources and T... | 2025-09-03   |
+| [Cyber-Sploit](https://github.com/Cyber-Dioxide/Cyber-Sploit) | 185     | 26      | A framework like a metasploit containg a variety o... | 2025-09-09   |
+| [Sec-88](https://github.com/h0tak88r/Sec-88) | 183     | 46      | Cyber Security Notes, Methodology, Resources and T... | 2025-09-11   |
+| [minicps](https://github.com/scy-phy/minicps) | 180     | 75      | MiniCPS: a framework for Cyber-Physical Systems re... | 2025-09-09   |
 | [cl-unix-cybernetics](https://github.com/cl-unix-cybernetics/cl-unix-cybernetics) | 180     | 10      | UNIX system administration in Common Lisp | 2025-04-28   |
 | [CyberBiology](https://github.com/CyberBiology/CyberBiology) | 179     | 40      | Artificial life - rewrited project of foo52ru on J... | 2025-08-27   |
-| [minicps](https://github.com/scy-phy/minicps) | 179     | 75      | MiniCPS: a framework for Cyber-Physical Systems re... | 2025-08-31   |
 | [ICS-Security-Study-Resources](https://github.com/Ka0sKl0wN/ICS-Security-Study-Resources) | 178     | 39      | A curated list of resources that I recommend when ... | 2025-07-26   |
 | [cybersecuritystream.github.io](https://github.com/cybersecuritystream/cybersecuritystream.github.io) | 176     | 6       | Cybersecurity Stream page       | 2025-06-11   |
 | [Standalone-Windows-STIG-Script](https://github.com/simeononsecurity/Standalone-Windows-STIG-Script) | 176     | 24      | Create a compliant and secure Windows 10/11 system... | 2025-08-31   |
 | [Cyber-Security-Baseline-for-Consumer-Internet-of-Things](https://github.com/MiSecurity/Cyber-Security-Baseline-for-Consumer-Internet-of-Things) | 175     | 56      | 消费级物联网安全基线  | 2025-05-25   |
+| [CyberGhostWeapon](https://github.com/MrHarshArora/CyberGhostWeapon) | 174     | 24      | This is a SMS And Call Bomber For Linux And Termux... | 2025-09-10   |
 | [Phishing-Website-Detection](https://github.com/chamanthmvs/Phishing-Website-Detection) | 174     | 69      | It is a project of detecting phishing websites whi... | 2025-09-02   |
+| [cyber-apocalypse-2025](https://github.com/hackthebox/cyber-apocalypse-2025) | 173     | 25      | Official writeups for Cyber Apocalypse CTF 2025: T... | 2025-09-10   |
 | [cyber-ops-with-bash](https://github.com/cybersecurityops/cyber-ops-with-bash) | 172     | 82      | Script repository for the book Cybersecurity Ops w... | 2025-07-21   |
 | [TheCyberHub](https://github.com/th3cyb3rhub/TheCyberHub) | 171     | 168     | Welcome to TheCyberHUB, a community-driven platfor... | 2025-09-03   |
-| [cyber-apocalypse-2025](https://github.com/hackthebox/cyber-apocalypse-2025) | 171     | 24      | Official writeups for Cyber Apocalypse CTF 2025: T... | 2025-09-03   |
 | [cyb-ts](https://github.com/cybercongress/cyb-ts) | 171     | 48      | Immortal robot for the Great Web | 2025-09-03   |
 | [dynamite-nsm](https://github.com/DynamiteAI/dynamite-nsm) | 171     | 22      | DynamiteNSM is a free Network Security Monitor dev... | 2025-07-21   |
 | [cyberprobe](https://github.com/cybermaggedon/cyberprobe) | 170     | 67      | Capturing, analysing and responding to cyber attac... | 2024-12-02   |
-| [CyberGhostWeapon](https://github.com/MrHarshArora/CyberGhostWeapon) | 169     | 24      | This is a SMS And Call Bomber For Linux And Termux... | 2025-08-30   |
-| [practical-ml-for-cybersecurity](https://github.com/shramos/practical-ml-for-cybersecurity) | 168     | 103     | More than twenty practical cases with real dataset... | 2025-08-29   |
+| [practical-ml-for-cybersecurity](https://github.com/shramos/practical-ml-for-cybersecurity) | 169     | 105     | More than twenty practical cases with real dataset... | 2025-09-04   |
+| [cyber.dhs.gov](https://github.com/cisagov/cyber.dhs.gov) | 166     | 65      | A site for CISA directives      | 2025-09-08   |
+| [Hands-On-Artificial-Intelligence-for-Cybersecurity](https://github.com/PacktPublishing/Hands-On-Artificial-Intelligence-for-Cybersecurity) | 166     | 102     | Hands-On Artificial Intelligence for Cybersecurity... | 2025-09-09   |
 | [Cyberbrain-Deprecated](https://github.com/laike9m/Cyberbrain-Deprecated) | 166     | 11      | [Deprecation] This project has been deprecated. De... | 2024-01-13   |
-| [cyber.dhs.gov](https://github.com/cisagov/cyber.dhs.gov) | 165     | 65      | A site for CISA directives      | 2025-08-09   |
-| [Hands-On-Artificial-Intelligence-for-Cybersecurity](https://github.com/PacktPublishing/Hands-On-Artificial-Intelligence-for-Cybersecurity) | 165     | 101     | Hands-On Artificial Intelligence for Cybersecurity... | 2025-08-27   |
-| [DocIntel](https://github.com/docintelapp/DocIntel) | 165     | 27      | Open Source Platform for storing, organizing, and ... | 2025-08-19   |
-| [Prot1ntelligence](https://github.com/C3n7ral051nt4g3ncy/Prot1ntelligence) | 165     | 19      | Protintelligence is a Python script for the OSINT ... | 2025-08-23   |
+| [DocIntel](https://github.com/docintelapp/DocIntel) | 166     | 27      | Open Source Platform for storing, organizing, and ... | 2025-09-06   |
+| [Prot1ntelligence](https://github.com/C3n7ral051nt4g3ncy/Prot1ntelligence) | 166     | 19      | Protintelligence is a Python script for the OSINT ... | 2025-09-07   |
 | [CyberPunkOS](https://github.com/cyberpunkOS/CyberPunkOS) | 164     | 19      | CyberPunkOS is a virtual machine that incorporates... | 2025-08-23   |
-| [WIFI-HACKING](https://github.com/U7P4L-IN/WIFI-HACKING) | 163     | 41      | ⚡Cyber Security Tool For Hacking Wireless Connec... | 2025-09-03   |
+| [cyber-security-llm-agents](https://github.com/NVISOsecurity/cyber-security-llm-agents) | 164     | 27      | A collection of agents that use Large Language Mod... | 2025-09-09   |
+| [WIFI-HACKING](https://github.com/U7P4L-IN/WIFI-HACKING) | 164     | 42      | ⚡Cyber Security Tool For Hacking Wireless Connec... | 2025-09-09   |
+| [cyber-dojo](https://github.com/cyber-dojo/cyber-dojo) | 163     | 34      | home repo for the cyber-dojo organization | 2025-09-06   |
 | [TireFire](https://github.com/CoolHandSquid/TireFire) | 163     | 31      | Automate the scanning and enumeration of machines ... | 2025-09-01   |
-| [CYBERFICTION-SOURCE-CODE](https://github.com/aadilkhan08/CYBERFICTION-SOURCE-CODE) | 162     | 172     | No description                  | 2025-08-27   |
-| [cyber-dojo](https://github.com/cyber-dojo/cyber-dojo) | 162     | 34      | home repo for the cyber-dojo organization | 2025-08-23   |
+| [CYBERFICTION-SOURCE-CODE](https://github.com/aadilkhan08/CYBERFICTION-SOURCE-CODE) | 162     | 173     | No description                  | 2025-08-27   |
 | [turbo-scanner](https://github.com/mytechnotalent/turbo-scanner) | 162     | 32      | A port scanner and service detection tool that use... | 2025-09-01   |
 | [CybersecurityNote](https://github.com/yingshang/CybersecurityNote) | 161     | 22      | 信息安全笔记（JAVA安全、代码审计、� | 2025-09-01   |
+| [docker-cyberchef](https://github.com/mpepping/docker-cyberchef) | 161     | 31      | GCHQ CyberChef in a container   | 2025-09-10   |
 | [CDIR](https://github.com/CyberDefenseInstitute/CDIR) | 161     | 25      | CDIR (Cyber Defense Institute Incident Response) C... | 2025-08-20   |
+| [CyberLab-Mega-Bezel-Death-To-Pixels-Shader-Preset-Pack](https://github.com/CyberLabSystems/CyberLab-Mega-Bezel-Death-To-Pixels-Shader-Preset-Pack) | 161     | 1       | No description                  | 2025-09-10   |
 | [CyberCAT](https://github.com/WolvenKit/CyberCAT) | 160     | 32      | CyberPunk 2077 Customization Assistant Tool. Work ... | 2025-07-01   |
-| [Cybersecurity-Notes](https://github.com/Twigonometry/Cybersecurity-Notes) | 160     | 49      | My Markdown notes for all things cybersecurity | 2025-08-27   |
-| [cyber-security-llm-agents](https://github.com/NVISOsecurity/cyber-security-llm-agents) | 160     | 25      | A collection of agents that use Large Language Mod... | 2025-09-03   |
+| [Cybersecurity-Notes](https://github.com/Twigonometry/Cybersecurity-Notes) | 160     | 48      | My Markdown notes for all things cybersecurity | 2025-08-27   |
 | [Knowledge-enhanced-Attack-Graph](https://github.com/li-zhenyuan/Knowledge-enhanced-Attack-Graph) | 160     | 40      | AttacKG: Constructing Knowledge-enhanced Attack Gr... | 2025-08-25   |
-| [CyberLab-Mega-Bezel-Death-To-Pixels-Shader-Preset-Pack](https://github.com/CyberLabSystems/CyberLab-Mega-Bezel-Death-To-Pixels-Shader-Preset-Pack) | 160     | 1       | No description                  | 2025-09-01   |
-| [docker-cyberchef](https://github.com/mpepping/docker-cyberchef) | 159     | 31      | GCHQ CyberChef in a container   | 2025-08-22   |
-| [awesome-cybersecurity](https://github.com/Annsec/awesome-cybersecurity) | 158     | 24      | Curated list of awesome cybersecurity companies an... | 2025-07-29   |
+| [awesome-cybersecurity](https://github.com/Annsec/awesome-cybersecurity) | 159     | 24      | Curated list of awesome cybersecurity companies an... | 2025-09-06   |
+| [typedb-cti](https://github.com/typedb-osi/typedb-cti) | 158     | 16      | Open Source Threat Intelligence Platform | 2025-09-06   |
 | [cybersecurity-note](https://github.com/vaishnavucv/cybersecurity-note) | 157     | 84      | notes                           | 2025-08-16   |
-| [typedb-cti](https://github.com/typedb-osi/typedb-cti) | 157     | 16      | Open Source Threat Intelligence Platform | 2025-08-27   |
 | [ForensicMiner](https://github.com/securityjoes/ForensicMiner) | 157     | 20      | A really good DFIR automation for collecting and a... | 2025-08-21   |
 | [cybersecurity](https://github.com/0xk4b1r/cybersecurity) | 156     | 19      | Cyber Security Handbook         | 2025-07-26   |
-| [Cyberspace_Security_Learning](https://github.com/sp4rkw/Cyberspace_Security_Learning) | 156     | 29      | 在学习CTF、网络安全路上整合自己博� | 2025-08-30   |
-| [Embedded-Hacking](https://github.com/mytechnotalent/Embedded-Hacking) | 156     | 20      | A FREE comprehensive step-by-step embedded hacking... | 2025-08-20   |
+| [Embedded-Hacking](https://github.com/mytechnotalent/Embedded-Hacking) | 156     | 20      | A FREE comprehensive step-by-step embedded hacking... | 2025-09-10   |
 | [CyberBiology3](https://github.com/OakwoodTable/CyberBiology3) | 155     | 26      | Artificial evolution, made with C++ | 2025-08-11   |
 | [cyberpunk-iterm](https://github.com/Murderlon/cyberpunk-iterm) | 155     | 37      | 👾 Hacker colorscheme for iTerm | 2025-08-28   |
+| [Cyberspace_Security_Learning](https://github.com/sp4rkw/Cyberspace_Security_Learning) | 155     | 29      | 在学习CTF、网络安全路上整合自己博� | 2025-09-10   |
 | [CyberChef-server](https://github.com/gchq/CyberChef-server) | 154     | 54      | A server providing RESTful access to CyberChef  | 2025-09-01   |
-| [Writeups](https://github.com/evyatar9/Writeups) | 153     | 16      | This repository contains writeups for various CTFs... | 2025-08-20   |
-| [cyber-pulse](https://github.com/grackerai/cyber-pulse) | 152     | 13      | A comprehensive collection of cybersecurity inform... | 2025-08-07   |
+| [Writeups](https://github.com/evyatar9/Writeups) | 154     | 16      | This repository contains writeups for various CTFs... | 2025-09-08   |
+| [cyber-pulse](https://github.com/grackerai/cyber-pulse) | 153     | 13      | A comprehensive collection of cybersecurity inform... | 2025-09-07   |
+| [CraxsRat-v6.7-Source-Code](https://github.com/maxamin/CraxsRat-v6.7-Source-Code) | 153     | 49      | CraxsRat is a sophisticated Android remote access ... | 2025-09-07   |
 | [crime-mapper](https://github.com/mr-r3b00t/crime-mapper) | 151     | 18      | A tool for mapping cyber crime  | 2025-08-28   |
 | [exist](https://github.com/nict-csl/exist) | 152     | 30      | EXIST is a web application for aggregating and ana... | 2025-06-04   |
-| [CraxsRat-v6.7-Source-Code](https://github.com/maxamin/CraxsRat-v6.7-Source-Code) | 150     | 48      | CraxsRat is a sophisticated Android remote access ... | 2025-09-02   |
-| [akun-termux](https://github.com/Rizalcahdemak/akun-termux) | 149     | 8       | Skip to content arysandi/kumpulan kode di termux C... | 2025-09-02   |
-| [PowerShell-Automation-and-Scripting-for-Cybersecurity](https://github.com/PacktPublishing/PowerShell-Automation-and-Scripting-for-Cybersecurity) | 148     | 53      | PowerShell Automation and Scripting for CyberSecur... | 2025-08-15   |
+| [PowerShell-Automation-and-Scripting-for-Cybersecurity](https://github.com/PacktPublishing/PowerShell-Automation-and-Scripting-for-Cybersecurity) | 149     | 53      | PowerShell Automation and Scripting for CyberSecur... | 2025-09-09   |
+| [akun-termux](https://github.com/Rizalcahdemak/akun-termux) | 149     | 8       | Skip to content arysandi/kumpulan kode di termux C... | 2025-09-10   |
 | [Threatelligence](https://github.com/syphon1c/Threatelligence) | 148     | 60      | Threatelligence is a simple cyber threat intellige... | 2025-03-24   |
-| [who_and_what_to_follow](https://github.com/santosomar/who_and_what_to_follow) | 146     | 38      | Who and what to follow in the world of cyber secur... | 2025-09-01   |
+| [who_and_what_to_follow](https://github.com/santosomar/who_and_what_to_follow) | 147     | 38      | Who and what to follow in the world of cyber secur... | 2025-09-04   |
 | [aura-botnet](https://github.com/watersalesman/aura-botnet) | 145     | 50      | A super portable botnet framework with a Django-ba... | 2025-09-01   |
 | [cybersecurity-interview-guide](https://github.com/tayontech/cybersecurity-interview-guide) | 145     | 15      | In depth guide for cybersecurity interviews | 2025-07-18   |
+| [ChatGPT-for-Cybersecurity-Cookbook](https://github.com/PacktPublishing/ChatGPT-for-Cybersecurity-Cookbook) | 143     | 65      | ChatGPT for Cybersecurity Cookbook, published by P... | 2025-09-07   |
 | [Cyber](https://github.com/CyberOrigin2077/Cyber) | 142     | 21      | This repo is designed for General Robotic Operatio... | 2025-09-01   |
-| [ChatGPT-for-Cybersecurity-Cookbook](https://github.com/PacktPublishing/ChatGPT-for-Cybersecurity-Cookbook) | 141     | 65      | ChatGPT for Cybersecurity Cookbook, published by P... | 2025-08-30   |
 | [cybergear_m5](https://github.com/project-sternbergia/cybergear_m5) | 140     | 18      | M5 stack library for cybergear  | 2025-08-08   |
 | [qaz-cyberdeck](https://github.com/g1sbi/qaz-cyberdeck) | 140     | 4       | A cyberdeck featuring a QAZ keyboard and Banana Pi... | 2025-08-13   |
 | [cyberpwned](https://github.com/Chiplis/cyberpwned) | 140     | 3       | Automates CP 2077's "Breach Protocol" hacking mini... | 2024-10-26   |
@@ -326,200 +327,204 @@ CyberWatchdog is your **FULLY AUTOMATED WEEKLY(THURSDAY) TRACKER** for the top G
 | [security](https://github.com/hhhparty/security) | 139     | 58      | About cyber security, data scrapy , aisec analysis... | 2025-07-23   |
 | [cybersecurity_cheatsheets](https://github.com/puzzithinker/cybersecurity_cheatsheets) | 138     | 43      | No description                  | 2025-08-29   |
 | [lactf-archive](https://github.com/uclaacm/lactf-archive) | 138     | 8       | An archive of past challenges from LA CTF hosted b... | 2025-08-20   |
+| [wmdp](https://github.com/centerforaisafety/wmdp) | 138     | 38      | WMDP is a LLM proxy benchmark for hazardous knowle... | 2025-09-07   |
 | [SC-100-Microsoft-Cybersecurity-Architect](https://github.com/MicrosoftLearning/SC-100-Microsoft-Cybersecurity-Architect) | 137     | 109     | No description                  | 2025-09-02   |
-| [Cyber-X-Beta-Release](https://github.com/darkalphaxteam/Cyber-X-Beta-Release) | 136     | 1357    | WhatsApp Bot Testing Programme  | 2025-09-02   |
-| [BlueCloud](https://github.com/iknowjason/BlueCloud) | 136     | 28      | Cyber Range including Velociraptor + HELK system w... | 2025-08-23   |
-| [wmdp](https://github.com/centerforaisafety/wmdp) | 135     | 37      | WMDP is a LLM proxy benchmark for hazardous knowle... | 2025-08-11   |
-| [cyber60](https://github.com/4pplet/cyber60) | 134     | 22      | 60% Bluetooth PCB using the nRF52840. MX, ALPS and... | 2025-08-30   |
+| [CyberBrick_Controller_Core](https://github.com/CyberBrick-Official/CyberBrick_Controller_Core) | 136     | 19      | No description                  | 2025-09-09   |
+| [Cyber-X-Beta-Release](https://github.com/darkalphaxteam/Cyber-X-Beta-Release) | 135     | 1358    | WhatsApp Bot Testing Programme  | 2025-09-10   |
+| [cyber60](https://github.com/4pplet/cyber60) | 135     | 22      | 60% Bluetooth PCB using the nRF52840. MX, ALPS and... | 2025-09-05   |
+| [BlueCloud](https://github.com/iknowjason/BlueCloud) | 135     | 28      | Cyber Range including Velociraptor + HELK system w... | 2025-09-10   |
 | [cyber-stasis](https://github.com/stateless-minds/cyber-stasis) | 134     | 4       | Post-money economy simulator in the form of a free... | 2025-08-14   |
 | [Documents](https://github.com/coderserdar/Documents) | 134     | 25      | This repo includes some kind of documentation file... | 2025-09-01   |
-| [CyberBrick_Controller_Core](https://github.com/CyberBrick-Official/CyberBrick_Controller_Core) | 133     | 17      | No description                  | 2025-09-02   |
 | [cybernetics-club](https://github.com/learning-gardens/cybernetics-club) | 133     | 11      | :arrows_clockwise: Cybernetics Reading Club | 2025-03-28   |
 | [awesome-free-cybersecurity](https://github.com/her0marodeur/awesome-free-cybersecurity) | 133     | 10      | A curated list of free cybersecurity learning reso... | 2025-09-02   |
 | [OSINT-and-Cybersecurity-accounts-in-Mastodon](https://github.com/cipher387/OSINT-and-Cybersecurity-accounts-in-Mastodon) | 131     | 10      | This repository brings together tool builders, blo... | 2025-05-05   |
 | [beymani](https://github.com/pranab/beymani) | 127     | 67      | Hadoop, Spark and Storm based anomaly detection im... | 2025-05-25   |
+| [Awesome-Cloud-Security](https://github.com/NextSecurity/Awesome-Cloud-Security) | 126     | 30      | Awesome curate list of cyber security penetration ... | 2025-09-06   |
 | [Cybergear](https://github.com/Tony607/Cybergear) | 125     | 24      | 小米微电机Cybergear上手开发 | 2025-07-06   |
 | [cyberdeck](https://github.com/CyZooNiC/cyberdeck) | 125     | 8       | No description                  | 2025-07-30   |
 | [rcATT](https://github.com/vlegoy/rcATT) | 125     | 36      | A python app to predict Att&ck tactics and techniq... | 2025-08-23   |
-| [Awesome-Cloud-Security](https://github.com/NextSecurity/Awesome-Cloud-Security) | 125     | 31      | Awesome curate list of cyber security penetration ... | 2025-08-30   |
-| [LOLBins](https://github.com/CTI-Driven/LOLBins) | 125     | 8       | The LOLBins CTI-Driven (Living-Off-the-Land Binari... | 2025-08-22   |
-| [CyberPunkNetrunner](https://github.com/MiChaelinzo/CyberPunkNetrunner) | 123     | 13      | Cyberpunk 2077 Netrunner Hacking Tool (Easy to use... | 2025-09-03   |
-| [priority-intelligence-requirements-dev](https://github.com/redhat-infosec/priority-intelligence-requirements-dev) | 123     | 13      | This guide describes a process for developing Cybe... | 2025-09-03   |
+| [LOLBins](https://github.com/CTI-Driven/LOLBins) | 125     | 11      | The LOLBins CTI-Driven (Living-Off-the-Land Binari... | 2025-08-22   |
+| [CyberPunkNetrunner](https://github.com/MiChaelinzo/CyberPunkNetrunner) | 123     | 13      | Cyberpunk 2077 Netrunner Hacking Tool (Easy to use... | 2025-09-06   |
+| [priority-intelligence-requirements-dev](https://github.com/redhat-infosec/priority-intelligence-requirements-dev) | 123     | 14      | This guide describes a process for developing Cybe... | 2025-09-03   |
+| [PyInstaCrack](https://github.com/RozhakDev/PyInstaCrack) | 123     | 28      | PyInstaCrack: Ultimate Instagram hacking suite. Py... | 2025-09-09   |
 | [cyberpython2077](https://github.com/Sentdex/cyberpython2077) | 122     | 17      | Using Python to Play Cyberpunk 2077 | 2025-08-26   |
-| [PyInstaCrack](https://github.com/RozhakDev/PyInstaCrack) | 122     | 26      | PyInstaCrack: Ultimate Instagram hacking suite. Py... | 2025-08-31   |
-| [virtualseccons](https://github.com/santosomar/virtualseccons) | 121     | 16      | An ongoing list of virtual cybersecurity conferenc... | 2025-08-20   |
-| [Ketmanto-Cybersecurity-Portfolio](https://github.com/Kwangsa19/Ketmanto-Cybersecurity-Portfolio) | 119     | 37      | I developed a rigorous cybersecurity project portf... | 2025-08-28   |
-| [google-cybersecurity](https://github.com/ethansilvas/google-cybersecurity) | 119     | 26      | Projects, notes, and write-ups I have done while c... | 2025-09-01   |
-| [realtime-embedded-conferences](https://github.com/automaticdai/realtime-embedded-conferences) | 119     | 8       | Tracking conferences in Real-time Embedded Systems... | 2025-09-01   |
-| [cyber_security_assessment](https://github.com/xlccc/cyber_security_assessment) | 118     | 61      | 网络安全测试平台专为系统脆弱性和�... | 2025-08-31   |
-| [securitytools](https://github.com/joshhighet/securitytools) | 118     | 19      | a curated, categorised collection of useful projec... | 2025-08-25   |
-| [Cybertron](https://github.com/nickmilo/Cybertron) | 117     | 23      | A revised retro theme for Obsidian inspired by Cyb... | 2025-08-24   |
+| [virtualseccons](https://github.com/santosomar/virtualseccons) | 122     | 16      | An ongoing list of virtual cybersecurity conferenc... | 2025-09-04   |
+| [google-cybersecurity](https://github.com/ethansilvas/google-cybersecurity) | 121     | 26      | Projects, notes, and write-ups I have done while c... | 2025-09-10   |
+| [Ketmanto-Cybersecurity-Portfolio](https://github.com/Kwangsa19/Ketmanto-Cybersecurity-Portfolio) | 120     | 37      | I developed a rigorous cybersecurity project portf... | 2025-09-10   |
+| [realtime-embedded-conferences](https://github.com/automaticdai/realtime-embedded-conferences) | 120     | 8       | Tracking conferences in Real-time Embedded Systems... | 2025-09-10   |
+| [securitytools](https://github.com/joshhighet/securitytools) | 119     | 19      | a curated, categorised collection of useful projec... | 2025-09-07   |
+| [cyber_security_assessment](https://github.com/xlccc/cyber_security_assessment) | 118     | 61      | 网络安全测试平台专为系统脆弱性和�... | 2025-09-08   |
+| [Cybertron](https://github.com/nickmilo/Cybertron) | 118     | 23      | A revised retro theme for Obsidian inspired by Cyb... | 2025-09-04   |
+| [Awesome_CyberSec_Bible](https://github.com/CyberAlbSecOP/Awesome_CyberSec_Bible) | 117     | 21      | Cyber-Security Bible! Theory and Tools, Kali Linux... | 2025-09-10   |
 | [Cybersecurity-jobs-skills-workshop](https://github.com/microsoft/Cybersecurity-jobs-skills-workshop) | 117     | 12      | Ce kit pédagogique a pour but de présenter aux p... | 2025-07-12   |
 | [cyb-archeology](https://github.com/cybercongress/cyb-archeology) | 117     | 19      | 🌎 Personal immortal robot for the The Great Web | 2025-07-01   |
 | [cgc-release-documentation](https://github.com/CyberGrandChallenge/cgc-release-documentation) | 116     | 43      | DARPA Cyber Grand Challenge Documentation | 2025-07-06   |
 | [Cyber-Orb](https://github.com/EnclaveGames/Cyber-Orb) | 116     | 63      | Cyber Orb is a demo game showcasing Phaser develop... | 2025-07-29   |
 | [bash-ransomware](https://github.com/SubtleScope/bash-ransomware) | 116     | 72      | Simple Bash Rasomware for use in Cyber Exercises | 2025-04-07   |
-| [Awesome_CyberSec_Bible](https://github.com/CyberAlbSecOP/Awesome_CyberSec_Bible) | 116     | 21      | Cyber-Security Bible! Theory and Tools, Kali Linux... | 2025-09-03   |
 | [AutoDRIVE](https://github.com/Tinker-Twins/AutoDRIVE) | 116     | 25      | An Integrated Cyber-Physical Ecosystem for Autonom... | 2025-09-03   |
-| [cyber-hyprland-theme](https://github.com/taylor85345/cyber-hyprland-theme) | 116     | 3       | Cyberpunk-inspired theme for Hyprland | 2025-08-22   |
+| [cyber-hyprland-theme](https://github.com/taylor85345/cyber-hyprland-theme) | 116     | 3       | Cyberpunk-inspired theme for Hyprland | 2025-09-10   |
 | [cybersecurity](https://github.com/dmalan/cybersecurity) | 115     | 41      | No description                  | 2025-08-13   |
 | [CyberIO](https://github.com/liplum/CyberIO) | 115     | 11      | The Cybernetics on Mindustry v7. | 2025-08-13   |
 | [cybersecurity-handbook](https://github.com/onebeyond/cybersecurity-handbook) | 115     | 15      | Cybersecurity handbook by One Beyond | 2025-04-11   |
-| [CyberSecurity-Books](https://github.com/pathakabhi24/CyberSecurity-Books) | 114     | 46      | This repository has E-books on Cybersecs | 2025-09-03   |
-| [CyberRT](https://github.com/storypku/CyberRT) | 114     | 37      | Apollo CyberRT framework for Autonomous Driving | 2025-08-25   |
+| [CyberSecurity-Books](https://github.com/pathakabhi24/CyberSecurity-Books) | 114     | 47      | This repository has E-books on Cybersecs | 2025-09-03   |
+| [CyberRT](https://github.com/storypku/CyberRT) | 114     | 38      | Apollo CyberRT framework for Autonomous Driving | 2025-08-25   |
 | [cybersecurity-entry-level](https://github.com/gerardokaztro/cybersecurity-entry-level) | 114     | 9       | Curso para aprender Ciberseguridad desde cero, en ... | 2025-08-26   |
 | [react-cyber-elements](https://github.com/thiswallz/react-cyber-elements) | 114     | 5       | Library with cyber punk icons / shapes. | 2025-06-17   |
 | [cyberhobo](https://github.com/feross/cyberhobo) | 113     | 5       | Offline `git push` and `npm publish` for cyberhobo... | 2024-08-31   |
 | [cybermonday](https://github.com/kiranshila/cybermonday) | 112     | 11      | Markdown as Clojure Data        | 2025-08-21   |
-| [CyNER](https://github.com/aiforsec/CyNER) | 111     | 31      | Cyber Security concepts extracted from unstructure... | 2025-08-19   |
 | [cyberrunner](https://github.com/thomasbi1/cyberrunner) | 111     | 8       | CyberRunner is an AI robot whose task is to learn ... | 2025-08-29   |
+| [CyNER](https://github.com/aiforsec/CyNER) | 111     | 32      | Cyber Security concepts extracted from unstructure... | 2025-08-19   |
 | [IntroToCyberSecurity](https://github.com/nimari/IntroToCyberSecurity) | 111     | 12      | No description                  | 2025-08-18   |
+| [CyberScores](https://github.com/matthewzring/CyberScores) | 111     | 0       | A Discord bot for interaction with the CyberPatrio... | 2025-09-09   |
+| [cybersecurity-SOAR](https://github.com/paulveillard/cybersecurity-SOAR) | 110     | 14      | A collection of awesome framework, libraries, lear... | 2025-09-06   |
 | [Cybersecurity-Tradecraft](https://github.com/ahhh/Cybersecurity-Tradecraft) | 109     | 27      | A repo to support the book      | 2025-09-01   |
-| [cybersecurity-SOAR](https://github.com/paulveillard/cybersecurity-SOAR) | 109     | 13      | A collection of awesome framework, libraries, lear... | 2025-08-28   |
 | [VTScanner](https://github.com/samhaxr/VTScanner) | 109     | 13      | A comprehensive Python-based security tool for fil... | 2025-05-25   |
-| [CyberScores](https://github.com/matthewzring/CyberScores) | 109     | 0       | A Discord bot for interaction with the CyberPatrio... | 2025-08-15   |
-| [cyberdoor](https://github.com/AnonymousAt3/cyberdoor) | 107     | 24      | Automated Payload Generator Tool | 2025-08-28   |
+| [cyberdoor](https://github.com/AnonymousAt3/cyberdoor) | 108     | 24      | Automated Payload Generator Tool | 2025-09-04   |
 | [SwordPhish](https://github.com/Schillings/SwordPhish) | 107     | 20      |  Schillings SwordPhish empowers organisations and ... | 2025-06-23   |
 | [CODAR](https://github.com/axenhammer/CODAR) | 107     | 11      | ✅ CODAR is a framework built using PyTorch to an... | 2025-06-21   |
+| [Cyberpunk-Blender-add-on](https://github.com/WolvenKit/Cyberpunk-Blender-add-on) | 106     | 23      | The Cyberpunk add-on for Blender bridges complex g... | 2025-09-10   |
 | [bluewall](https://github.com/austin-taylor/bluewall) | 106     | 25      | Bluewall is a firewall framework designed for offe... | 2024-12-13   |
 | [Cyberattack-Detection](https://github.com/antoinedelplace/Cyberattack-Detection) | 105     | 52      | Cyber Attack Detection thanks to Machine Learning ... | 2025-07-13   |
-| [CyberBox](https://github.com/0linlin0/CyberBox) | 105     | 13      | Java Exp FrameWork              | 2025-08-13   |
 | [cyberpandas](https://github.com/ContinuumIO/cyberpandas) | 105     | 22      | IP Address dtype and block for pandas | 2025-03-20   |
 | [Unified-Cybersecurity-Ontology](https://github.com/Ebiquity/Unified-Cybersecurity-Ontology) | 105     | 30      | Unified Cybersecurity Ontology  | 2025-08-02   |
-| [Cyberpunk-Blender-add-on](https://github.com/WolvenKit/Cyberpunk-Blender-add-on) | 105     | 22      | The Cyberpunk add-on for Blender bridges complex g... | 2025-09-03   |
 | [CDMCS](https://github.com/ccdcoe/CDMCS) | 106     | 35      | Cyber Defence Monitoring Course Suite :: Suricata,... | 2025-06-06   |
+| [cybertruckchallenge19](https://github.com/nowsecure/cybertruckchallenge19) | 104     | 22      | Android security workshop material taught during t... | 2025-09-05   |
 | [cyris](https://github.com/crond-jaist/cyris) | 104     | 31      | CyRIS: Cyber Range Instantiation System | 2025-08-12   |
+| [CyberBox](https://github.com/0linlin0/CyberBox) | 104     | 13      | Java Exp FrameWork              | 2025-09-05   |
+| [200-201-CBROPS-Cisco-Certified-CyberOps-Associate-Study-Guide](https://github.com/gothburz/200-201-CBROPS-Cisco-Certified-CyberOps-Associate-Study-Guide) | 104     | 24      | This repo contains notes and references for the CB... | 2025-09-09   |
 | [IMDSpoof](https://github.com/grahamhelton/IMDSpoof) | 104     | 3       | IMDSPOOF is a cyber deception tool that spoofs the... | 2025-06-25   |
-| [cybertruckchallenge19](https://github.com/nowsecure/cybertruckchallenge19) | 103     | 22      | Android security workshop material taught during t... | 2025-08-28   |
-| [200-201-CBROPS-Cisco-Certified-CyberOps-Associate-Study-Guide](https://github.com/gothburz/200-201-CBROPS-Cisco-Certified-CyberOps-Associate-Study-Guide) | 103     | 24      | This repo contains notes and references for the CB... | 2025-09-01   |
-| [Obsidian-CyberGlow](https://github.com/ThePharaohArt/Obsidian-CyberGlow) | 102     | 10      | A colorful unique theme, giving Obsidian a fresh n... | 2025-08-31   |
-| [cyber-security-base-19](https://github.com/rage/cyber-security-base-19) | 101     | 50      | No description                  | 2025-09-01   |
+| [cyber-security-base-19](https://github.com/rage/cyber-security-base-19) | 102     | 50      | No description                  | 2025-09-09   |
+| [ludus](https://github.com/badsectorlabs/ludus) | 102     | 14      | [GITLAB MIRROR] Ludus is a system to build easy to... | 2025-09-10   |
+| [GitOSINT_Bot](https://github.com/C3n7ral051nt4g3ncy/GitOSINT_Bot) | 102     | 12      | GitOSINT: The OSINT Powerhouse for Discord. The go... | 2025-09-05   |
+| [Obsidian-CyberGlow](https://github.com/ThePharaohArt/Obsidian-CyberGlow) | 101     | 10      | A colorful unique theme, giving Obsidian a fresh n... | 2025-09-04   |
+| [gsvsoc_cybersecurity-incident-response-plan](https://github.com/guardsight/gsvsoc_cybersecurity-incident-response-plan) | 101     | 22      | Cybersecurity Incident Response Plan | 2025-09-08   |
 | [CyberGroupmate](https://github.com/Archeb/CyberGroupmate) | 101     | 5       | 你的赛博群友              | 2025-08-25   |
-| [ludus](https://github.com/badsectorlabs/ludus) | 101     | 14      | [GITLAB MIRROR] Ludus is a system to build easy to... | 2025-09-03   |
-| [GitOSINT_Bot](https://github.com/C3n7ral051nt4g3ncy/GitOSINT_Bot) | 101     | 12      | GitOSINT: The OSINT Powerhouse for Discord. The go... | 2025-07-22   |
-| [CYBER-PANDA-MD.V.0.4](https://github.com/CYBER-x-SACHIYA-SL-MD-BOT/CYBER-PANDA-MD.V.0.4) | 100     | 588     | 🦋 │𝐂𝐘𝐁𝜩𝐑│𝐏𝜟𝐍𝐃� | 2025-08-24   |
+| [Telegram-OSINT-for-Cyber-Threat-Intelligence-Analysis](https://github.com/kienmarkdo/Telegram-OSINT-for-Cyber-Threat-Intelligence-Analysis) | 101     | 12      | An OSINT tool tailored for comprehensive collectio... | 2025-09-06   |
+| [CYBER-PANDA-MD.V.0.4](https://github.com/CYBER-x-SACHIYA-SL-MD-BOT/CYBER-PANDA-MD.V.0.4) | 100     | 589     | 🦋 │𝐂𝐘𝐁𝜩𝐑│𝐏𝜟𝐍𝐃� | 2025-08-24   |
 | [CyberMetric](https://github.com/cybermetric/CyberMetric) | 100     | 20      | CyberMetric dataset             | 2025-08-31   |
 | [csaf](https://github.com/csalab-id/csaf) | 100     | 24      | Cyber Security Awareness Framework (CSAF) | 2025-08-06   |
 | [CYBERPUNK-STYLE-DIY](https://github.com/11dogzi/CYBERPUNK-STYLE-DIY) | 100     | 1       | No description                  | 2025-08-31   |
 | [cybersecurity-dark-web](https://github.com/paulveillard/cybersecurity-dark-web) | 99      | 17      |  A collection of awesome software, libraries, lear... | 2025-08-14   |
-| [gsvsoc_cybersecurity-incident-response-plan](https://github.com/guardsight/gsvsoc_cybersecurity-incident-response-plan) | 99      | 20      | Cybersecurity Incident Response Plan | 2025-09-03   |
-| [Telegram-OSINT-for-Cyber-Threat-Intelligence-Analysis](https://github.com/kienmarkdo/Telegram-OSINT-for-Cyber-Threat-Intelligence-Analysis) | 99      | 12      | An OSINT tool tailored for comprehensive collectio... | 2025-08-30   |
-| [HandleHawk](https://github.com/C3n7ral051nt4g3ncy/HandleHawk) | 99      | 10      | Cross-platform username reconnaissance tool built ... | 2025-09-02   |
+| [HandleHawk](https://github.com/C3n7ral051nt4g3ncy/HandleHawk) | 99      | 11      | Cross-platform username reconnaissance tool built ... | 2025-09-06   |
 | [Cyber-Labs-Get-Started](https://github.com/Cyber-Labs/Cyber-Labs-Get-Started) | 98      | 58      | This repository contains resources to get you star... | 2025-08-25   |
 | [cyberdisc-bot](https://github.com/CyberDiscovery/cyberdisc-bot) | 98      | 35      | The bot for the Cyber Discovery Community Discord ... | 2025-06-21   |
+| [CyberGRUB-2077](https://github.com/adnksharp/CyberGRUB-2077) | 98      | 12      | GRUB Bootloader Theme Inspired by Cyberpunk 2077. | 2025-09-07   |
+| [Phoenix-CS02-CyberSecurity_Project](https://github.com/Phoenix-CS02-Cybersecurity-project/Phoenix-CS02-CyberSecurity_Project) | 98      | 15      | Cybersecurity Internship Project | 2025-09-07   |
 | [UCO](https://github.com/ucoProject/UCO) | 98      | 38      | This repository is for development of the Unified ... | 2025-08-12   |
+| [carreira-em-cyber](https://github.com/vitorluigi/carreira-em-cyber) | 98      | 24      | Repositório para disponibilização de conteúdo ... | 2025-09-10   |
+| [cyber-threat-profiling](https://github.com/tidalcyber/cyber-threat-profiling) | 98      | 17      | A library of reference materials, tools, and other... | 2025-09-08   |
 | [factory](https://github.com/oncyberio/factory) | 98      | 23      | Smart contracts for Cyber Destinations (spaces dig... | 2024-12-11   |
 | [local-first-cyberspace](https://github.com/RangerMauve/local-first-cyberspace) | 98      | 2       | A roadmap for realizing a local-first and offline-... | 2025-08-25   |
-| [Phoenix-CS02-CyberSecurity_Project](https://github.com/Phoenix-CS02-Cybersecurity-project/Phoenix-CS02-CyberSecurity_Project) | 97      | 15      | Cybersecurity Internship Project | 2025-08-23   |
 | [Cyberpunk2077Apology](https://github.com/foone/Cyberpunk2077Apology) | 97      | 10      | A generator for Cyberpunk2077 Apology images | 2025-09-02   |
 | [auto-labeled-corpus](https://github.com/stucco/auto-labeled-corpus) | 97      | 33      | Corpus of auto-labeled text for the cyber security... | 2025-07-27   |
-| [cyber-threat-profiling](https://github.com/tidalcyber/cyber-threat-profiling) | 97      | 16      | A library of reference materials, tools, and other... | 2025-08-09   |
 | [awesome-cyber](https://github.com/landoncrabtree/awesome-cyber) | 97      | 8       | A curated list of tools useful within the field of... | 2025-08-20   |
 | [ggCyberPunk](https://github.com/delabj/ggCyberPunk) | 97      | 3       | A "Geom" for creating charts with a cyberpunk aest... | 2025-06-20   |
+| [Hacking-Bug-Bounty-Books](https://github.com/Kalyan-Deva/Hacking-Bug-Bounty-Books) | 97      | 34      | Collection of Combination of 👨🏻‍💻Ethica... | 2025-09-09   |
 | [ctifeeds](https://github.com/TW-NCERT/ctifeeds) | 96      | 46      | Cyber Threat Intelligence Feeds | 2025-09-02   |
-| [CyberEye](https://github.com/cisamu123/CyberEye) | 96      | 20      | 👁️ Modded Program for remote control of windo... | 2025-09-03   |
-| [CyberGRUB-2077](https://github.com/adnksharp/CyberGRUB-2077) | 96      | 12      | GRUB Bootloader Theme Inspired by Cyberpunk 2077. | 2025-09-02   |
-| [BRON](https://github.com/ALFA-group/BRON) | 96      | 26      | "Linking Threat Tactics, Techniques, and Patterns ... | 2025-07-23   |
-| [cybersecurity-red-team](https://github.com/paulveillard/cybersecurity-red-team) | 95      | 24      | An ongoing & curated collection of awesome softwar... | 2025-08-14   |
-| [cyber_threat_intelligence](https://github.com/vuldb/cyber_threat_intelligence) | 95      | 15      | Cyber Threat Intelligence Data, Indicators, and An... | 2025-08-06   |
-| [CU-GIR](https://github.com/intel471/CU-GIR) | 95      | 7       | Cyber Underground General Intelligence Requirement... | 2025-09-01   |
+| [CyberEye](https://github.com/cisamu123/CyberEye) | 96      | 21      | 👁️ Modded Program for remote control of windo... | 2025-09-10   |
+| [cyber_threat_intelligence](https://github.com/vuldb/cyber_threat_intelligence) | 96      | 15      | Cyber Threat Intelligence Data, Indicators, and An... | 2025-09-06   |
+| [CU-GIR](https://github.com/intel471/CU-GIR) | 96      | 7       | Cyber Underground General Intelligence Requirement... | 2025-09-09   |
+| [BRON](https://github.com/ALFA-group/BRON) | 96      | 27      | "Linking Threat Tactics, Techniques, and Patterns ... | 2025-07-23   |
+| [cybersecurity-red-team](https://github.com/paulveillard/cybersecurity-red-team) | 95      | 25      | An ongoing & curated collection of awesome softwar... | 2025-08-14   |
 | [Cyber-Camera](https://github.com/amirfefer/Cyber-Camera) | 94      | 25      | Turns any webcam into a smart security camera for ... | 2025-05-25   |
 | [cyberpunk](https://github.com/gonzalo-/cyberpunk) | 94      | 9       | Cyberpunk stuff                 | 2025-08-04   |
-| [awesome-business-of-cybersecurity](https://github.com/TalEliyahu/awesome-business-of-cybersecurity) | 94      | 15      | Explore cybersecurity’s market dynamics through ... | 2025-09-03   |
 | [theCyberGuy_Recon_V1.0](https://github.com/Cyber-Guy1/theCyberGuy_Recon_V1.0) | 94      | 22      | No description                  | 2025-04-17   |
-| [Hacking-Bug-Bounty-Books](https://github.com/Kalyan-Deva/Hacking-Bug-Bounty-Books) | 94      | 33      | Collection of Combination of 👨🏻‍💻Ethica... | 2025-09-02   |
 | [cti-stix-common-objects](https://github.com/oasis-open/cti-stix-common-objects) | 94      | 39      | OASIS Cyber Threat Intelligence (CTI) TC: A reposi... | 2025-08-17   |
 | [zercurity](https://github.com/zercurity/zercurity) | 93      | 16      | Manage, monitor and improve your cyber security po... | 2025-08-14   |
 | [AIVPN](https://github.com/stratosphereips/AIVPN) | 93      | 19      | The AI VPN provides an security assessment of VPN ... | 2025-08-25   |
 | [Minesweeper-Login](https://github.com/OGoodness/Minesweeper-Login) | 93      | 4       | Minesweeper that cannot be exited in any way other... | 2025-08-30   |
+| [CyberSecurityProjects](https://github.com/SreenathYeragudi/CyberSecurityProjects) | 92      | 14      | Collection of Cyber Security Projects written in P... | 2025-09-09   |
 | [Build-a-Cybersecurity-Startup](https://github.com/llSourcell/Build-a-Cybersecurity-Startup) | 92      | 35      | This is the code for "Build a Cybersecurity Startu... | 2025-08-25   |
 | [cyberweapons](https://github.com/deeptechlabs/cyberweapons) | 91      | 39      | Automated Cyber Offense         | 2025-08-29   |
+| [Free-Cybersecurity-Resources](https://github.com/LetsDefend/Free-Cybersecurity-Resources) | 91      | 13      | Free cybersecurity resources. Learn cybersecurity ... | 2025-09-09   |
+| [awesome-business-of-cybersecurity](https://github.com/TalEliyahu/awesome-business-of-cybersecurity) | 91      | 15      | Explore cybersecurity’s market dynamics through ... | 2025-09-10   |
+| [universal_stealer_log_parser](https://github.com/milxss/universal_stealer_log_parser) | 91      | 21      | Universal stealer malware logs parser. It retrieve... | 2025-09-04   |
+| [CybORG](https://github.com/cage-challenge/CybORG) | 90      | 34      | Cyber Operations Research Gym   | 2025-09-10   |
 | [cybergift](https://github.com/Snedashkovsky/cybergift) | 90      | 23      | Gift for Ethereum, Cosmos, Osmosis and Terra users... | 2025-06-26   |
-| [universal_stealer_log_parser](https://github.com/milxss/universal_stealer_log_parser) | 90      | 21      | Universal stealer malware logs parser. It retrieve... | 2025-09-02   |
+| [investigation-templates](https://github.com/oryon-osint/investigation-templates) | 89      | 21      | A collection of markdown templates for structured ... | 2025-09-09   |
 | [AIMOD2](https://github.com/darkquasar/AIMOD2) | 89      | 11      | Adversarial Interception Mission Oriented Discover... | 2025-07-06   |
-| [CybORG](https://github.com/cage-challenge/CybORG) | 88      | 34      | Cyber Operations Research Gym   | 2025-07-23   |
-| [CyberSecurityProjects](https://github.com/SreenathYeragudi/CyberSecurityProjects) | 88      | 14      | Collection of Cyber Security Projects written in P... | 2025-08-31   |
 | [Cyber-Security](https://github.com/luisrodrigues154/Cyber-Security) | 88      | 18      | This repository is used to store answers when reso... | 2025-07-12   |
-| [Free-Cybersecurity-Resources](https://github.com/LetsDefend/Free-Cybersecurity-Resources) | 88      | 13      | Free cybersecurity resources. Learn cybersecurity ... | 2025-09-03   |
+| [ISC2-CC-Cybersecurity-Study-Material](https://github.com/NP558565/ISC2-CC-Cybersecurity-Study-Material) | 88      | 42      | My learning, tutorials on Cybersecurity | 2025-09-04   |
 | [CyberWaifu](https://github.com/jieran233/CyberWaifu) | 87      | 14      | GPT + Tacotron2/VITS + Live2D = CyberWaifu | 2025-05-09   |
 | [NLP4CyberSecurity](https://github.com/jackaduma/NLP4CyberSecurity) | 87      | 27      | NLP  model and tech  for cyber security tasks | 2025-05-25   |
-| [ISC2-CC-Cybersecurity-Study-Material](https://github.com/NP558565/ISC2-CC-Cybersecurity-Study-Material) | 87      | 41      | My learning, tutorials on Cybersecurity | 2025-08-13   |
 | [CyberKeeb2040](https://github.com/zli117/CyberKeeb2040) | 87      | 5       | Hardware design for a mechanical keyboard based on... | 2025-08-15   |
-| [investigation-templates](https://github.com/oryon-osint/investigation-templates) | 87      | 21      | A collection of markdown templates for structured ... | 2025-09-03   |
 | [ml-cybersecurity](https://github.com/fisher85/ml-cybersecurity) | 86      | 29      | Machine Learning in Cybersecurity | 2025-08-06   |
 | [Cybercrime-Forums](https://github.com/teixeira0xfffff/Cybercrime-Forums) | 86      | 25      | Cybercrime forums for Cyber Threat Intelligence pu... | 2025-08-16   |
 | [cyberdic](https://github.com/BishopFox/cyberdic) | 86      | 16      | An auxiliary spellcheck dictionary that correspond... | 2025-05-06   |
 | [robodroid](https://github.com/cybersecsi/robodroid) | 86      | 4       | Manage (and soon deploy) Android machines with pre... | 2025-08-13   |
 | [launch-kit](https://github.com/cybercongress/launch-kit) | 86      | 14      | An awesome tool-kit for genesis preparation of Cos... | 2025-08-20   |
+| [torrents](https://github.com/swati1024/torrents) | 86      | 0       | Skip to content   Search… All gists Back to GitH... | 2025-09-10   |
 | [cybergym](https://github.com/lucideus-repo/cybergym) | 85      | 14      | Lucideus CyberGym is the internal CTF event we org... | 2025-08-16   |
+| [AI-agents-for-cybersecurity](https://github.com/santosomar/AI-agents-for-cybersecurity) | 85      | 26      | This repository contains resources and materials f... | 2025-09-04   |
 | [hacking-cybersecurity](https://github.com/lawfareblog/hacking-cybersecurity) | 85      | 12      | Hacking & Cybersecurity class materials - Scott J.... | 2025-07-23   |
-| [Cybersecurity-EncryptChatProject](https://github.com/wenjunjiecn/Cybersecurity-EncryptChatProject) | 85      | 16      | 网络安全课程项目-基于TCP的加密通讯�... | 2025-06-19   |
 | [fuzzing-lab](https://github.com/pbrucla/fuzzing-lab) | 85      | 10      | 🐛 UCLA ACM Cyber's Fuzzing Lab | 2025-06-13   |
 | [hack4career](https://github.com/mertsarica/hack4career) | 85      | 29      | Cyber Security Researcher Mert SARICA's Python cod... | 2025-08-31   |
 | [takuan](https://github.com/evilsocket/takuan) | 85      | 7       | Takuan is a system service that parses logs and de... | 2025-06-16   |
 | [Top-100-Hacking-Security-E-Books-Free-Download-2019](https://github.com/0xjashim/Top-100-Hacking-Security-E-Books-Free-Download-2019) | 84      | 45      | Hacking and Cyber Security Ebooks | For More Visit... | 2025-08-27   |
 | [cybersecurity-penetration-testing](https://github.com/paulveillard/cybersecurity-penetration-testing) | 84      | 28      | An ongoing & curated collection of awesome softwar... | 2025-08-19   |
-| [AI-agents-for-cybersecurity](https://github.com/santosomar/AI-agents-for-cybersecurity) | 84      | 26      | This repository contains resources and materials f... | 2025-09-03   |
 | [cybersecurity-portfolio-webpage](https://github.com/Duerme/cybersecurity-portfolio-webpage) | 84      | 20      | No description                  | 2025-05-27   |
+| [Cybersecurity-EncryptChatProject](https://github.com/wenjunjiecn/Cybersecurity-EncryptChatProject) | 84      | 16      | 网络安全课程项目-基于TCP的加密通讯�... | 2025-09-10   |
 | [cybersecurity-bootcamp-shapeai](https://github.com/harshakshit/cybersecurity-bootcamp-shapeai) | 83      | 180     | No description                  | 2025-04-07   |
-| [carreira-em-cyber](https://github.com/vitorluigi/carreira-em-cyber) | 83      | 21      | Repositório para disponibilização de conteúdo ... | 2025-09-03   |
+| [cybersecurity-roadmap](https://github.com/dm-fedorov/cybersecurity-roadmap) | 83      | 19      | Схема карьерных треков в ки | 2025-09-07   |
 | [gym-idsgame](https://github.com/Limmen/gym-idsgame) | 83      | 24      | An Abstract Cyber Security Simulation and Markov G... | 2025-08-29   |
+| [wg-globalcyberpolicy](https://github.com/ossf/wg-globalcyberpolicy) | 82      | 15      | Global Cyber Policy Working Group | 2025-09-05   |
 | [Sunset-Cyberspace](https://github.com/EvanBacon/Sunset-Cyberspace) | 82      | 25      | 🎮👾Retro-runner Game made in Expo, Three.js, ... | 2025-08-07   |
-| [cybersecurity-roadmap](https://github.com/dm-fedorov/cybersecurity-roadmap) | 82      | 19      | Схема карьерных треков в ки | 2025-08-31   |
 | [ShadeWatcher](https://github.com/jun-zeng/ShadeWatcher) | 82      | 14      | SHADEWATCHER: Recommendation-guided Cyber Threat A... | 2025-07-31   |
-| [wg-globalcyberpolicy](https://github.com/ossf/wg-globalcyberpolicy) | 81      | 15      | Global Cyber Policy Working Group | 2025-08-26   |
-| [CyberPatriotScripts](https://github.com/BaiqingL/CyberPatriotScripts) | 80      | 67      | Cyber Patriot scripts for the IX competition. | 2025-05-25   |
-| [vim-cyberpunk](https://github.com/thedenisnikulin/vim-cyberpunk) | 80      | 16      | Cyberpunk colorscheme for VIM. Also includes vim-a... | 2025-06-25   |
+| [CyberPatriotScripts](https://github.com/BaiqingL/CyberPatriotScripts) | 81      | 67      | Cyber Patriot scripts for the IX competition. | 2025-09-05   |
+| [vim-cyberpunk](https://github.com/thedenisnikulin/vim-cyberpunk) | 81      | 16      | Cyberpunk colorscheme for VIM. Also includes vim-a... | 2025-09-08   |
+| [stratocyberlab](https://github.com/stratosphereips/stratocyberlab) | 81      | 26      | Stratosphere Cyber Range to learn cybersecurity at... | 2025-09-08   |
 | [cyobstract](https://github.com/cmu-sei/cyobstract) | 80      | 18      | A tool to extract structured cyber information fro... | 2025-02-04   |
 | [Cyber-Learning-Resources](https://github.com/nickapic/Cyber-Learning-Resources) | 80      | 9       | Some resources to learn about topics in Cyber Secu... | 2025-08-07   |
-| [stratocyberlab](https://github.com/stratosphereips/stratocyberlab) | 80      | 25      | Stratosphere Cyber Range to learn cybersecurity at... | 2025-08-12   |
 | [malware_api_class](https://github.com/ocatak-zz/malware_api_class) | 80      | 23      | Malware dataset for security researchers, data sci... | 2025-08-05   |
-| [torrents](https://github.com/swati1024/torrents) | 80      | 0       | Skip to content   Search… All gists Back to GitH... | 2025-09-02   |
 | [cyberpunk](https://github.com/ImXico/cyberpunk) | 79      | 14      | ⚡️ Power up your libGDX game! | 2025-07-05   |
 | [CAT-Reloaded-Cyber-Security-Cirlcle-Road-Map](https://github.com/0xKourama/CAT-Reloaded-Cyber-Security-Cirlcle-Road-Map) | 79      | 6       | No description                  | 2025-07-25   |
-| [cybersecurity](https://github.com/bin3xish477/cybersecurity) | 78      | 33      | blue team, red team stuff. All things cyber ;) | 2025-06-22   |
+| [EthicalHackingFromScratch](https://github.com/bookworm52/EthicalHackingFromScratch) | 79      | 5       | Welcome to my comprehensive course on python progr... | 2025-09-10   |
+| [cybersecurity](https://github.com/bin3xish477/cybersecurity) | 78      | 32      | blue team, red team stuff. All things cyber ;) | 2025-06-22   |
 | [Data-Mining-for-Cybersecurity](https://github.com/scusec/Data-Mining-for-Cybersecurity) | 78      | 24      | Data Mining for Cybersecurity   | 2025-07-31   |
+| [IoT-Cybersecurity-Compliance](https://github.com/zealience/IoT-Cybersecurity-Compliance) | 78      | 15      | Sharing hEN 18031 (EN 18031) Technical Documentati... | 2025-09-08   |
 | [Cyber-Search-Shortcuts](https://github.com/Neo23x0/Cyber-Search-Shortcuts) | 78      | 6       | Browser Shortcuts for Cyber Security Related Onlin... | 2025-05-25   |
 | [openapi-apps](https://github.com/Shuffle/openapi-apps) | 78      | 108     | Swagger/ OpenAPI specifications for security produ... | 2025-08-26   |
-| [Cyber-AutoAgent](https://github.com/westonbrown/Cyber-AutoAgent) | 77      | 12      | AI cybersecurity agent for automated penetration t... | 2025-09-01   |
+| [Cyber_Security_Interview_Questions](https://github.com/abhinavkakku/Cyber_Security_Interview_Questions) | 77      | 18      | Cyber Security Interview Questions ( and some answ... | 2025-09-04   |
+| [Cyber-AutoAgent](https://github.com/westonbrown/Cyber-AutoAgent) | 77      | 13      | AI cybersecurity agent for automated penetration t... | 2025-09-01   |
+| [Mu_Cyberdeck](https://github.com/BenMakesEverything/Mu_Cyberdeck) | 77      | 5       | Tablet-style cyberdeck with slide-out mechanical k... | 2025-09-04   |
 | [CyberSecurity-Resource](https://github.com/Sourabh-HackerEarth/CyberSecurity-Resource) | 76      | 27      | No description                  | 2025-06-23   |
 | [binutils](https://github.com/CyberGrandChallenge/binutils) | 76      | 36      | GNU Binutils ported to support DARPA Cyber Grand C... | 2025-08-13   |
-| [Cyber_Security_Interview_Questions](https://github.com/abhinavkakku/Cyber_Security_Interview_Questions) | 76      | 18      | Cyber Security Interview Questions ( and some answ... | 2025-08-24   |
 | [EventosCybersec](https://github.com/zero2flag/EventosCybersec) | 76      | 12      | Uma tabela colaborativa e atualizada com eventos d... | 2025-09-02   |
 | [awesome-ai-cybersecurity](https://github.com/ElNiak/awesome-ai-cybersecurity) | 76      | 14      | Welcome to the ultimate list of resources for AI i... | 2025-08-29   |
+| [Autofill_Danger](https://github.com/0dayCTF/Autofill_Danger) | 76      | 5       | Autofill Phishing               | 2025-09-04   |
 | [CyberWorld](https://github.com/kuohsuanlo/CyberWorld) | 75      | 14      | Procedurally generating complicated cyberpunk city... | 2025-06-24   |
 | [UESTC-SCSE-CyberspaceSecurity-StudyMaterials](https://github.com/boyuh/UESTC-SCSE-CyberspaceSecurity-StudyMaterials) | 75      | 11      | 电子科技大学计算机科学与工程学院� | 2025-09-02   |
-| [IoT-Cybersecurity-Compliance](https://github.com/zealience/IoT-Cybersecurity-Compliance) | 75      | 15      | Sharing hEN 18031 (EN 18031) Technical Documentati... | 2025-09-02   |
-| [Autofill_Danger](https://github.com/0dayCTF/Autofill_Danger) | 75      | 5       | Autofill Phishing               | 2025-08-31   |
 | [cybersecurity-performance-goals](https://github.com/cisagov/cybersecurity-performance-goals) | 75      | 6       | CISA's space for collaboration on the Cybersecurit... | 2025-08-07   |
-| [Mu_Cyberdeck](https://github.com/BenMakesEverything/Mu_Cyberdeck) | 75      | 4       | Tablet-style cyberdeck with slide-out mechanical k... | 2025-08-30   |
 | [gravity-sphincs](https://github.com/gravity-postquantum/gravity-sphincs) | 75      | 14      | Signature scheme submitted to NIST's Post-Quantum ... | 2025-05-29   |
-| [EthicalHackingFromScratch](https://github.com/bookworm52/EthicalHackingFromScratch) | 75      | 4       | Welcome to my comprehensive course on python progr... | 2025-08-27   |
-| [kumpulan-code-termuxs-lenkap](https://github.com/zall-4RT/kumpulan-code-termuxs-lenkap) | 75      | 15      | termux KUMPULAN CODE TERMUX LENGKAP   | SPAM CHAT ... | 2025-08-29   |
 | [CyberReverse](https://github.com/cydolo/CyberReverse) | 74      | 35      | reverse engineering &' more     | 2025-07-31   |
 | [CJ2018-Final-CTF](https://github.com/farisv/CJ2018-Final-CTF) | 74      | 20      | Cyber Jawara 2018 Final - Attack & Defense CTF ser... | 2025-08-01   |
 | [cyberpunk-2019](https://github.com/the-frey/cyberpunk-2019) | 74      | 7       | The cyberpunk theme emacs needs, but maybe not the... | 2024-08-15   |
 | [cybersecurity-self-hosted](https://github.com/paulveillard/cybersecurity-self-hosted) | 74      | 5       | A collection of awesome framework, libraries, lear... | 2025-09-01   |
 | [join-cisagov](https://github.com/cisagov/join-cisagov) | 74      | 16      | CISA is hiring! We’re looking for candidates pas... | 2025-08-04   |
+| [kumpulan-code-termuxs-lenkap](https://github.com/zall-4RT/kumpulan-code-termuxs-lenkap) | 74      | 15      | termux KUMPULAN CODE TERMUX LENGKAP   | SPAM CHAT ... | 2025-09-04   |
 | [cyber-matrix-ai](https://github.com/incertum/cyber-matrix-ai) | 73      | 31      | Collection of cyber security and "AI" relevant top... | 2025-08-27   |
-| [Railway_Control-OT-Cyber-Attack](https://github.com/LiuYuancheng/Railway_Control-OT-Cyber-Attack) | 73      | 20      | We want to build a city simulator OT(Operational T... | 2025-09-03   |
+| [Railway_Control-OT-Cyber-Attack](https://github.com/LiuYuancheng/Railway_Control-OT-Cyber-Attack) | 73      | 20      | We want to build a city simulator OT(Operational T... | 2025-09-09   |
 | [Iot-Cyber-Security-with-Machine-Learning-Research-Project](https://github.com/harshilpatel1799/Iot-Cyber-Security-with-Machine-Learning-Research-Project) | 73      | 20      | IoT networks have become an increasingly valuable ... | 2025-07-11   |
+| [Sonar_desktop_app](https://github.com/Sonar-team/Sonar_desktop_app) | 73      | 9       | Captures network traffic app made in Rust. | 2025-09-08   |
 | [mappings-explorer](https://github.com/center-for-threat-informed-defense/mappings-explorer) | 73      | 13      | Mappings Explorer enables cyber defenders to under... | 2025-08-28   |
 | [ExploitProtection](https://github.com/neohiro/ExploitProtection) | 73      | 8       | Windows Exploit Protection Settings (Ultimate) GUI | 2025-09-02   |
+| [CyberSecurityUP](https://github.com/CyberSecurityUP/CyberSecurityUP) | 72      | 19      | No description                  | 2025-09-07   |
+| [CASE](https://github.com/casework/CASE) | 72      | 24      | Cyber-investigation Analysis Standard Expression (... | 2025-09-06   |
 | [cyberfox](https://github.com/InternalError503/cyberfox) | 72      | 14      | cyberfox code repository        | 2025-08-31   |
-| [CyberSecurityUP](https://github.com/CyberSecurityUP/CyberSecurityUP) | 71      | 19      | No description                  | 2025-06-09   |
-| [CASE](https://github.com/casework/CASE) | 71      | 23      | Cyber-investigation Analysis Standard Expression (... | 2025-08-07   |
-| [Security-Reference-Guide](https://github.com/s0cm0nkey/Security-Reference-Guide) | 71      | 27      | All of the Best Links and Resources on Cyber Secur... | 2025-08-20   |
+| [sec-gemini](https://github.com/google/sec-gemini) | 72      | 15      | Sec-Gemini v1 is a cutting-edge AI model designed ... | 2025-09-10   |
+| [DraculaOS](https://github.com/emrekybs/DraculaOS) | 72      | 4       | Dracula OS is a Linux operating system meticulousl... | 2025-09-08   |
+| [Cyberwatch](https://github.com/Casualtek/Cyberwatch) | 71      | 21      | Building a consolidated RSS feed for articles abou... | 2025-09-10   |
+| [Security-Reference-Guide](https://github.com/s0cm0nkey/Security-Reference-Guide) | 71      | 28      | All of the Best Links and Resources on Cyber Secur... | 2025-08-20   |
 | [intro-2-cybersecurity-in-python](https://github.com/shantoroy/intro-2-cybersecurity-in-python) | 71      | 16      | This is a repository containing Python code exampl... | 2025-08-31   |
 | [hack-the-arch](https://github.com/mcpa-stlouis/hack-the-arch) | 71      | 27      | Welcome to HackTheArch!  A free open source scorin... | 2025-05-24   |
 | [CyberSentry](https://github.com/CurtisLu1/CyberSentry) | 70      | 17      | 将 fail2ban 的安装配置、日志清理脚本�... | 2025-08-28   |
-| [Cyberwatch](https://github.com/Casualtek/Cyberwatch) | 70      | 21      | Building a consolidated RSS feed for articles abou... | 2025-09-03   |
-| [Cybersecurity-Interview-Questions](https://github.com/nixonion/Cybersecurity-Interview-Questions) | 70      | 16      | List of questions, answers and random notes for se... | 2025-08-01   |
 | [cyberharem](https://github.com/deepghs/cyberharem) | 70      | 7       | 100% Automated Anime Character Lora Training Pipel... | 2025-08-17   |
 | [CyberSpace-Security-Learning](https://github.com/HackingCost/CyberSpace-Security-Learning) | 70      | 4       | 网络安全学习wiki，包括Web安全、内网� | 2025-07-22   |
 | [cyberspace_map_API](https://github.com/Xc1Ym/cyberspace_map_API) | 70      | 8       | Use Fofa、shodan、zoomeye、360quake to collect ... | 2025-08-29   |
 | [cyber-security-roadmap](https://github.com/boitatech/cyber-security-roadmap) | 70      | 4       | O repositório Cyber Security Roadmap é uma inici... | 2025-08-01   |
-| [DraculaOS](https://github.com/emrekybs/DraculaOS) | 70      | 4       | Dracula OS is a Linux operating system meticulousl... | 2025-09-02   |
+| [CraxsRat-v6.8-Source-LEAK](https://github.com/maxamin/CraxsRat-v6.8-Source-LEAK) | 70      | 34      | CraxsRat is a sophisticated Android remote access ... | 2025-09-10   |
+| [project-cybersyn](https://github.com/mamoniot/project-cybersyn) | 69      | 57      | No description                  | 2025-09-08   |
+| [Cybersecurity-Interview-Questions](https://github.com/nixonion/Cybersecurity-Interview-Questions) | 69      | 16      | List of questions, answers and random notes for se... | 2025-09-05   |
 | [cybertron-ai](https://github.com/lvyufeng/cybertron-ai) | 69      | 11      | mindspore implementation of transformers | 2025-08-07   |
 | [Cyber_Security_Malware_APT_Simulation](https://github.com/BrsDincer/Cyber_Security_Malware_APT_Simulation) | 69      | 16      | All the principles of the AI modular structure tha... | 2025-08-27   |
 | [cp2077-cet-kit](https://github.com/psiberx/cp2077-cet-kit) | 69      | 8       | Set of independent modules and examples to help de... | 2025-08-30   |
@@ -528,22 +533,19 @@ CyberWatchdog is your **FULLY AUTOMATED WEEKLY(THURSDAY) TRACKER** for the top G
 | [Cyber-Security-Roadmap-from-0](https://github.com/ishan-siddiqui/Cyber-Security-Roadmap-from-0) | 68      | 13      | No description                  | 2025-08-09   |
 | [hass-cyberpunk-2077-theme](https://github.com/flejz/hass-cyberpunk-2077-theme) | 68      | 10      | Cyberpunk 2077 GUI inspied Home Assistant theme | 2025-08-21   |
 | [awesome-docker-malware-analysis](https://github.com/silascutler/awesome-docker-malware-analysis) | 68      | 7       | Repository of tools and resources for analyzing Do... | 2025-08-29   |
-| [CraxsRat-v6.8-Source-LEAK](https://github.com/maxamin/CraxsRat-v6.8-Source-LEAK) | 68      | 33      | CraxsRat is a sophisticated Android remote access ... | 2025-09-02   |
-| [project-cybersyn](https://github.com/mamoniot/project-cybersyn) | 67      | 57      | No description                  | 2025-08-30   |
 | [Open_the_cyber_security_door](https://github.com/Biusec/Open_the_cyber_security_door) | 67      | 9       | 打开网络安全之门（网络安全各方向� | 2025-08-27   |
-| [Sonar_desktop_app](https://github.com/Sonar-team/Sonar_desktop_app) | 67      | 9       | Captures network traffic app made in Rust. | 2025-09-02   |
-| [black-friday-cyber-monday-deals](https://github.com/greatfrontend/black-friday-cyber-monday-deals) | 67      | 5       | Black Friday deals for developers – templates, d... | 2025-08-26   |
+| [cyberpunk-css](https://github.com/alddesign/cyberpunk-css) | 67      | 4       | A pure CSS library providing Cyberpunk 2077 themed... | 2025-09-05   |
+| [black-friday-cyber-monday-deals](https://github.com/greatfrontend/black-friday-cyber-monday-deals) | 67      | 5       | Black Friday deals for developers – templates, d... | 2025-09-09   |
 | [CyberSecurity-Tools](https://github.com/king04aman/CyberSecurity-Tools) | 66      | 24      | This repository is aimed to contain all basic tool... | 2025-09-03   |
 | [CyberSecurity_Knowledge_graph](https://github.com/HoloLen/CyberSecurity_Knowledge_graph) | 66      | 22      | Information Security Knowledge Graph  about NVD CA... | 2025-08-25   |
-| [cyberpunk-css](https://github.com/alddesign/cyberpunk-css) | 66      | 4       | A pure CSS library providing Cyberpunk 2077 themed... | 2025-08-18   |
 | [Awesome-ML-Cybersecurity](https://github.com/opensci-hub/Awesome-ML-Cybersecurity) | 65      | 20      | Machine Learning For Cybersecurity. | 2025-07-18   |
 | [cybergear-docs](https://github.com/belovictor/cybergear-docs) | 65      | 6       | A collection of cybergear motor documentation and ... | 2025-07-18   |
-| [sec-gemini](https://github.com/google/sec-gemini) | 65      | 15      | Sec-Gemini v1 is a cutting-edge AI model designed ... | 2025-09-03   |
 | [coronavirus-covid-19-SARS-CoV-2-IoCs](https://github.com/parthdmaniar/coronavirus-covid-19-SARS-CoV-2-IoCs) | 65      | 6       | All the IOC's I have gathered which are used direc... | 2023-04-23   |
 | [KustQueryLanguage_kql](https://github.com/m4nbat/KustQueryLanguage_kql) | 65      | 2       | Cyber Defence related kusto queries for use in Azu... | 2025-05-12   |
 | [discord-cyberpunk2077-theme](https://github.com/PatrykBielanin/discord-cyberpunk2077-theme) | 64      | 121     | Theme for Better Discord inspired by Cyberpunk 207... | 2025-08-21   |
 | [cyberpanel-whmcs](https://github.com/jetchirag/cyberpanel-whmcs) | 64      | 42      | Official Module for CyberPanel to integrate it wit... | 2025-05-18   |
 | [cybersecurity-devsecops](https://github.com/paulveillard/cybersecurity-devsecops) | 64      | 20      | An ongoing & curated collection of awesome softwar... | 2025-08-23   |
+| [cybergym](https://github.com/sunblaze-ucb/cybergym) | 64      | 11      | CyberGym is a large-scale, high-quality cybersecur... | 2025-09-11   |
 | [machine-learning-in-cybersecurity](https://github.com/andrewaeva/machine-learning-in-cybersecurity) | 64      | 20      | A list of cybersecurity projects that use machine ... | 2025-07-16   |
 | [YAWNING-TITAN](https://github.com/dstl/YAWNING-TITAN) | 64      | 20      | YAWNING TITAN is an abstract, graph based cyber-se... | 2025-05-25   |
 | [cybersecurity-forensics](https://github.com/paulveillard/cybersecurity-forensics) | 64      | 11      | A collection of forensics tools, software, librari... | 2025-08-25   |
@@ -552,9 +554,13 @@ CyberWatchdog is your **FULLY AUTOMATED WEEKLY(THURSDAY) TRACKER** for the top G
 | [ghostnet](https://github.com/mach1el/ghostnet) | 64      | 12      | GhostNET script that will help you be safer on the... | 2025-09-01   |
 | [pisdr-cyberdeck](https://github.com/TomMladenov/pisdr-cyberdeck) | 64      | 5       | No description                  | 2025-07-09   |
 | [Standalone-Windows-Server-STIG-Script](https://github.com/simeononsecurity/Standalone-Windows-Server-STIG-Script) | 64      | 13      | Enhance the security and compliance of your standa... | 2025-05-25   |
+| [cybersecurity-certificate-notes](https://github.com/JakeSteam/cybersecurity-certificate-notes) | 63      | 27      | Misc notes from Google's Cybersecurity Professiona... | 2025-09-10   |
 | [cyber_mega_phone_2k](https://github.com/asterisk/cyber_mega_phone_2k) | 63      | 37      | No description                  | 2025-07-14   |
-| [cybersecurity-architecture](https://github.com/paulveillard/cybersecurity-architecture) | 63      | 17      | An ongoing & curated collection of awesome softwar... | 2025-09-03   |
-| [Awesome-Black-Friday-Cyber-Monday-for-Mac-Apps](https://github.com/s1ntoneli/Awesome-Black-Friday-Cyber-Monday-for-Mac-Apps) | 63      | 14      | Awesome deals on Black Friday for Mac Apps | 2025-07-09   |
+| [cybersecurity-architecture](https://github.com/paulveillard/cybersecurity-architecture) | 63      | 18      | An ongoing & curated collection of awesome softwar... | 2025-09-03   |
+| [Awesome-Black-Friday-Cyber-Monday-for-Mac-Apps](https://github.com/s1ntoneli/Awesome-Black-Friday-Cyber-Monday-for-Mac-Apps) | 63      | 13      | Awesome deals on Black Friday for Mac Apps | 2025-07-09   |
+| [awesome-cybersecurity](https://github.com/secnotes/awesome-cybersecurity) | 63      | 5       | A collection of awesome github repositories about ... | 2025-09-08   |
+| [LearnForFREE](https://github.com/Mr6MJT/LearnForFREE) | 63      | 9       | These are some books that will help you in your le... | 2025-09-08   |
+| [Mailer](https://github.com/spider863644/Mailer) | 63      | 12      | The "Mailer" tool is a Python script for conductin... | 2025-09-10   |
 | [TOR-Everything](https://github.com/mytechnotalent/TOR-Everything) | 63      | 17      | Simple FREE guide to set up TOR stealth and persis... | 2025-06-17   |
 | [Zeek-Network-Security-Monitor](https://github.com/mytechnotalent/Zeek-Network-Security-Monitor) | 63      | 9       | A Zeek Network Security Monitor tutorial that will... | 2025-08-20   |
 | [CyberArk-RESTAPI](https://github.com/infamousjoeg/CyberArk-RESTAPI) | 62      | 28      | CyberArk Web Services REST API - Collection backup... | 2025-08-11   |
@@ -562,51 +568,46 @@ CyberWatchdog is your **FULLY AUTOMATED WEEKLY(THURSDAY) TRACKER** for the top G
 | [cyberflex-shell](https://github.com/henryk/cyberflex-shell) | 62      | 14      | A simple smartcard shell with a convenient way to ... | 2025-08-17   |
 | [cyberspace](https://github.com/arkin0x/cyberspace) | 62      | 4       | A decentralized metaverse built on nostr where all... | 2025-09-01   |
 | [awesome-chatgpt-prompts-cybersecurity](https://github.com/sechelper/awesome-chatgpt-prompts-cybersecurity) | 62      | 4       | 网络安全chatgpt指令集，训练chatgpt成为 | 2025-06-20   |
-| [Mailer](https://github.com/spider863644/Mailer) | 62      | 12      | The "Mailer" tool is a Python script for conductin... | 2025-08-19   |
 | [CDMCS](https://github.com/hillar/CDMCS) | 61      | 14      | Cyber Defence Monitoring Course Suite :: Suricata,... | 2024-01-13   |
-| [awesome-cybersecurity](https://github.com/secnotes/awesome-cybersecurity) | 61      | 5       | A collection of awesome github repositories about ... | 2025-08-07   |
-| [LearnForFREE](https://github.com/Mr6MJT/LearnForFREE) | 61      | 8       | These are some books that will help you in your le... | 2025-08-31   |
+| [CyberSentinel-AI](https://github.com/Hxnxe/CyberSentinel-AI) | 61      | 4       | CyberSentinel AI 是一个自动化安全监控与 | 2025-09-10   |
+| [Getting_Started_with_ICS](https://github.com/utilsec/Getting_Started_with_ICS) | 61      | 15      | My eBook with tips on how to get started in indust... | 2025-09-09   |
+| [project-zysec](https://github.com/ZySec-AI/project-zysec) | 61      | 10      | The project serves as a strategic advisory tool, c... | 2025-09-10   |
 | [CyberFastTrack_SP2020](https://github.com/jselliott/CyberFastTrack_SP2020) | 60      | 17      | A collection of writeups and solutions for the Cyb... | 2024-06-07   |
-| [cybersecurity-certificate-notes](https://github.com/JakeSteam/cybersecurity-certificate-notes) | 60      | 26      | Misc notes from Google's Cybersecurity Professiona... | 2025-08-27   |
 | [cyber-security-roadmap](https://github.com/argowang/cyber-security-roadmap) | 60      | 11      | A roadmap for learning cyber-security | 2025-05-25   |
 | [capes](https://github.com/capesstack/capes) | 60      | 12      | Cyber Analytics Platform and Examination System (C... | 2023-09-04   |
 | [cybersecurity-interview-questions](https://github.com/paulveillard/cybersecurity-interview-questions) | 60      | 7       | A collection of awesome framework, libraries, lear... | 2025-07-07   |
 | [PHR-model](https://github.com/JYVSECTEC/PHR-model) | 61      | 8       | Prepare, Hunt, and Respond - Conceptual model agai... | 2025-06-09   |
 | [SocialScraper](https://github.com/Aravindha1234u/SocialScraper) | 60      | 14      | Social Scraper is a python tool meant for Detectio... | 2025-06-26   |
+| [CyberLab_CRT-Royale_Death_To_Pixels_Shader_Preset_Pack](https://github.com/CyberLabSystems/CyberLab_CRT-Royale_Death_To_Pixels_Shader_Preset_Pack) | 60      | 0       | If you ever wished for a CyberLab Death To Pixels ... | 2025-09-04   |
 | [cyber_record](https://github.com/daohu527/cyber_record) | 59      | 18      | cyber_record offline parse tool | 2025-08-08   |
 | [CyberArkTools](https://github.com/jellever/CyberArkTools) | 59      | 9       | Some Python tooling to for example try to decrypt ... | 2025-08-16   |
-| [CyberSentinel-AI](https://github.com/Hxnxe/CyberSentinel-AI) | 59      | 4       | CyberSentinel AI 是一个自动化安全监控与 | 2025-09-03   |
-| [Getting_Started_with_ICS](https://github.com/utilsec/Getting_Started_with_ICS) | 59      | 15      | My eBook with tips on how to get started in indust... | 2025-08-26   |
 | [Davy-Jones-Locker](https://github.com/archanchoudhury/Davy-Jones-Locker) | 59      | 18      | Getting FREE Cyber Security Resources have been a ... | 2025-08-27   |
-| [CyberLab_CRT-Royale_Death_To_Pixels_Shader_Preset_Pack](https://github.com/CyberLabSystems/CyberLab_CRT-Royale_Death_To_Pixels_Shader_Preset_Pack) | 59      | 0       | If you ever wished for a CyberLab Death To Pixels ... | 2025-06-30   |
 | [cybersecurity-macOS](https://github.com/paulveillard/cybersecurity-macOS) | 59      | 1       | A collection of awesome framework, libraries, lear... | 2025-08-03   |
-| [project-zysec](https://github.com/ZySec-AI/project-zysec) | 59      | 10      | The project serves as a strategic advisory tool, c... | 2025-08-30   |
+| [cage-challenge-4](https://github.com/cage-challenge/cage-challenge-4) | 59      | 17      | The TTCP CAGE Challenges are a series of public ch... | 2025-09-10   |
+| [Google-Dorks-for-Cross-site-Scripting-XSS](https://github.com/MrPr0fessor/Google-Dorks-for-Cross-site-Scripting-XSS) | 59      | 4       | Cross-Site Scripting (XSS) injects malicious scrip... | 2025-09-10   |
 | [Cyber-Security-Learning-Resources](https://github.com/dimasma0305/Cyber-Security-Learning-Resources) | 58      | 12      | Material Untuk Belajar Cyber ​​Security. | 2025-08-17   |
 | [hacks](https://github.com/MindPatch/hacks) | 58      | 11      | Build some cyber security tools in Rust :crab: :ro... | 2025-05-25   |
 | [teh-internets](https://github.com/insurgentgames/teh-internets) | 58      | 30      | teh internets - When Memes Attack is a (cyber)spac... | 2025-04-01   |
-| [cage-challenge-4](https://github.com/cage-challenge/cage-challenge-4) | 58      | 17      | The TTCP CAGE Challenges are a series of public ch... | 2025-08-27   |
-| [Google-Dorks-for-Cross-site-Scripting-XSS](https://github.com/MrPr0fessor/Google-Dorks-for-Cross-site-Scripting-XSS) | 58      | 4       | Cross-Site Scripting (XSS) injects malicious scrip... | 2025-09-02   |
-| [cybergym](https://github.com/sunblaze-ucb/cybergym) | 57      | 11      | CyberGym is a large-scale, high-quality cybersecur... | 2025-09-03   |
 | [CyberSecurity_Conferences](https://github.com/MrM8BRH/CyberSecurity_Conferences) | 57      | 5       | List of some cybersecurity conferences  | 2025-08-30   |
 | [cybersecurity-incident-response](https://github.com/paulveillard/cybersecurity-incident-response) | 57      | 11      |  A collection of awesome tools, software, librarie... | 2025-09-02   |
+| [bbMonitor](https://github.com/RealCorebb/bbMonitor) | 57      | 6       | Cyber Retro-style DIY PC Performance Monitor | 2025-09-09   |
 | [Building-a-Cyber-Fortress-SOC-Lab-for-Attack-Defense-Simulation](https://github.com/Danishcx/Building-a-Cyber-Fortress-SOC-Lab-for-Attack-Defense-Simulation) | 57      | 7       | No description                  | 2025-08-01   |
 | [cyber-ontology](https://github.com/daedafusion/cyber-ontology) | 56      | 17      | Cyber Intelligence Ontology     | 2025-03-28   |
 | [cybersource-sdk-php](https://github.com/CyberSource/cybersource-sdk-php) | 56      | 59      | PHP SDK for Cybersource SOAP Toolkit API | 2025-07-23   |
 | [Cyber-Security-Books](https://github.com/manjunath5496/Cyber-Security-Books) | 56      | 34      | "To competently perform rectifying security servic... | 2025-08-11   |
+| [hackergpt](https://github.com/hacker-gpt/hackergpt) | 56      | 9       | HackerGPT Cyber-Security Companion | 2025-09-05   |
 | [cyberpunk2077-input-loader](https://github.com/jackhumbert/cyberpunk2077-input-loader) | 56      | 9       | Loads custom xml input configurations for Cyberpun... | 2025-08-05   |
 | [cybersecurity-infosec](https://github.com/paulveillard/cybersecurity-infosec) | 56      | 13      | An ongoing & curated collection of awesome softwar... | 2025-08-08   |
 | [Interview-Questions](https://github.com/Th3l0newolf/Interview-Questions) | 56      | 12      | Real Cyber Security Interview Questions for Variou... | 2025-07-23   |
-| [bbMonitor](https://github.com/RealCorebb/bbMonitor) | 56      | 6       | Cyber Retro-style DIY PC Performance Monitor | 2025-08-25   |
 | [Cyber_FAQ_Ru](https://github.com/Antropocosmist/Cyber_FAQ_Ru) | 56      | 0       | Перевод на русский язык час... | 2025-08-12   |
+| [honeyagents](https://github.com/mrwadams/honeyagents) | 56      | 9       | HoneyAgents is a PoC demo of an AI-driven system t... | 2025-09-04   |
 | [Hacking](https://github.com/codingliang/Hacking) | 55      | 156     | Study materials for ethical hacking and cyber secu... | 2025-08-22   |
 | [cybersource-sdk-java](https://github.com/CyberSource/cybersource-sdk-java) | 55      | 86      | Java SDK for CyberSource Simple Order API | 2025-08-23   |
 | [CyberWardogLab](https://github.com/Cyb3rWard0g/CyberWardogLab) | 55      | 20      | A few scripts I put together for testing purposes ... | 2025-08-30   |
 | [caret](https://github.com/mitre/caret) | 55      | 30      | CARET - A tool for viewing cyber analytic relation... | 2025-05-18   |
-| [hackergpt](https://github.com/hacker-gpt/hackergpt) | 55      | 8       | HackerGPT Cyber-Security Companion | 2025-08-28   |
 | [cyber-kickstart](https://github.com/BYU-CSA/cyber-kickstart) | 55      | 5       | This holds lesson plans, exercises, tools, scripts... | 2025-07-28   |
 | [cyberdock](https://github.com/RamboRogers/cyberdock) | 55      | 1       | Beautiful Docker Repository with Garbage Collectio... | 2025-08-14   |
 | [Cyber-Dungeon-Quest](https://github.com/damn/Cyber-Dungeon-Quest) | 55      | 0       | RPG game written in Clojure     | 2024-10-08   |
-| [honeyagents](https://github.com/mrwadams/honeyagents) | 55      | 9       | HoneyAgents is a PoC demo of an AI-driven system t... | 2025-08-08   |
 | [Heroku-CyberTOR](https://github.com/shakilofficial0/Heroku-CyberTOR) | 54      | 103     | CyberTor is Updated Version of Telegram Torrent Bo... | 2025-05-24   |
 | [Cyberbot_II](https://github.com/cyberpower678/Cyberbot_II) | 54      | 20      | Repository for Cyberbot II      | 2024-12-09   |
 | [cyberdog_motor_sdk](https://github.com/MiRoboticsLab/cyberdog_motor_sdk) | 54      | 21      | No description                  | 2025-05-31   |
@@ -616,12 +617,15 @@ CyberWatchdog is your **FULLY AUTOMATED WEEKLY(THURSDAY) TRACKER** for the top G
 | [python-sigma](https://github.com/calebstewart/python-sigma) | 54      | 5       | Python API for interacting with sigma rules. | 2025-08-15   |
 | [Categorized-Adversary-TTPs](https://github.com/tropChaud/Categorized-Adversary-TTPs) | 54      | 14      | Merge of two major cyber adversary datasets, MITRE... | 2025-08-24   |
 | [Cybersecurity-StartGuide](https://github.com/ProbiusOfficial/Cybersecurity-StartGuide) | 54      | 1       | 针对0基础新手编写的网络安全入门指� | 2025-08-12   |
+| [CyberSec-Books](https://github.com/0x00ctrl/CyberSec-Books) | 53      | 13      | Some useful books related to Cybersecurity, Linux ... | 2025-09-08   |
 | [CyberRedTeam](https://github.com/CyberRedTeam/CyberRedTeam) | 53      | 12      | 公众号的上使用到的工具 | 2025-02-12   |
 | [DtCyber](https://github.com/kej715/DtCyber) | 53      | 14      | Nostalgic Computing Center fork of DtCyber | 2025-08-24   |
 | [cyberpunk-vue](https://github.com/cyberpunk-ui/cyberpunk-vue) | 53      | 9       |  🛠A Dark Style Component Library for Vue.js | 2025-08-30   |
+| [cipher387](https://github.com/cipher387/cipher387) | 53      | 4       | Cyber Detective Github profile README | 2025-09-10   |
 | [Microsoft-Sentinel-Queries](https://github.com/le0li9ht/Microsoft-Sentinel-Queries) | 53      | 10      | KQL queries for cyber defense and for solving dail... | 2025-07-28   |
 | [Royal_APT](https://github.com/nccgroup/Royal_APT) | 53      | 8       | Royal APT - APT15 - Related Information from NCC G... | 2024-10-08   |
 | [Basic-knowledge-requirements-for-cybersecurity-and-hacking](https://github.com/emadshanab/Basic-knowledge-requirements-for-cybersecurity-and-hacking) | 53      | 10      | Basic knowledge requirements for cybersecurity and... | 2025-08-19   |
+| [PharmaSecure](https://github.com/DhruvBhagadia/PharmaSecure) | 53      | 6       | Final year Project in the field of Cyber-Security | 2025-09-07   |
 | [HaccTheHub](https://github.com/J4FSec/HaccTheHub) | 53      | 5       | Open source self-hosted cyber security learning pl... | 2025-07-20   |
 | [cyberpunk-anime-diffusion](https://github.com/HelixNGC7293/cyberpunk-anime-diffusion) | 53      | 5       | No description                  | 2024-12-29   |
 | [foundation](https://github.com/cybercongress/foundation) | 53      | 7       | for the Great Civilization      | 2025-08-27   |
@@ -629,18 +633,15 @@ CyberWatchdog is your **FULLY AUTOMATED WEEKLY(THURSDAY) TRACKER** for the top G
 | [BTPS-SecPack](https://github.com/OsbornePro/BTPS-SecPack) | 53      | 11      | This repository contains a collection of PowerShel... | 2025-06-07   |
 | [CyberDog_Ctrl](https://github.com/Karlsx/CyberDog_Ctrl) | 52      | 19      | No description                  | 2025-07-18   |
 | [cybersecuritybase.github.io](https://github.com/cybersecuritybase/cybersecuritybase.github.io) | 52      | 26      | Cyber Security Base with F-Secure | 2025-05-25   |
-| [CyberSec-Books](https://github.com/0x00ctrl/CyberSec-Books) | 52      | 13      | Some useful books related to Cybersecurity, Linux ... | 2025-08-27   |
 | [MSc-CyberSecurity-Sapienza](https://github.com/edoardottt/MSc-CyberSecurity-Sapienza) | 52      | 8       | Master of Science in Cybersecurity, Sapienza Unive... | 2025-08-08   |
 | [DSCSTools](https://github.com/SydMontague/DSCSTools) | 52      | 13      | Modding tools for Digimon Story: Cyber Sleuth | 2025-08-27   |
 | [gpt3-and-cybersecurity](https://github.com/sophos/gpt3-and-cybersecurity) | 52      | 15      | GPT-3 use cases for Cybersecurity | 2025-08-22   |
-| [cipher387](https://github.com/cipher387/cipher387) | 52      | 4       | Cyber Detective Github profile README | 2025-08-19   |
 | [APTMalwareNotes](https://github.com/michael-yip/APTMalwareNotes) | 52      | 23      | A repository of open source reports on different m... | 2025-07-08   |
-| [PharmaSecure](https://github.com/DhruvBhagadia/PharmaSecure) | 52      | 6       | Final year Project in the field of Cyber-Security | 2025-07-23   |
-| [OliCyber.IT-Writeups](https://github.com/OliCyberIT/OliCyber.IT-Writeups) | 52      | 6       | Writeups ufficiali delle challenge proposte ad Oli... | 2025-08-25   |
+| [OliCyber.IT-Writeups](https://github.com/OliCyberIT/OliCyber.IT-Writeups) | 52      | 6       | Writeups ufficiali delle challenge proposte ad Oli... | 2025-09-06   |
 | [DevBlackFriday2020](https://github.com/sarthology/DevBlackFriday2020) | 52      | 9       | 🎁 Black Friday and Cyber Monday Deals for Devel... | 2023-10-12   |
 | [CTI-Toolbox](https://github.com/johestephan/CTI-Toolbox) | 51      | 10      | Cyber Threat Intelligence - Toolbox | 2025-02-19   |
 | [Cyber-Security-Essentials](https://github.com/LetsUpgrade/Cyber-Security-Essentials) | 51      | 30      | No description                  | 2025-05-25   |
-| [cyberghostvpn](https://github.com/tmcphee/cyberghostvpn) | 51      | 19      | CyberGhost VPN Client           | 2025-07-01   |
+| [cyberghostvpn](https://github.com/tmcphee/cyberghostvpn) | 51      | 20      | CyberGhost VPN Client           | 2025-07-01   |
 | [OTCAD](https://github.com/SecuraBV/OTCAD) | 51      | 11      | Operational Technology Cyber Attack Database | 2025-09-02   |
 | [AI_CyberSecurity_Resources](https://github.com/XMoyas/AI_CyberSecurity_Resources) | 51      | 6       | 机器学习(Machine learing)、网络安全(Cyber... | 2025-08-28   |
 | [pythonidae-challenge](https://github.com/MII-Cybersec/pythonidae-challenge) | 51      | 16      | Set of Python programming challenge for cyber secu... | 2025-08-31   |
